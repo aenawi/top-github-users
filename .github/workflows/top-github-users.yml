@@ -1,0 +1,20 @@
+name: Top GitHub Users
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Top GitHub Users Action
+        uses: gayanvoice/top-github-users-action@master
+        with:
+          token: ${{ secrets.CUSTOM_TOKEN }}
