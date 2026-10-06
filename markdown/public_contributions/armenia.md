@@ -5,11 +5,13 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg" alt="Armenia">
 </a>
 
-The `public contributions` by users in Armenia on `2026/7/28 2:12 AM UTC`. This list contains users from `Armenia` and cities `Yerevan` `Gyumri` `Vanadzor` `Vagharshapat` `Abovyan `.
+The `public contributions` by users in Armenia on `2026/10/6 6:00 PM UTC`. This list contains users from `Armenia` and cities `Yerevan` `Gyumri` `Vanadzor` `Vagharshapat` `Abovyan `.
 
-There are `138 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `138 countries` and `674 cities` can be found [here](https://github.com/aenawi/top-github-users).
 
 There are `956 users`  in Armenia. You need at least `9 followers` to be on this list.
+
+🏅 Looking for a shareable ranking badge? Visit the [Armenia GitHub user ranking page](https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md) to view the country rankings and copy the ready-made badge snippet for your GitHub profile or README.
 
 <table>
 	<tr>
@@ -25,10 +27,10 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 			<strong>Top Users By Public Contributions</strong>
 		</td>
 		<td>
-			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/armenia.md">Top Users By Total Contributions</a>
+			<a href="https://github.com/aenawi/top-github-users/blob/main/markdown/total_contributions/armenia.md">Top Users By Total Contributions</a>
 		</td>
 		<td>
-			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/armenia.md">Top Users By Followers</a>
+			<a href="https://github.com/aenawi/top-github-users/blob/main/markdown/followers/armenia.md">Top Users By Followers</a>
 		</td>
 	</tr>
 </table>
@@ -38,57 +40,57 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 <table>
 	<tr>
 		<td>
-			<a href="https://web.facebook.com/sharer.php?t=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Armenia&u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/armenia.md&_rdc=1&_rdr">
+			<a href="https://web.facebook.com/sharer.php?t=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Armenia&u=https://github.com/aenawi/top-github-users/blob/main/markdown/public_contributions/armenia.md&_rdc=1&_rdr">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/facebook.svg" height="48" width="48" alt="Facebook"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://www.facebook.com/dialog/send?link=https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/armenia.md&app_id=291494419107518&redirect_uri=https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/armenia.md">
+			<a href="https://www.facebook.com/dialog/send?link=https://github.com/aenawi/top-github-users/blob/main/markdown/public_contributions/armenia.md&app_id=291494419107518&redirect_uri=https://github.com/aenawi/top-github-users/blob/main/markdown/public_contributions/armenia.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/facebook_messenger.svg" height="48" width="48" alt="Facebook Messenger"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://twitter.com/intent/tweet?text=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Armenia&url=https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/armenia.md">
+			<a href="https://twitter.com/intent/tweet?text=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Armenia&url=https://github.com/aenawi/top-github-users/blob/main/markdown/public_contributions/armenia.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/twitter.svg" height="48" width="48" alt="Twitter"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://web.whatsapp.com/send?text=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Armenia https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/armenia.md">
+			<a href="https://web.whatsapp.com/send?text=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Armenia https://github.com/aenawi/top-github-users/blob/main/markdown/public_contributions/armenia.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/whatsapp.svg" height="48" width="48" alt="WhatsApp"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://t.me/share/url?url=https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/armenia.md&text=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Armenia">
+			<a href="https://t.me/share/url?url=https://github.com/aenawi/top-github-users/blob/main/markdown/public_contributions/armenia.md&text=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Armenia">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/telegram.svg" height="48" width="48" alt="Telegram"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://www.linkedin.com/shareArticle?title=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Armenia&url=https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/armenia.md">
+			<a href="https://www.linkedin.com/shareArticle?title=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Armenia&url=https://github.com/aenawi/top-github-users/blob/main/markdown/public_contributions/armenia.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/linkedin.svg" height="48" width="48" alt="LinkedIn"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://vk.com/share.php?url=https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/armenia.md">
+			<a href="https://vk.com/share.php?url=https://github.com/aenawi/top-github-users/blob/main/markdown/public_contributions/armenia.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/vkontakte.svg" height="48" width="48" alt="Vkontakte"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://www.blogger.com/blog-this.g?n=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions%20by%20country&t=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Armenia&u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/armenia.md">
+			<a href="https://www.blogger.com/blog-this.g?n=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions%20by%20country&t=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Armenia&u=https://github.com/aenawi/top-github-users/blob/main/markdown/public_contributions/armenia.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/blogger.svg" height="48" width="48" alt="Blogger"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/armenia.md&t=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Armenia&s=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions%20by%20country&i=">
+			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/aenawi/top-github-users/blob/main/markdown/public_contributions/armenia.md&t=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Armenia&s=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions%20by%20country&i=">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/wordpress.svg" height="48" width="48" alt="Wordpress"/>
 			</a>
 		</td>
 		<td>
-			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Armenia&body=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions%20by%20country-https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/armenia.md">
+			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Armenia&body=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions%20by%20country-https://github.com/aenawi/top-github-users/blob/main/markdown/public_contributions/armenia.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/gmail.svg" height="48" width="48" alt="Email"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://www.reddit.com/submit?title=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Armenia&url=https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/armenia.md">
+			<a href="https://www.reddit.com/submit?title=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Armenia&url=https://github.com/aenawi/top-github-users/blob/main/markdown/public_contributions/armenia.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/reddit.svg" height="48" width="48" alt="Reddit"/>
 			</a>
 		</td>
@@ -109,7 +111,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/prazian">
 				<img src="https://avatars.githubusercontent.com/u/10402655?s=72&u=1084f4b92aae7229c0d9d273d0259088b88db726&v=4" width="24" alt="Avatar of prazian"> prazian
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#prazian">Copy rank badge</a><br/>
 			Pooyan Razian
 		</td>
 		<td>Yanovian Llc </td>
@@ -122,7 +124,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/wKich">
 				<img src="https://avatars.githubusercontent.com/u/6397708?s=72&u=5aec5525a79ceb0e5aa0bf4a70f8f427d200099b&v=4" width="24" alt="Avatar of wKich"> wKich
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#wKich">Copy rank badge</a><br/>
 			Dmitriy Lazarev
 		</td>
 		<td>@thefrontside </td>
@@ -135,7 +137,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/i582">
 				<img src="https://avatars.githubusercontent.com/u/51853996?s=72&u=ed2c26ae94a6ed35fcdf782dd4e5add85b88b944&v=4" width="24" alt="Avatar of i582"> i582
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#i582">Copy rank badge</a><br/>
 			Petr Makhnev
 		</td>
 		<td>Ton Core </td>
@@ -148,7 +150,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/VaheSaroyan">
 				<img src="https://avatars.githubusercontent.com/u/33878690?s=72&u=0a90406c705f18e122528e39fa0d40e5a38d0784&v=4" width="24" alt="Avatar of VaheSaroyan"> VaheSaroyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#VaheSaroyan">Copy rank badge</a><br/>
 			Vahe Saroyan
 		</td>
 		<td>Freedx </td>
@@ -161,7 +163,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/ashvardanian">
 				<img src="https://avatars.githubusercontent.com/u/1983160?s=72&u=98f7ec22a660dc67857c2129efccaa642af242e7&v=4" width="24" alt="Avatar of ashvardanian"> ashvardanian
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#ashvardanian">Copy rank badge</a><br/>
 			Ash Vardanian
 		</td>
 		<td>Bdfl @ Unum </td>
@@ -174,7 +176,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/disafronov">
 				<img src="https://avatars.githubusercontent.com/u/853283?s=72&u=6ff406a4fe78b976b3cbbbea089f4196d0ae0a96&v=4" width="24" alt="Avatar of disafronov"> disafronov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#disafronov">Copy rank badge</a><br/>
 			Dmitrii Safronov
 		</td>
 		<td>No Company</td>
@@ -187,7 +189,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/ManukMinasyan">
 				<img src="https://avatars.githubusercontent.com/u/2556185?s=72&u=dc9d3f1bb4b6288fc74ab6cf37797001d284de66&v=4" width="24" alt="Avatar of ManukMinasyan"> ManukMinasyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#ManukMinasyan">Copy rank badge</a><br/>
 			Manuk
 		</td>
 		<td>@relaticle </td>
@@ -200,7 +202,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/anatoly-scherbakov">
 				<img src="https://avatars.githubusercontent.com/u/2282888?s=72&u=e84d4007926405dc8975daa21c9c9f11dbfd1dab&v=4" width="24" alt="Avatar of anatoly-scherbakov"> anatoly-scherbakov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#anatoly-scherbakov">Copy rank badge</a><br/>
 			Anatoly Scherbakov
 		</td>
 		<td>@datafold  </td>
@@ -213,7 +215,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/m0n0x41d">
 				<img src="https://avatars.githubusercontent.com/u/78234165?s=72&u=a9925eb40065abc3aac2fb6dcb304beabd585433&v=4" width="24" alt="Avatar of m0n0x41d"> m0n0x41d
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#m0n0x41d">Copy rank badge</a><br/>
 			ivan zakutni
 		</td>
 		<td>Fusioncat </td>
@@ -226,7 +228,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/vvmspace">
 				<img src="https://avatars.githubusercontent.com/u/21310372?s=72&u=8bfd6ab9d02d895af6f6ccebb5aa16bcf91faafb&v=4" width="24" alt="Avatar of vvmspace"> vvmspace
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#vvmspace">Copy rank badge</a><br/>
 			Vladimir V. M.
 		</td>
 		<td>Solving Llc </td>
@@ -239,7 +241,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/asiryan">
 				<img src="https://avatars.githubusercontent.com/u/50625308?s=72&u=0fd0671df6224599c9f5da31408cbae7cfd40120&v=4" width="24" alt="Avatar of asiryan"> asiryan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#asiryan">Copy rank badge</a><br/>
 			Valery Asiryan
 		</td>
 		<td>No Company</td>
@@ -252,7 +254,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/esceptico">
 				<img src="https://avatars.githubusercontent.com/u/18726834?s=72&u=1068b13e85f0eb5eac3ad433f9cc5d8d33b8e977&v=4" width="24" alt="Avatar of esceptico"> esceptico
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#esceptico">Copy rank badge</a><br/>
 			Tim Ganiev
 		</td>
 		<td>No Company</td>
@@ -265,7 +267,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/projkov">
 				<img src="https://avatars.githubusercontent.com/u/4172228?s=72&u=defe8a0b255acc7f8236d1ca1b899c42654fa499&v=4" width="24" alt="Avatar of projkov"> projkov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#projkov">Copy rank badge</a><br/>
 			Pavel Rozhkov
 		</td>
 		<td>@beda-software </td>
@@ -278,7 +280,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/armanist">
 				<img src="https://avatars.githubusercontent.com/u/407448?s=72&u=bd87c5f0d2aea53003c33a10530e5eaa21d54bbb&v=4" width="24" alt="Avatar of armanist"> armanist
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#armanist">Copy rank badge</a><br/>
 			ArmaX
 		</td>
 		<td>No Company</td>
@@ -291,7 +293,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/w33bvGL">
 				<img src="https://avatars.githubusercontent.com/u/226748328?s=72&u=7e8d989772ce945c79cfacfc2c363e204b0e0cd1&v=4" width="24" alt="Avatar of w33bvGL"> w33bvGL
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#w33bvGL">Copy rank badge</a><br/>
 			Vahe Sargsyan
 		</td>
 		<td>@anidzen-labs @momo-framework </td>
@@ -304,7 +306,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/StanislavMayorov">
 				<img src="https://avatars.githubusercontent.com/u/11670429?s=72&u=349d861e38ff3c45c8de155088ed01105acae34d&v=4" width="24" alt="Avatar of StanislavMayorov"> StanislavMayorov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#StanislavMayorov">Copy rank badge</a><br/>
 			Stanislav Mayorov
 		</td>
 		<td>Adapty </td>
@@ -317,7 +319,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/ArsenTech">
 				<img src="https://avatars.githubusercontent.com/u/62609185?s=72&u=9d05d7f2c0e17d5560dcf846568a8cfe46bb0f7e&v=4" width="24" alt="Avatar of ArsenTech"> ArsenTech
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#ArsenTech">Copy rank badge</a><br/>
 			ArsenTech
 		</td>
 		<td>No Company</td>
@@ -330,7 +332,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/mfvanek">
 				<img src="https://avatars.githubusercontent.com/u/37612014?s=72&u=5ab2ae06d79373b5afd594a496ae6cd1f129adc5&v=4" width="24" alt="Avatar of mfvanek"> mfvanek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#mfvanek">Copy rank badge</a><br/>
 			Ivan Vakhrushev
 		</td>
 		<td>No Company</td>
@@ -343,7 +345,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/MajidMohammadian">
 				<img src="https://avatars.githubusercontent.com/u/2099965?s=72&u=3c34736db14ed79a9a764f7c9f95af66f03ce3c6&v=4" width="24" alt="Avatar of MajidMohammadian"> MajidMohammadian
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#MajidMohammadian">Copy rank badge</a><br/>
 			Majid Mohammadian
 		</td>
 		<td>Job Metric </td>
@@ -356,7 +358,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/artialex">
 				<img src="https://avatars.githubusercontent.com/u/10360247?s=72&u=e15254b4cfa621f03f05c3231b95258e7bca5025&v=4" width="24" alt="Avatar of artialex"> artialex
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#artialex">Copy rank badge</a><br/>
 			Alexey Selivanov
 		</td>
 		<td>No Company</td>
@@ -369,7 +371,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/svyatov">
 				<img src="https://avatars.githubusercontent.com/u/310043?s=72&u=cb3e4942e1a115e2572019de82b9f340ac414e8c&v=4" width="24" alt="Avatar of svyatov"> svyatov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#svyatov">Copy rank badge</a><br/>
 			Leonid Svyatov
 		</td>
 		<td>No Company</td>
@@ -382,7 +384,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/igrishaev">
 				<img src="https://avatars.githubusercontent.com/u/1059232?s=72&u=0305abf352424ac7ed4c44bb6d4854da2a050284&v=4" width="24" alt="Avatar of igrishaev"> igrishaev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#igrishaev">Copy rank badge</a><br/>
 			Ivan Grishaev
 		</td>
 		<td>Vast Fintech </td>
@@ -395,7 +397,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/OV111">
 				<img src="https://avatars.githubusercontent.com/u/115527223?s=72&u=49b4e3135651605e2c0bcb1223c6d8b61c3ba8be&v=4" width="24" alt="Avatar of OV111"> OV111
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#OV111">Copy rank badge</a><br/>
 			Vahe Ohanyan
 		</td>
 		<td>No Company</td>
@@ -408,7 +410,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/umonkey">
 				<img src="https://avatars.githubusercontent.com/u/16797?s=72&u=003302a437d60a06c1cb1299d6c69d81e5433b4a&v=4" width="24" alt="Avatar of umonkey"> umonkey
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#umonkey">Copy rank badge</a><br/>
 			Justin Forest
 		</td>
 		<td>Self-employed </td>
@@ -421,7 +423,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/donbarbos">
 				<img src="https://avatars.githubusercontent.com/u/47272787?s=72&u=36477ac6e3201363227b586203419ed7458d13c4&v=4" width="24" alt="Avatar of donbarbos"> donbarbos
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#donbarbos">Copy rank badge</a><br/>
 			Semyon Moroz
 		</td>
 		<td>No Company</td>
@@ -434,7 +436,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Areg472">
 				<img src="https://avatars.githubusercontent.com/u/74340447?s=72&u=c68a7b78daf95c6768dab45a11d952a65dd07d96&v=4" width="24" alt="Avatar of Areg472"> Areg472
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Areg472">Copy rank badge</a><br/>
 			Areg Azatyan
 		</td>
 		<td>School(legit Company Fr Fr)<br/></td>
@@ -447,7 +449,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/noptrix">
 				<img src="https://avatars.githubusercontent.com/u/1063015?s=72&u=731201077ead32191ffb24e30ab542b1013d6cae&v=4" width="24" alt="Avatar of noptrix"> noptrix
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#noptrix">Copy rank badge</a><br/>
 			noptrix
 		</td>
 		<td>Nullsecurity, Nullsecurity Labs, Blackarch<br/>Linux<br/></td>
@@ -460,7 +462,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/mrprogrammingx">
 				<img src="https://avatars.githubusercontent.com/u/57209067?s=72&u=aabae65245fbc448f4dce97f2aa8c68e27a279b3&v=4" width="24" alt="Avatar of mrprogrammingx"> mrprogrammingx
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#mrprogrammingx">Copy rank badge</a><br/>
 			Amir
 		</td>
 		<td>No Company</td>
@@ -473,7 +475,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/hurricup">
 				<img src="https://avatars.githubusercontent.com/u/2811330?s=72&v=4" width="24" alt="Avatar of hurricup"> hurricup
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#hurricup">Copy rank badge</a><br/>
 			Alexandr Evstigneev
 		</td>
 		<td>@jetbrains  </td>
@@ -486,7 +488,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/CamiloCuenca">
 				<img src="https://avatars.githubusercontent.com/u/88161476?s=72&u=ddf5be48e6ffbe1198659be98a8960caf61d2a41&v=4" width="24" alt="Avatar of CamiloCuenca"> CamiloCuenca
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#CamiloCuenca">Copy rank badge</a><br/>
 			Juan Camilo Cuenca Sepulveda
 		</td>
 		<td>No Company</td>
@@ -499,7 +501,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/diegnghtmr">
 				<img src="https://avatars.githubusercontent.com/u/124117944?s=72&u=a93ac05ac2a7c5c9bb05ac3cde222c44dc70a320&v=4" width="24" alt="Avatar of diegnghtmr"> diegnghtmr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#diegnghtmr">Copy rank badge</a><br/>
 			Diego Alejandro Flores Quintero
 		</td>
 		<td>Universidad Del Quindío </td>
@@ -512,7 +514,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/vadim-su">
 				<img src="https://avatars.githubusercontent.com/u/1702003?s=72&v=4" width="24" alt="Avatar of vadim-su"> vadim-su
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#vadim-su">Copy rank badge</a><br/>
 			Vadim Suharnikov
 		</td>
 		<td>No Company</td>
@@ -525,7 +527,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/ArtMin96">
 				<img src="https://avatars.githubusercontent.com/u/29732308?s=72&u=476de72ef6956a8ee19addc68207b22beae19c76&v=4" width="24" alt="Avatar of ArtMin96"> ArtMin96
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#ArtMin96">Copy rank badge</a><br/>
 			Arthur Minasyan
 		</td>
 		<td>No Company</td>
@@ -538,7 +540,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/ArtyomVancyan">
 				<img src="https://avatars.githubusercontent.com/u/44609997?s=72&v=4" width="24" alt="Avatar of ArtyomVancyan"> ArtyomVancyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#ArtyomVancyan">Copy rank badge</a><br/>
 			Artyom Vancyan
 		</td>
 		<td>No Company</td>
@@ -551,7 +553,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/ukorvl">
 				<img src="https://avatars.githubusercontent.com/u/71327746?s=72&u=d3f6479cc924b665c6ee9ec716f4a98e315adfb3&v=4" width="24" alt="Avatar of ukorvl"> ukorvl
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#ukorvl">Copy rank badge</a><br/>
 			Yuriy Korotovskikh
 		</td>
 		<td>No Company</td>
@@ -564,7 +566,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/karpetrosyan">
 				<img src="https://avatars.githubusercontent.com/u/92274156?s=72&u=90f5f93f830ee06afee53b606ec36c927afa4cb0&v=4" width="24" alt="Avatar of karpetrosyan"> karpetrosyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#karpetrosyan">Copy rank badge</a><br/>
 			Kar Petrosyan
 		</td>
 		<td>No Company</td>
@@ -577,7 +579,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Narek13">
 				<img src="https://avatars.githubusercontent.com/u/11319597?s=72&u=1de3aa244bd6c0b497cd3332994700e9338f9b64&v=4" width="24" alt="Avatar of Narek13"> Narek13
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Narek13">Copy rank badge</a><br/>
 			Narek Zakarian
 		</td>
 		<td>@inpsyde  </td>
@@ -590,7 +592,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Jmendezzz">
 				<img src="https://avatars.githubusercontent.com/u/102968010?s=72&u=eb2f7b316396ae674e4c932db32b061fa34bfd06&v=4" width="24" alt="Avatar of Jmendezzz"> Jmendezzz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Jmendezzz">Copy rank badge</a><br/>
 			Juan Gerardo Méndez López
 		</td>
 		<td>No Company</td>
@@ -603,7 +605,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/DavidBalishyan">
 				<img src="https://avatars.githubusercontent.com/u/128315366?s=72&u=374356fb022cd0d2d430604ed11ada0408b1ac99&v=4" width="24" alt="Avatar of DavidBalishyan"> DavidBalishyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#DavidBalishyan">Copy rank badge</a><br/>
 			Dávid Bálishyán
 		</td>
 		<td>Student At Tumo Center<br/>Of<br/>Creative<br/>Technologies,<br/>Creator<br/>Of<br/>@betterfetch<br/>And<br/>More...<br/></td>
@@ -616,7 +618,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/splav">
 				<img src="https://avatars.githubusercontent.com/u/182050?s=72&u=b99fe6b6ae0cf27fbe86a57e3f7872486fe36c41&v=4" width="24" alt="Avatar of splav"> splav
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#splav">Copy rank badge</a><br/>
 			Aleksandrov Sergey
 		</td>
 		<td>No Company</td>
@@ -629,7 +631,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/dmitry-kurmanov">
 				<img src="https://avatars.githubusercontent.com/u/22315929?s=72&u=866fdd227ab59e6a47fad5b2fbada18b0db1c0f1&v=4" width="24" alt="Avatar of dmitry-kurmanov"> dmitry-kurmanov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#dmitry-kurmanov">Copy rank badge</a><br/>
 			Dmitry Kurmanov
 		</td>
 		<td>Surveyjs.io </td>
@@ -642,7 +644,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/kitsunoff">
 				<img src="https://avatars.githubusercontent.com/u/58953114?s=72&u=93fffa05328ce7dabfefa5e19b8196770790e0aa&v=4" width="24" alt="Avatar of kitsunoff"> kitsunoff
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#kitsunoff">Copy rank badge</a><br/>
 			Maxim Kitsunoff
 		</td>
 		<td>@aenix-io </td>
@@ -655,7 +657,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/brnikita">
 				<img src="https://avatars.githubusercontent.com/u/761219?s=72&u=6364e380cc35c42d46100c1a9ba9e2af09b8fdbd&v=4" width="24" alt="Avatar of brnikita"> brnikita
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#brnikita">Copy rank badge</a><br/>
 			Nikita Bragin
 		</td>
 		<td>No Company</td>
@@ -668,7 +670,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/TepMex">
 				<img src="https://avatars.githubusercontent.com/u/1794037?s=72&u=f3bc1d555d4099a82ff61ca74a300f96e1e5f75f&v=4" width="24" alt="Avatar of TepMex"> TepMex
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#TepMex">Copy rank badge</a><br/>
 			Mikhail Semikolenov
 		</td>
 		<td>Pre-ipo Biotech Company </td>
@@ -681,7 +683,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/InnaTarasyan">
 				<img src="https://avatars.githubusercontent.com/u/8069064?s=72&u=dcb2a824f793d0b399c6baa82e59d95cfc1e4815&v=4" width="24" alt="Avatar of InnaTarasyan"> InnaTarasyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#InnaTarasyan">Copy rank badge</a><br/>
 			Inna Tarasyan
 		</td>
 		<td>Https://primedoctors </td>
@@ -694,7 +696,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/lanycrost">
 				<img src="https://avatars.githubusercontent.com/u/13656104?s=72&u=69a564f67484115a617247b69acb86673c71332e&v=4" width="24" alt="Avatar of lanycrost"> lanycrost
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#lanycrost">Copy rank badge</a><br/>
 			Khachatur Ashotyan
 		</td>
 		<td>Krisp </td>
@@ -707,7 +709,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/vardan444">
 				<img src="https://avatars.githubusercontent.com/u/119045624?s=72&u=e2497dd3554f2e025d5ef179e6ad8310c06fccbe&v=4" width="24" alt="Avatar of vardan444"> vardan444
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#vardan444">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -720,7 +722,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/maloyan">
 				<img src="https://avatars.githubusercontent.com/u/27706632?s=72&u=156e4350db766709d764869dd2678d1d4b7b415a&v=4" width="24" alt="Avatar of maloyan"> maloyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#maloyan">Copy rank badge</a><br/>
 			Narek Maloyan
 		</td>
 		<td>No Company</td>
@@ -733,7 +735,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/shokdot">
 				<img src="https://avatars.githubusercontent.com/u/44678813?s=72&u=3d822c8bfc4cddcc74ecee843a520eeae92a3993&v=4" width="24" alt="Avatar of shokdot"> shokdot
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#shokdot">Copy rank badge</a><br/>
 			Henry Aleksanian
 		</td>
 		<td>No Company</td>
@@ -746,7 +748,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/MaryWylde">
 				<img src="https://avatars.githubusercontent.com/u/58592357?s=72&u=8f705994f1a4cba430726f718c3c1a3d5e824eeb&v=4" width="24" alt="Avatar of MaryWylde"> MaryWylde
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#MaryWylde">Copy rank badge</a><br/>
 			Mary Khachatryan
 		</td>
 		<td>Uxcore.io </td>
@@ -759,7 +761,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/norayr">
 				<img src="https://avatars.githubusercontent.com/u/11881650?s=72&v=4" width="24" alt="Avatar of norayr"> norayr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#norayr">Copy rank badge</a><br/>
 			Norayr Chilingarian
 		</td>
 		<td>@vishapoberon </td>
@@ -772,7 +774,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Dronnn">
 				<img src="https://avatars.githubusercontent.com/u/1688334?s=72&u=421f0bf52f18bb371ccc4811e194b8941f30999b&v=4" width="24" alt="Avatar of Dronnn"> Dronnn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Dronnn">Copy rank badge</a><br/>
 			andrei maier
 		</td>
 		<td>Cocoonweaver.com </td>
@@ -785,7 +787,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Ashod">
 				<img src="https://avatars.githubusercontent.com/u/746119?s=72&v=4" width="24" alt="Avatar of Ashod"> Ashod
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Ashod">Copy rank badge</a><br/>
 			Ashod Nakashian
 		</td>
 		<td>No Company</td>
@@ -798,7 +800,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/lobotomoe">
 				<img src="https://avatars.githubusercontent.com/u/24254622?s=72&u=38538310ccb09f51eb6c94be2e6bcd2524a34a19&v=4" width="24" alt="Avatar of lobotomoe"> lobotomoe
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#lobotomoe">Copy rank badge</a><br/>
 			Alex Kraiz
 		</td>
 		<td>@foilhats </td>
@@ -811,7 +813,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/gutnikov">
 				<img src="https://avatars.githubusercontent.com/u/591657?s=72&u=e964890a0d44699743c5e8bb36af955096c35053&v=4" width="24" alt="Avatar of gutnikov"> gutnikov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#gutnikov">Copy rank badge</a><br/>
 			Alex
 		</td>
 		<td>No Company</td>
@@ -824,7 +826,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/GasparVardanyan">
 				<img src="https://avatars.githubusercontent.com/u/40148969?s=72&u=a32d3d7a6de60113f12f26e819258f21dc4ed239&v=4" width="24" alt="Avatar of GasparVardanyan"> GasparVardanyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#GasparVardanyan">Copy rank badge</a><br/>
 			Gaspar Vardanyan
 		</td>
 		<td>No Company</td>
@@ -837,7 +839,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/isnifer">
 				<img src="https://avatars.githubusercontent.com/u/1788245?s=72&u=e37fb846539d7ca9db3e1c4ded91e67aa0f7154a&v=4" width="24" alt="Avatar of isnifer"> isnifer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#isnifer">Copy rank badge</a><br/>
 			Anton Kuznetsov
 		</td>
 		<td>Earth </td>
@@ -850,7 +852,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/hgenru">
 				<img src="https://avatars.githubusercontent.com/u/2411525?s=72&v=4" width="24" alt="Avatar of hgenru"> hgenru
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#hgenru">Copy rank badge</a><br/>
 			Alexander Plesovskikh
 		</td>
 		<td>No Company</td>
@@ -863,7 +865,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/gevorgmansuryan">
 				<img src="https://avatars.githubusercontent.com/u/11891855?s=72&u=42b3c7c5c676ef6c04ec35d3ae44dcfffdb07b1f&v=4" width="24" alt="Avatar of gevorgmansuryan"> gevorgmansuryan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#gevorgmansuryan">Copy rank badge</a><br/>
 			Gevorg Mansuryan
 		</td>
 		<td>@humhub  </td>
@@ -876,7 +878,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/nerdyslacker">
 				<img src="https://avatars.githubusercontent.com/u/31778860?s=72&u=771f2d9ed5b221df27b7471d3dd22250cf67ef36&v=4" width="24" alt="Avatar of nerdyslacker"> nerdyslacker
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#nerdyslacker">Copy rank badge</a><br/>
 			Karen
 		</td>
 		<td>@topsoftsolutions </td>
@@ -889,7 +891,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/meanmail">
 				<img src="https://avatars.githubusercontent.com/u/10301297?s=72&u=5435f56b87b57881434107f4cc9945aad4fb25d4&v=4" width="24" alt="Avatar of meanmail"> meanmail
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#meanmail">Copy rank badge</a><br/>
 			Alexander Petrov
 		</td>
 		<td>Meanmail.dev </td>
@@ -902,7 +904,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/ivbeg">
 				<img src="https://avatars.githubusercontent.com/u/203209?s=72&u=987bde477cb9a3cdd683a2df2010f70b4097a6bc&v=4" width="24" alt="Avatar of ivbeg"> ivbeg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#ivbeg">Copy rank badge</a><br/>
 			Ivan Begtin
 		</td>
 		<td>Apicrafter, Ngo "informational Culture"<br/>@infoculture<br/>,<br/><br/>Open<br/>Data<br/>Armenia,<br/>Okfn<br/>Russia<br/></td>
@@ -915,7 +917,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/mz0">
 				<img src="https://avatars.githubusercontent.com/u/3733047?s=72&u=601e5498a97ef4377f9d05a6014c243732d49be3&v=4" width="24" alt="Avatar of mz0"> mz0
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#mz0">Copy rank badge</a><br/>
 			Mark Zhitomirski
 		</td>
 		<td>@bemigot </td>
@@ -928,7 +930,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/AlekSi">
 				<img src="https://avatars.githubusercontent.com/u/11512?s=72&v=4" width="24" alt="Avatar of AlekSi"> AlekSi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#AlekSi">Copy rank badge</a><br/>
 			Alexey Palazhchenko
 		</td>
 		<td>No Company</td>
@@ -941,7 +943,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/smirnoffmg">
 				<img src="https://avatars.githubusercontent.com/u/1089507?s=72&u=3eb214f362b0e4cf0166188bef22c363f3b1f9d7&v=4" width="24" alt="Avatar of smirnoffmg"> smirnoffmg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#smirnoffmg">Copy rank badge</a><br/>
 			Maksim Smirnov
 		</td>
 		<td>No Company</td>
@@ -954,7 +956,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/vsdudakov">
 				<img src="https://avatars.githubusercontent.com/u/1876709?s=72&u=f76b3718775d35da85fa5b5258694763608a5849&v=4" width="24" alt="Avatar of vsdudakov"> vsdudakov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#vsdudakov">Copy rank badge</a><br/>
 			Seva D
 		</td>
 		<td>No Company</td>
@@ -967,7 +969,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/netsvetoch">
 				<img src="https://avatars.githubusercontent.com/u/55246906?s=72&u=84ae184566d51768c7fca0baf3bc2e4521e85cb2&v=4" width="24" alt="Avatar of netsvetoch"> netsvetoch
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#netsvetoch">Copy rank badge</a><br/>
 			Artem Netsvetaev
 		</td>
 		<td>No Company</td>
@@ -980,7 +982,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/mfilippov">
 				<img src="https://avatars.githubusercontent.com/u/927432?s=72&u=1a143d78a0d47637e6d482691b803f2551c610d4&v=4" width="24" alt="Avatar of mfilippov"> mfilippov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#mfilippov">Copy rank badge</a><br/>
 			Mikhail Filippov
 		</td>
 		<td>Jetbrains </td>
@@ -993,7 +995,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/GorSharoyan">
 				<img src="https://avatars.githubusercontent.com/u/60357097?s=72&u=c5a2e4c9cb3b5de8058846c3561ca1bb8746ae9a&v=4" width="24" alt="Avatar of GorSharoyan"> GorSharoyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#GorSharoyan">Copy rank badge</a><br/>
 			Gor Sharoyan
 		</td>
 		<td>Bi-line </td>
@@ -1006,7 +1008,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/MurzNN">
 				<img src="https://avatars.githubusercontent.com/u/336662?s=72&v=4" width="24" alt="Avatar of MurzNN"> MurzNN
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#MurzNN">Copy rank badge</a><br/>
 			Alexey Murz Korepov
 		</td>
 		<td>Epam, Lead Software Engineer<br/></td>
@@ -1019,7 +1021,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/TigranYavroyan">
 				<img src="https://avatars.githubusercontent.com/u/138207789?s=72&u=1d9f23f0684ed1615df3dfe25420663664075921&v=4" width="24" alt="Avatar of TigranYavroyan"> TigranYavroyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#TigranYavroyan">Copy rank badge</a><br/>
 			Tigran Yavroyan
 		</td>
 		<td>@42school </td>
@@ -1032,7 +1034,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/jaimediaz817">
 				<img src="https://avatars.githubusercontent.com/u/32467862?s=72&u=928da5ee501be0bc02e8c03ffabb1dedaa1b3927&v=4" width="24" alt="Avatar of jaimediaz817"> jaimediaz817
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#jaimediaz817">Copy rank badge</a><br/>
 			Jaime Diaz
 		</td>
 		<td>Trilogic.  </td>
@@ -1045,7 +1047,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/polomodov">
 				<img src="https://avatars.githubusercontent.com/u/6575406?s=72&u=66b340dda2b5c0423e833e013dd2eacad3832f9f&v=4" width="24" alt="Avatar of polomodov"> polomodov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#polomodov">Copy rank badge</a><br/>
 			Alexander Polomodov
 		</td>
 		<td>No Company</td>
@@ -1058,7 +1060,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/reza-gholizade">
 				<img src="https://avatars.githubusercontent.com/u/30249140?s=72&u=8d4e764ce3407c53adf8471a26b840d53c743e4c&v=4" width="24" alt="Avatar of reza-gholizade"> reza-gholizade
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#reza-gholizade">Copy rank badge</a><br/>
 			Reza Gholizade
 		</td>
 		<td>Pharmabits </td>
@@ -1071,7 +1073,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/sadoyan">
 				<img src="https://avatars.githubusercontent.com/u/1101716?s=72&u=e26bce8ddcb069e1f1a5ed62a53a164176233aff&v=4" width="24" alt="Avatar of sadoyan"> sadoyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#sadoyan">Copy rank badge</a><br/>
 			Ara Sadoyan
 		</td>
 		<td>Netangels </td>
@@ -1084,7 +1086,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/vraja-nayaka">
 				<img src="https://avatars.githubusercontent.com/u/52737608?s=72&u=6b4da239f39ded8042da0143c030a65d3248ed87&v=4" width="24" alt="Avatar of vraja-nayaka"> vraja-nayaka
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#vraja-nayaka">Copy rank badge</a><br/>
 			Vadim Tokar
 		</td>
 		<td>No Company</td>
@@ -1097,7 +1099,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Biacode">
 				<img src="https://avatars.githubusercontent.com/u/10510996?s=72&u=f1a47c340aae7f0600436a460a291bc5133fc860&v=4" width="24" alt="Avatar of Biacode"> Biacode
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Biacode">Copy rank badge</a><br/>
 			Artur
 		</td>
 		<td>Biacode </td>
@@ -1110,7 +1112,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/ernieIzde8ski">
 				<img src="https://avatars.githubusercontent.com/u/44341687?s=72&u=d9de840c042181dadb95e91bc98b64132ca17f78&v=4" width="24" alt="Avatar of ernieIzde8ski"> ernieIzde8ski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#ernieIzde8ski">Copy rank badge</a><br/>
 			Ernie
 		</td>
 		<td>No Company</td>
@@ -1123,7 +1125,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Birdman1104">
 				<img src="https://avatars.githubusercontent.com/u/59249974?s=72&u=3bb0daed4d4c126337c6f95e4a5a430706acffe0&v=4" width="24" alt="Avatar of Birdman1104"> Birdman1104
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Birdman1104">Copy rank badge</a><br/>
 			Arsen Mazmanyan
 		</td>
 		<td>No Company</td>
@@ -1136,7 +1138,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/gusev-p">
 				<img src="https://avatars.githubusercontent.com/u/6216459?s=72&u=73e8b1ff6cc07437423fadffdc345cd608187426&v=4" width="24" alt="Avatar of gusev-p"> gusev-p
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#gusev-p">Copy rank badge</a><br/>
 			Petr Gusev
 		</td>
 		<td>@scylladb  </td>
@@ -1149,7 +1151,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/solidados">
 				<img src="https://avatars.githubusercontent.com/u/81189948?s=72&u=1bbfac465a2b32c0f2a04a91bcba4f42040513f0&v=4" width="24" alt="Avatar of solidados"> solidados
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#solidados">Copy rank badge</a><br/>
 			Pavel Konyakhin
 		</td>
 		<td>No Company</td>
@@ -1162,7 +1164,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/ehsanwwe">
 				<img src="https://avatars.githubusercontent.com/u/11198455?s=72&u=169b11bb245a376ab3392fd9737d9c9a5a2873d4&v=4" width="24" alt="Avatar of ehsanwwe"> ehsanwwe
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#ehsanwwe">Copy rank badge</a><br/>
 			Ehsan Moradi
 		</td>
 		<td>Https://ehsanwwe.git </td>
@@ -1175,7 +1177,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/urumo">
 				<img src="https://avatars.githubusercontent.com/u/25629578?s=72&u=73ce9d0ec45b46ecddf1302785fd540901e8953f&v=4" width="24" alt="Avatar of urumo"> urumo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#urumo">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -1188,7 +1190,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Vany">
 				<img src="https://avatars.githubusercontent.com/u/47273?s=72&u=46c463752b6e31a3a463b5b7a821dc0127e37582&v=4" width="24" alt="Avatar of Vany"> Vany
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Vany">Copy rank badge</a><br/>
 			Vany Serezhkin
 		</td>
 		<td>Hireable For Now </td>
@@ -1201,7 +1203,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/bhovhannes">
 				<img src="https://avatars.githubusercontent.com/u/7450378?s=72&v=4" width="24" alt="Avatar of bhovhannes"> bhovhannes
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#bhovhannes">Copy rank badge</a><br/>
 			Hovhannes Babayan
 		</td>
 		<td>Adobe </td>
@@ -1214,7 +1216,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/jesuismarie">
 				<img src="https://avatars.githubusercontent.com/u/94791257?s=72&u=26cb60e7b0ad1642d7e3946948560a0f129cc43e&v=4" width="24" alt="Avatar of jesuismarie"> jesuismarie
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#jesuismarie">Copy rank badge</a><br/>
 			Marie Nazaryan
 		</td>
 		<td>@cloudchipr </td>
@@ -1227,7 +1229,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/skoshelev">
 				<img src="https://avatars.githubusercontent.com/u/16875599?s=72&u=8cc83a6db87ba3ff1cad0c84f3e1d4c0fce575e2&v=4" width="24" alt="Avatar of skoshelev"> skoshelev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#skoshelev">Copy rank badge</a><br/>
 			Sergey Koshelev
 		</td>
 		<td>Nopcommerce Team </td>
@@ -1240,7 +1242,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/aniordyan">
 				<img src="https://avatars.githubusercontent.com/u/77895035?s=72&u=8dbdade01d1d4a46b55d27098b8d44535aca9f8a&v=4" width="24" alt="Avatar of aniordyan"> aniordyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#aniordyan">Copy rank badge</a><br/>
 			nuwanda
 		</td>
 		<td>No Company</td>
@@ -1253,7 +1255,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/iazaran">
 				<img src="https://avatars.githubusercontent.com/u/10566709?s=72&u=6fb4741c24d3da03dd44c8bae84d8f78a704901a&v=4" width="24" alt="Avatar of iazaran"> iazaran
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#iazaran">Copy rank badge</a><br/>
 			Ismael Azaran
 		</td>
 		<td>No Company</td>
@@ -1266,7 +1268,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/alimghmi">
 				<img src="https://avatars.githubusercontent.com/u/16553195?s=72&u=916a253d2bf303f2e137e0db58090cd6ad2a5aa1&v=4" width="24" alt="Avatar of alimghmi"> alimghmi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#alimghmi">Copy rank badge</a><br/>
 			Ali Moghimi
 		</td>
 		<td>No Company</td>
@@ -1279,7 +1281,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/NicolasDuranGarces">
 				<img src="https://avatars.githubusercontent.com/u/55574184?s=72&u=f59d0f2397f42509bce59d467d3ba43f66adfa7e&v=4" width="24" alt="Avatar of NicolasDuranGarces"> NicolasDuranGarces
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#NicolasDuranGarces">Copy rank badge</a><br/>
 			Nicolas Duran Garces
 		</td>
 		<td>No Company</td>
@@ -1292,7 +1294,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/armgabrielyan">
 				<img src="https://avatars.githubusercontent.com/u/25867263?s=72&u=889cafe70d5daedfee8e51d181044962b36d89d2&v=4" width="24" alt="Avatar of armgabrielyan"> armgabrielyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#armgabrielyan">Copy rank badge</a><br/>
 			Armen Gabrielyan
 		</td>
 		<td>@servicetitan </td>
@@ -1305,7 +1307,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/VatcheTavitian">
 				<img src="https://avatars.githubusercontent.com/u/139234249?s=72&u=9230206989e2df368f226ccc5b7ab1363fdedc5a&v=4" width="24" alt="Avatar of VatcheTavitian"> VatcheTavitian
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#VatcheTavitian">Copy rank badge</a><br/>
 			Vatche Tavitian
 		</td>
 		<td>No Company</td>
@@ -1318,7 +1320,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Endilll">
 				<img src="https://avatars.githubusercontent.com/u/12883766?s=72&u=2f0d92d345c1d780e73c7051d74cebfc07813755&v=4" width="24" alt="Avatar of Endilll"> Endilll
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Endilll">Copy rank badge</a><br/>
 			Vlad Serebrennikov
 		</td>
 		<td>No Company</td>
@@ -1331,7 +1333,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Mgrdich">
 				<img src="https://avatars.githubusercontent.com/u/46796009?s=72&u=0d26ff381d4e7ebaf9da7239ded3897abb460f6f&v=4" width="24" alt="Avatar of Mgrdich"> Mgrdich
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Mgrdich">Copy rank badge</a><br/>
 			Mgrdich
 		</td>
 		<td>@provectus </td>
@@ -1344,7 +1346,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/MikAghumyan">
 				<img src="https://avatars.githubusercontent.com/u/33320075?s=72&u=7894e58d60ef9b377b8ac08ce8acd8e921a25908&v=4" width="24" alt="Avatar of MikAghumyan"> MikAghumyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#MikAghumyan">Copy rank badge</a><br/>
 			Michael Aghumyan
 		</td>
 		<td>No Company</td>
@@ -1357,7 +1359,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/rafasaurus">
 				<img src="https://avatars.githubusercontent.com/u/24825151?s=72&u=ad857f5c0dca612b4b69d5d661f7422fea8b5790&v=4" width="24" alt="Avatar of rafasaurus"> rafasaurus
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#rafasaurus">Copy rank badge</a><br/>
 			Rafael Grigorian
 		</td>
 		<td>No Company</td>
@@ -1370,7 +1372,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Voskan">
 				<img src="https://avatars.githubusercontent.com/u/11794731?s=72&u=60875f11594fd935ad2c24d5ecb4c340f6863162&v=4" width="24" alt="Avatar of Voskan"> Voskan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Voskan">Copy rank badge</a><br/>
 			Voskan Voskanyan
 		</td>
 		<td>No Company</td>
@@ -1383,7 +1385,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/ivanshamaev">
 				<img src="https://avatars.githubusercontent.com/u/16321084?s=72&u=0b7d8d7088a7b9e38ca00308f59e386b220262d0&v=4" width="24" alt="Avatar of ivanshamaev"> ivanshamaev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#ivanshamaev">Copy rank badge</a><br/>
 			Ivan Shamaev
 		</td>
 		<td>@ivanshamaev </td>
@@ -1396,7 +1398,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/vpavlenko">
 				<img src="https://avatars.githubusercontent.com/u/1491908?s=72&u=5899914ab5ff2965df03b2b10fce5b977c5ea718&v=4" width="24" alt="Avatar of vpavlenko"> vpavlenko
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#vpavlenko">Copy rank badge</a><br/>
 			Vitaly Pavlenko
 		</td>
 		<td>No Company</td>
@@ -1409,7 +1411,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/vatche-t">
 				<img src="https://avatars.githubusercontent.com/u/70888542?s=72&u=8d429b2835a86995ef46d96f8fb16bec4109e225&v=4" width="24" alt="Avatar of vatche-t"> vatche-t
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#vatche-t">Copy rank badge</a><br/>
 			Vatche Thorossian
 		</td>
 		<td>Digitain </td>
@@ -1422,7 +1424,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/VachaganGrigoryan">
 				<img src="https://avatars.githubusercontent.com/u/16066667?s=72&u=98cfe4d786fed2e3b0999abfb40aeb5e9964f353&v=4" width="24" alt="Avatar of VachaganGrigoryan"> VachaganGrigoryan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#VachaganGrigoryan">Copy rank badge</a><br/>
 			Vachagan
 		</td>
 		<td>No Company</td>
@@ -1435,7 +1437,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/khabaroff">
 				<img src="https://avatars.githubusercontent.com/u/2144942?s=72&v=4" width="24" alt="Avatar of khabaroff"> khabaroff
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#khabaroff">Copy rank badge</a><br/>
 			Sergey Khabaroff
 		</td>
 		<td>No Company</td>
@@ -1448,7 +1450,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/caflorezvi">
 				<img src="https://avatars.githubusercontent.com/u/70385586?s=72&u=f2218989b681705b049b7f5d1b5e11394310f8c3&v=4" width="24" alt="Avatar of caflorezvi"> caflorezvi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#caflorezvi">Copy rank badge</a><br/>
 			Carlos Andrés Florez Villarraga
 		</td>
 		<td>Universidad Del Quindío </td>
@@ -1461,7 +1463,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/yoosofan">
 				<img src="https://avatars.githubusercontent.com/u/94287?s=72&u=06171d60604f98175573abb4a3bfc1170b50e699&v=4" width="24" alt="Avatar of yoosofan"> yoosofan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#yoosofan">Copy rank badge</a><br/>
 			Ahmad Yoosofan
 		</td>
 		<td>Kashanu </td>
@@ -1474,7 +1476,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/sergei-mironov">
 				<img src="https://avatars.githubusercontent.com/u/4477729?s=72&u=c33d51341de85d173f1ef4071107118daf8b28d3&v=4" width="24" alt="Avatar of sergei-mironov"> sergei-mironov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#sergei-mironov">Copy rank badge</a><br/>
 			Sergei Mironov
 		</td>
 		<td>No Company</td>
@@ -1487,7 +1489,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/dim-s">
 				<img src="https://avatars.githubusercontent.com/u/1113915?s=72&u=4584727f6d3aa69a67266c16b098869245d58050&v=4" width="24" alt="Avatar of dim-s"> dim-s
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#dim-s">Copy rank badge</a><br/>
 			Dmitrii Zaitsev
 		</td>
 		<td>Develnext </td>
@@ -1500,7 +1502,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/TaronVardanyan">
 				<img src="https://avatars.githubusercontent.com/u/87315789?s=72&u=079d2504359fe80f3dc2d05f264cb8d6de9e0fd9&v=4" width="24" alt="Avatar of TaronVardanyan"> TaronVardanyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#TaronVardanyan">Copy rank badge</a><br/>
 			Taron Vardanyan
 		</td>
 		<td>Civitta </td>
@@ -1513,7 +1515,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/105th">
 				<img src="https://avatars.githubusercontent.com/u/11395678?s=72&u=796c1136a5b4d24d434d3b901150b3deea9cca2a&v=4" width="24" alt="Avatar of 105th"> 105th
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#105th">Copy rank badge</a><br/>
 			Dmitry Seregin
 		</td>
 		<td>@adguardteam  </td>
@@ -1526,7 +1528,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/arkoc">
 				<img src="https://avatars.githubusercontent.com/u/11096006?s=72&v=4" width="24" alt="Avatar of arkoc"> arkoc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#arkoc">Copy rank badge</a><br/>
 			Aram Kocharyan
 		</td>
 		<td>@layerswap  </td>
@@ -1539,7 +1541,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/StefanPapp">
 				<img src="https://avatars.githubusercontent.com/u/415264?s=72&u=0cae2a210bc572342468eab61312dada46514d57&v=4" width="24" alt="Avatar of StefanPapp"> StefanPapp
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#StefanPapp">Copy rank badge</a><br/>
 			Stefan Papp
 		</td>
 		<td>Sophron </td>
@@ -1552,7 +1554,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/dartess">
 				<img src="https://avatars.githubusercontent.com/u/15047511?s=72&u=2310eb4a70ee0dba60351ba7aa926b0cd5659b82&v=4" width="24" alt="Avatar of dartess"> dartess
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#dartess">Copy rank badge</a><br/>
 			Sergey Kozlov
 		</td>
 		<td>No Company</td>
@@ -1565,7 +1567,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/vgevorgyan">
 				<img src="https://avatars.githubusercontent.com/u/67561?s=72&u=b0df3def49b717f0d9f642f34deec543fa3f5b49&v=4" width="24" alt="Avatar of vgevorgyan"> vgevorgyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#vgevorgyan">Copy rank badge</a><br/>
 			Vardan Gevorgyan
 		</td>
 		<td>Vtgsoftware Llc </td>
@@ -1578,7 +1580,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/developerashkan">
 				<img src="https://avatars.githubusercontent.com/u/74037732?s=72&u=023087931c21b1b304798a3bf17c72e842a986d2&v=4" width="24" alt="Avatar of developerashkan"> developerashkan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#developerashkan">Copy rank badge</a><br/>
 			Ashkan Bahmani
 		</td>
 		<td>No Company</td>
@@ -1591,7 +1593,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/ayvazyan10">
 				<img src="https://avatars.githubusercontent.com/u/79054971?s=72&u=f86dadc1d4b5b815b6959e23e003971a26417081&v=4" width="24" alt="Avatar of ayvazyan10"> ayvazyan10
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#ayvazyan10">Copy rank badge</a><br/>
 			Razmik Ayvazyan
 		</td>
 		<td>@wedo-development  </td>
@@ -1604,7 +1606,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/NonnaArzumanyan2024">
 				<img src="https://avatars.githubusercontent.com/u/173541779?s=72&u=b0148a6c40d1f38cce0689ec92d240e6c473df02&v=4" width="24" alt="Avatar of NonnaArzumanyan2024"> NonnaArzumanyan2024
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#NonnaArzumanyan2024">Copy rank badge</a><br/>
 			Nonna Arzumanyan
 		</td>
 		<td>No Company</td>
@@ -1617,7 +1619,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Maksandre">
 				<img src="https://avatars.githubusercontent.com/u/23031938?s=72&u=067d21bc94aa8875e28c1fdd894579f09c1baf65&v=4" width="24" alt="Avatar of Maksandre"> Maksandre
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Maksandre">Copy rank badge</a><br/>
 			Max Andreev
 		</td>
 		<td>No Company</td>
@@ -1630,7 +1632,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/mikayelgr">
 				<img src="https://avatars.githubusercontent.com/u/56165400?s=72&u=0e150b2244e40754e584f722ea883ba05d84a23d&v=4" width="24" alt="Avatar of mikayelgr"> mikayelgr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#mikayelgr">Copy rank badge</a><br/>
 			Mikayel Grigoryan
 		</td>
 		<td>No Company</td>
@@ -1643,7 +1645,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/dvordrova">
 				<img src="https://avatars.githubusercontent.com/u/3331351?s=72&u=fc2c51083779d45937bcd92139bc4d04f0760efc&v=4" width="24" alt="Avatar of dvordrova"> dvordrova
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#dvordrova">Copy rank badge</a><br/>
 			Dmitry
 		</td>
 		<td>No Company</td>
@@ -1656,7 +1658,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/gnersisyann">
 				<img src="https://avatars.githubusercontent.com/u/181338409?s=72&u=b824f01bd0287c658c450532c854f4d373b396ec&v=4" width="24" alt="Avatar of gnersisyann"> gnersisyann
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#gnersisyann">Copy rank badge</a><br/>
 			Garnik Nersisyan
 		</td>
 		<td>Adobe </td>
@@ -1669,7 +1671,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/0xM4LL0C">
 				<img src="https://avatars.githubusercontent.com/u/115415995?s=72&u=9a5676dec0db8205bbdbc84340e16a99dcc80271&v=4" width="24" alt="Avatar of 0xM4LL0C"> 0xM4LL0C
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#0xM4LL0C">Copy rank badge</a><br/>
 			0xM4LL0C
 		</td>
 		<td>No Company</td>
@@ -1682,7 +1684,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/alesharik">
 				<img src="https://avatars.githubusercontent.com/u/13648744?s=72&v=4" width="24" alt="Avatar of alesharik"> alesharik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#alesharik">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -1695,7 +1697,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/NarekManukyan">
 				<img src="https://avatars.githubusercontent.com/u/32898110?s=72&u=ce331986d95d9f9f9fcf170737eb3b635cf8e864&v=4" width="24" alt="Avatar of NarekManukyan"> NarekManukyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#NarekManukyan">Copy rank badge</a><br/>
 			Narek Manukyan
 		</td>
 		<td>M One </td>
@@ -1708,7 +1710,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/serghov">
 				<img src="https://avatars.githubusercontent.com/u/5657330?s=72&v=4" width="24" alt="Avatar of serghov"> serghov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#serghov">Copy rank badge</a><br/>
 			Sergey Hovakimyan
 		</td>
 		<td>No Company</td>
@@ -1721,7 +1723,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/AariazP">
 				<img src="https://avatars.githubusercontent.com/u/112278828?s=72&u=985043b6bb4e26f0d8f2c059b17dda92b2b459e0&v=4" width="24" alt="Avatar of AariazP"> AariazP
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#AariazP">Copy rank badge</a><br/>
 			Alejandro Arias
 		</td>
 		<td>Independent </td>
@@ -1734,7 +1736,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/exileDev">
 				<img src="https://avatars.githubusercontent.com/u/17047105?s=72&u=99297320ca224efdedbe23d49b754895b8158d54&v=4" width="24" alt="Avatar of exileDev"> exileDev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#exileDev">Copy rank badge</a><br/>
 			Anokhin Alexey
 		</td>
 		<td>Nopcommerce Team </td>
@@ -1747,7 +1749,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/tazik561">
 				<img src="https://avatars.githubusercontent.com/u/1378735?s=72&u=540f364e4798349089c73a65c0291ddae3cd252a&v=4" width="24" alt="Avatar of tazik561"> tazik561
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#tazik561">Copy rank badge</a><br/>
 			Ali Tazik
 		</td>
 		<td>Freelancer </td>
@@ -1760,7 +1762,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/shaghoyan99">
 				<img src="https://avatars.githubusercontent.com/u/63502549?s=72&u=4c699ed7a0526166bac508b9b1d285ec6f844428&v=4" width="24" alt="Avatar of shaghoyan99"> shaghoyan99
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#shaghoyan99">Copy rank badge</a><br/>
 			Artash
 		</td>
 		<td>No Company</td>
@@ -1773,7 +1775,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/mehdiraized">
 				<img src="https://avatars.githubusercontent.com/u/4368004?s=72&u=6f5fe6e1b15932f9127e76ab7c1bb6028757aeb8&v=4" width="24" alt="Avatar of mehdiraized"> mehdiraized
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#mehdiraized">Copy rank badge</a><br/>
 			Mehdi Rezaei
 		</td>
 		<td>Mehd.ir </td>
@@ -1786,7 +1788,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/ArkadiyVoronov">
 				<img src="https://avatars.githubusercontent.com/u/31352672?s=72&u=7395037b665f0d1e67575cc45a5f147b752fec9e&v=4" width="24" alt="Avatar of ArkadiyVoronov"> ArkadiyVoronov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#ArkadiyVoronov">Copy rank badge</a><br/>
 			Arkadiy Voronov
 		</td>
 		<td>No Company</td>
@@ -1799,7 +1801,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/diazoxide">
 				<img src="https://avatars.githubusercontent.com/u/25997814?s=72&u=de298fa1bf9a811d0d8bb172d4a2629fece2c43f&v=4" width="24" alt="Avatar of diazoxide"> diazoxide
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#diazoxide">Copy rank badge</a><br/>
 			Aaron Yordanyan
 		</td>
 		<td>Easydmarc </td>
@@ -1812,7 +1814,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Self-Perfection">
 				<img src="https://avatars.githubusercontent.com/u/3757038?s=72&v=4" width="24" alt="Avatar of Self-Perfection"> Self-Perfection
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Self-Perfection">Copy rank badge</a><br/>
 			Alexander Meshcheryakov
 		</td>
 		<td>No Company</td>
@@ -1825,7 +1827,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/AminMortezaie">
 				<img src="https://avatars.githubusercontent.com/u/23329448?s=72&u=31f77877c61b0bae7ddb9d730f8281f79cb798b5&v=4" width="24" alt="Avatar of AminMortezaie"> AminMortezaie
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#AminMortezaie">Copy rank badge</a><br/>
 			Amin Mortezaie
 		</td>
 		<td>No Company</td>
@@ -1838,7 +1840,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/7smd7">
 				<img src="https://avatars.githubusercontent.com/u/32780546?s=72&u=1f039dd7377a3121ef97b1e07a560cdaa09f492b&v=4" width="24" alt="Avatar of 7smd7"> 7smd7
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#7smd7">Copy rank badge</a><br/>
 			Mohammad Daryani
 		</td>
 		<td>No Company</td>
@@ -1851,7 +1853,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/NeiruBugz">
 				<img src="https://avatars.githubusercontent.com/u/19284707?s=72&u=b76928e8b4cc65155d62df74564c50445eb00160&v=4" width="24" alt="Avatar of NeiruBugz"> NeiruBugz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#NeiruBugz">Copy rank badge</a><br/>
 			Nail Badiullin
 		</td>
 		<td>@provectus  </td>
@@ -1864,7 +1866,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/vtereshkov">
 				<img src="https://avatars.githubusercontent.com/u/52492460?s=72&u=bbe38e3d8c3f25c106d39d9bb2e7b3101bae13d5&v=4" width="24" alt="Avatar of vtereshkov"> vtereshkov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#vtereshkov">Copy rank badge</a><br/>
 			Vasiliy Tereshkov
 		</td>
 		<td>No Company</td>
@@ -1877,7 +1879,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/KeeVeeGames">
 				<img src="https://avatars.githubusercontent.com/u/10993317?s=72&v=4" width="24" alt="Avatar of KeeVeeGames"> KeeVeeGames
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#KeeVeeGames">Copy rank badge</a><br/>
 			MusNik
 		</td>
 		<td>No Company</td>
@@ -1890,7 +1892,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/ashotpahlevanyan">
 				<img src="https://avatars.githubusercontent.com/u/1330214?s=72&u=c3df29b9671413b669488f5b011debad35768ee7&v=4" width="24" alt="Avatar of ashotpahlevanyan"> ashotpahlevanyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#ashotpahlevanyan">Copy rank badge</a><br/>
 			Ashot Pahlevanyan
 		</td>
 		<td>Https://www.linkedin </td>
@@ -1903,7 +1905,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/armannikoyan">
 				<img src="https://avatars.githubusercontent.com/u/71268918?s=72&u=596ec8a7641d153da414e061e0b22eef900d4022&v=4" width="24" alt="Avatar of armannikoyan"> armannikoyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#armannikoyan">Copy rank badge</a><br/>
 			Arman Nikoyan
 		</td>
 		<td>No Company</td>
@@ -1916,7 +1918,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/hosembafer">
 				<img src="https://avatars.githubusercontent.com/u/5071289?s=72&u=a5601138fc1f6cdad4e7cf091a8c09094b4be6b3&v=4" width="24" alt="Avatar of hosembafer"> hosembafer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#hosembafer">Copy rank badge</a><br/>
 			Rafayel Hovhannisyan
 		</td>
 		<td>Easydmarc </td>
@@ -1929,7 +1931,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Aram47">
 				<img src="https://avatars.githubusercontent.com/u/139481342?s=72&u=dec5ebecb33c310c167034a2b5bd2af070c2b302&v=4" width="24" alt="Avatar of Aram47"> Aram47
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Aram47">Copy rank badge</a><br/>
 			Aram Minasyan
 		</td>
 		<td>@picsart </td>
@@ -1942,7 +1944,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/DrVrej">
 				<img src="https://avatars.githubusercontent.com/u/6934542?s=72&u=16d893f0205db9f02993fa03e4beeed841a083e2&v=4" width="24" alt="Avatar of DrVrej"> DrVrej
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#DrVrej">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -1955,7 +1957,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/AniAvg">
 				<img src="https://avatars.githubusercontent.com/u/181929275?s=72&u=3e37b0de89259611f78c02509bd4d1c900b1be60&v=4" width="24" alt="Avatar of AniAvg"> AniAvg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#AniAvg">Copy rank badge</a><br/>
 			Ani
 		</td>
 		<td>42 Yerevan </td>
@@ -1968,7 +1970,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/amirhosein2015">
 				<img src="https://avatars.githubusercontent.com/u/96079905?s=72&u=34a2755c3a6804464ed9a4449ddf8d6a6e44618e&v=4" width="24" alt="Avatar of amirhosein2015"> amirhosein2015
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#amirhosein2015">Copy rank badge</a><br/>
 			Abdollah Mohajeri
 		</td>
 		<td>Portfolio </td>
@@ -1981,7 +1983,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/varszakaryan">
 				<img src="https://avatars.githubusercontent.com/u/37110358?s=72&u=9d186cf546eff406e29b8b8903d273fd06b1f795&v=4" width="24" alt="Avatar of varszakaryan"> varszakaryan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#varszakaryan">Copy rank badge</a><br/>
 			Varser Zakaryan
 		</td>
 		<td>No Company</td>
@@ -1994,7 +1996,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Shitikyan">
 				<img src="https://avatars.githubusercontent.com/u/41128384?s=72&u=607f0ebc57da3450282eac62bb213a3e96d4a614&v=4" width="24" alt="Avatar of Shitikyan"> Shitikyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Shitikyan">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -2007,7 +2009,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/ashkanjaycob">
 				<img src="https://avatars.githubusercontent.com/u/111354885?s=72&u=53bc12235b9f043e8f554407d1cf95b7105f7fe1&v=4" width="24" alt="Avatar of ashkanjaycob"> ashkanjaycob
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#ashkanjaycob">Copy rank badge</a><br/>
 			Ashkan Yaghoobi
 		</td>
 		<td>No Company</td>
@@ -2020,7 +2022,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/PakhomovAlexander">
 				<img src="https://avatars.githubusercontent.com/u/20556627?s=72&u=432c0aa36fa24d2a6c973b3df9f46966fcea4c2e&v=4" width="24" alt="Avatar of PakhomovAlexander"> PakhomovAlexander
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#PakhomovAlexander">Copy rank badge</a><br/>
 			Aleksandr Pakhomov
 		</td>
 		<td>No Company</td>
@@ -2033,7 +2035,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/alsorokin">
 				<img src="https://avatars.githubusercontent.com/u/10210197?s=72&u=9b22448aa42dbfcffd993dbb49083bf2df49ae55&v=4" width="24" alt="Avatar of alsorokin"> alsorokin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#alsorokin">Copy rank badge</a><br/>
 			Sasha Sorokin
 		</td>
 		<td>Akvelon </td>
@@ -2046,7 +2048,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/none23">
 				<img src="https://avatars.githubusercontent.com/u/14677379?s=72&u=35b891936ef3a9224acce71e3b3cd1f4460b1c49&v=4" width="24" alt="Avatar of none23"> none23
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#none23">Copy rank badge</a><br/>
 			Nick Anisimov
 		</td>
 		<td>Dataart </td>
@@ -2059,7 +2061,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Alicebaghunts">
 				<img src="https://avatars.githubusercontent.com/u/180094775?s=72&u=3b02ca295f761d6315ef3797322bfa4307669577&v=4" width="24" alt="Avatar of Alicebaghunts"> Alicebaghunts
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Alicebaghunts">Copy rank badge</a><br/>
 			Alice Harutyunyan 
 		</td>
 		<td>Student At 42 School<br/></td>
@@ -2072,7 +2074,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/VkoHov">
 				<img src="https://avatars.githubusercontent.com/u/43929589?s=72&u=148c99e792b9dd5924ca7e4c9dd6feafb4538d38&v=4" width="24" alt="Avatar of VkoHov"> VkoHov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#VkoHov">Copy rank badge</a><br/>
 			Vardges Hovhannisyan
 		</td>
 		<td>Servicetitan </td>
@@ -2085,7 +2087,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/SashaJarvi">
 				<img src="https://avatars.githubusercontent.com/u/33623986?s=72&u=ac8ee806776e87853ea29c8ed8bcf67373629a02&v=4" width="24" alt="Avatar of SashaJarvi"> SashaJarvi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#SashaJarvi">Copy rank badge</a><br/>
 			Alexandr Yermakov
 		</td>
 		<td>No Company</td>
@@ -2098,7 +2100,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/surenkov">
 				<img src="https://avatars.githubusercontent.com/u/942909?s=72&u=6332add81cde746ba606ed4e2c490eea4efe0b94&v=4" width="24" alt="Avatar of surenkov"> surenkov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#surenkov">Copy rank badge</a><br/>
 			Savva Surenkov
 		</td>
 		<td>Agvend </td>
@@ -2111,7 +2113,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/starkovsky">
 				<img src="https://avatars.githubusercontent.com/u/10838874?s=72&v=4" width="24" alt="Avatar of starkovsky"> starkovsky
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#starkovsky">Copy rank badge</a><br/>
 			Vlad Starkovsky
 		</td>
 		<td>@smartcatai </td>
@@ -2124,7 +2126,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/iposho">
 				<img src="https://avatars.githubusercontent.com/u/40692570?s=72&u=b78420d7a2a2317b8d3464059ac80c2730b8206f&v=4" width="24" alt="Avatar of iposho"> iposho
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#iposho">Copy rank badge</a><br/>
 			Pavel Kuzyakin
 		</td>
 		<td>Graphlogic </td>
@@ -2137,7 +2139,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Badx86">
 				<img src="https://avatars.githubusercontent.com/u/95075397?s=72&u=fe9433768728dc722afd4856898be07cdc80dc00&v=4" width="24" alt="Avatar of Badx86"> Badx86
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Badx86">Copy rank badge</a><br/>
 			Stanislav Osipov
 		</td>
 		<td>Http://delivery.keep </td>
@@ -2150,7 +2152,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/kajarenc">
 				<img src="https://avatars.githubusercontent.com/u/6664805?s=72&u=9235d059698f47259056651e884b36e113fccf86&v=4" width="24" alt="Avatar of kajarenc"> kajarenc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#kajarenc">Copy rank badge</a><br/>
 			Karen Javadyan
 		</td>
 		<td>No Company</td>
@@ -2163,7 +2165,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/dimapaloskin">
 				<img src="https://avatars.githubusercontent.com/u/5237085?s=72&v=4" width="24" alt="Avatar of dimapaloskin"> dimapaloskin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#dimapaloskin">Copy rank badge</a><br/>
 			Dima Paloskin
 		</td>
 		<td>No Company</td>
@@ -2176,7 +2178,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/petermihailov">
 				<img src="https://avatars.githubusercontent.com/u/12611942?s=72&u=19e52159ace955e16c5b88cecba60461b51a0a59&v=4" width="24" alt="Avatar of petermihailov"> petermihailov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#petermihailov">Copy rank badge</a><br/>
 			Peter Mihailov
 		</td>
 		<td>No Company</td>
@@ -2189,7 +2191,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/sofchka">
 				<img src="https://avatars.githubusercontent.com/u/164770022?s=72&u=c03c62da09fa0a51f7b2d57fbd8f4bd45826f340&v=4" width="24" alt="Avatar of sofchka"> sofchka
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#sofchka">Copy rank badge</a><br/>
 			Sofi Zakaryan
 		</td>
 		<td>No Company</td>
@@ -2202,7 +2204,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/powerdot">
 				<img src="https://avatars.githubusercontent.com/u/877453?s=72&v=4" width="24" alt="Avatar of powerdot"> powerdot
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#powerdot">Copy rank badge</a><br/>
 			Ilia
 		</td>
 		<td>No Company</td>
@@ -2215,7 +2217,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/loidnoir">
 				<img src="https://avatars.githubusercontent.com/u/68234337?s=72&u=e5670639723bc4dc8097962fcc3e983074dd5aaa&v=4" width="24" alt="Avatar of loidnoir"> loidnoir
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#loidnoir">Copy rank badge</a><br/>
 			Samvel
 		</td>
 		<td>@perceptron-ai-inc </td>
@@ -2228,7 +2230,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/HarutAzatyan777">
 				<img src="https://avatars.githubusercontent.com/u/103684865?s=72&u=670a78f0d2267554e545d8422102d9468a787a46&v=4" width="24" alt="Avatar of HarutAzatyan777"> HarutAzatyan777
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#HarutAzatyan777">Copy rank badge</a><br/>
 			Harut
 		</td>
 		<td>Harutdev </td>
@@ -2241,7 +2243,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/evgeny-boger">
 				<img src="https://avatars.githubusercontent.com/u/1755320?s=72&v=4" width="24" alt="Avatar of evgeny-boger"> evgeny-boger
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#evgeny-boger">Copy rank badge</a><br/>
 			Evgeny Boger
 		</td>
 		<td>@wirenboard  </td>
@@ -2254,7 +2256,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/zanasalimi">
 				<img src="https://avatars.githubusercontent.com/u/19841146?s=72&u=86f854a0377f1108b9604b8d8fa731bdbbb4a120&v=4" width="24" alt="Avatar of zanasalimi"> zanasalimi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#zanasalimi">Copy rank badge</a><br/>
 			Zana
 		</td>
 		<td>No Company</td>
@@ -2267,7 +2269,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/narghev">
 				<img src="https://avatars.githubusercontent.com/u/15631149?s=72&u=0388ab75e064700b4939ebeb9526c20e6e0352e6&v=4" width="24" alt="Avatar of narghev"> narghev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#narghev">Copy rank badge</a><br/>
 			Narek Ghevandiani
 		</td>
 		<td>Toptal </td>
@@ -2280,7 +2282,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/akurdyukov">
 				<img src="https://avatars.githubusercontent.com/u/78690?s=72&u=ca1499a58945db0a6106c917eec7876f6f5ced65&v=4" width="24" alt="Avatar of akurdyukov"> akurdyukov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#akurdyukov">Copy rank badge</a><br/>
 			Alik Kurdyukov
 		</td>
 		<td>No Company</td>
@@ -2293,7 +2295,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/sona2711">
 				<img src="https://avatars.githubusercontent.com/u/112617110?s=72&v=4" width="24" alt="Avatar of sona2711"> sona2711
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#sona2711">Copy rank badge</a><br/>
 			Sona Mkrtchyan
 		</td>
 		<td>Tumo Labs </td>
@@ -2306,7 +2308,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/appetrosyan">
 				<img src="https://avatars.githubusercontent.com/u/15856657?s=72&u=fc9c1f3f7fc76f5316c6a36ed2f5f7ad98bde094&v=4" width="24" alt="Avatar of appetrosyan"> appetrosyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#appetrosyan">Copy rank badge</a><br/>
 			Aleksandr Petrosyan
 		</td>
 		<td>@eclipse-laboratorie  </td>
@@ -2319,7 +2321,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/o4kapuk">
 				<img src="https://avatars.githubusercontent.com/u/820772?s=72&v=4" width="24" alt="Avatar of o4kapuk"> o4kapuk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#o4kapuk">Copy rank badge</a><br/>
 			Nikolay Kharitonov
 		</td>
 		<td>No Company</td>
@@ -2332,7 +2334,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/zakaryan2004">
 				<img src="https://avatars.githubusercontent.com/u/29994884?s=72&v=4" width="24" alt="Avatar of zakaryan2004"> zakaryan2004
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#zakaryan2004">Copy rank badge</a><br/>
 			Gegham Zakaryan
 		</td>
 		<td>No Company</td>
@@ -2345,7 +2347,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/petr-korobeinikov">
 				<img src="https://avatars.githubusercontent.com/u/225952?s=72&u=921c86f7e45d87045091cb526c4201e8c23515e7&v=4" width="24" alt="Avatar of petr-korobeinikov"> petr-korobeinikov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#petr-korobeinikov">Copy rank badge</a><br/>
 			Petr Korobeinikov
 		</td>
 		<td>No Company</td>
@@ -2358,7 +2360,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/NarHakobyan">
 				<img src="https://avatars.githubusercontent.com/u/1781506?s=72&u=d5e031c4ab1c0c100f9d602474a7c2d1490ef9de&v=4" width="24" alt="Avatar of NarHakobyan"> NarHakobyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#NarHakobyan">Copy rank badge</a><br/>
 			Narek Hakobyan
 		</td>
 		<td>No Company</td>
@@ -2371,7 +2373,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/evgeniy-klemin">
 				<img src="https://avatars.githubusercontent.com/u/1834430?s=72&v=4" width="24" alt="Avatar of evgeniy-klemin"> evgeniy-klemin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#evgeniy-klemin">Copy rank badge</a><br/>
 			Evgeniy Klemin
 		</td>
 		<td>No Company</td>
@@ -2384,7 +2386,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/JaneySprings">
 				<img src="https://avatars.githubusercontent.com/u/48021947?s=72&u=1020f12f713b238c10e247916b8b9e0c7f9a965f&v=4" width="24" alt="Avatar of JaneySprings"> JaneySprings
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#JaneySprings">Copy rank badge</a><br/>
 			Nikita Romanov
 		</td>
 		<td>No Company</td>
@@ -2397,7 +2399,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/lotsoftick">
 				<img src="https://avatars.githubusercontent.com/u/24815689?s=72&u=c343f4a6a3e70433c0917a0ada00bce08302a17d&v=4" width="24" alt="Avatar of lotsoftick"> lotsoftick
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#lotsoftick">Copy rank badge</a><br/>
 			Davit Hakobyan
 		</td>
 		<td>No Company</td>
@@ -2410,7 +2412,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/amir-valizadeh">
 				<img src="https://avatars.githubusercontent.com/u/50724955?s=72&u=a040e4f0f178b25359af9b732b94a983f17f0f02&v=4" width="24" alt="Avatar of amir-valizadeh"> amir-valizadeh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#amir-valizadeh">Copy rank badge</a><br/>
 			amir valizadeh
 		</td>
 		<td>No Company</td>
@@ -2423,7 +2425,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/luigidematteis">
 				<img src="https://avatars.githubusercontent.com/u/110017444?s=72&u=9d4518d985681d85af1501d25cd536d4ec384415&v=4" width="24" alt="Avatar of luigidematteis"> luigidematteis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#luigidematteis">Copy rank badge</a><br/>
 			Luigi De Matteis
 		</td>
 		<td>No Company</td>
@@ -2436,7 +2438,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/belonesox">
 				<img src="https://avatars.githubusercontent.com/u/1609739?s=72&u=a6154e65b2a671fb1ee85ec6e18e0bebbdde33a6&v=4" width="24" alt="Avatar of belonesox"> belonesox
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#belonesox">Copy rank badge</a><br/>
 			Stas Fomin
 		</td>
 		<td>Mipt </td>
@@ -2449,7 +2451,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/LazyanArtyom">
 				<img src="https://avatars.githubusercontent.com/u/42096630?s=72&u=4a13e0c987934b9577e8e85e3f4f62547d348b24&v=4" width="24" alt="Avatar of LazyanArtyom"> LazyanArtyom
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#LazyanArtyom">Copy rank badge</a><br/>
 			Artyom Lazyan
 		</td>
 		<td>Vadatech </td>
@@ -2462,7 +2464,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/vaahe">
 				<img src="https://avatars.githubusercontent.com/u/94294219?s=72&u=a8d355429a8c4fa296627526df3185c50b36bc03&v=4" width="24" alt="Avatar of vaahe"> vaahe
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#vaahe">Copy rank badge</a><br/>
 			Vahe Barseghyan
 		</td>
 		<td>No Company</td>
@@ -2475,7 +2477,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/AvetBadalyan">
 				<img src="https://avatars.githubusercontent.com/u/92113262?s=72&u=793ccfb5d201b6c3b574a636bf0ea381d4278057&v=4" width="24" alt="Avatar of AvetBadalyan"> AvetBadalyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#AvetBadalyan">Copy rank badge</a><br/>
 			Avet Badalyan
 		</td>
 		<td>Epam Armenia </td>
@@ -2488,7 +2490,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/bagrat">
 				<img src="https://avatars.githubusercontent.com/u/3033265?s=72&u=f53aaeffb335999bae3dd3b312027fcbd8ce4558&v=4" width="24" alt="Avatar of bagrat"> bagrat
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#bagrat">Copy rank badge</a><br/>
 			Bagrat Aznauryan
 		</td>
 		<td>Timeline.co </td>
@@ -2501,7 +2503,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/obervinov">
 				<img src="https://avatars.githubusercontent.com/u/49606362?s=72&u=ee418272cbee18a09a397e7bf47f55a4b10eba45&v=4" width="24" alt="Avatar of obervinov"> obervinov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#obervinov">Copy rank badge</a><br/>
 			obervinov
 		</td>
 		<td>@wallarm </td>
@@ -2514,7 +2516,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/AndresZunigaZ2005">
 				<img src="https://avatars.githubusercontent.com/u/126695825?s=72&v=4" width="24" alt="Avatar of AndresZunigaZ2005"> AndresZunigaZ2005
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#AndresZunigaZ2005">Copy rank badge</a><br/>
 			Andrés Felipe Zúñiga Zuluaga
 		</td>
 		<td>No Company</td>
@@ -2527,7 +2529,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/rafaelmrdyn">
 				<img src="https://avatars.githubusercontent.com/u/33260974?s=72&u=3fe55647d4711ca25c1cb5250f9b59fa50e231a9&v=4" width="24" alt="Avatar of rafaelmrdyn"> rafaelmrdyn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#rafaelmrdyn">Copy rank badge</a><br/>
 			Rafael Muradyan
 		</td>
 		<td>@coinstatshq  </td>
@@ -2540,7 +2542,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/ArgishtiAyvazyan">
 				<img src="https://avatars.githubusercontent.com/u/36134225?s=72&u=be41efc6624f18d948e66738a8dabdf08f0d126e&v=4" width="24" alt="Avatar of ArgishtiAyvazyan"> ArgishtiAyvazyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#ArgishtiAyvazyan">Copy rank badge</a><br/>
 			Argishti Ayvazyan
 		</td>
 		<td>Krisp </td>
@@ -2553,7 +2555,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/blbulyandavbulyan">
 				<img src="https://avatars.githubusercontent.com/u/28604463?s=72&u=ab31a855e46f656a5f4b306886f4a4270940732a&v=4" width="24" alt="Avatar of blbulyandavbulyan"> blbulyandavbulyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#blbulyandavbulyan">Copy rank badge</a><br/>
 			David
 		</td>
 		<td>No Company</td>
@@ -2566,7 +2568,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/agasy18">
 				<img src="https://avatars.githubusercontent.com/u/4195261?s=72&u=ed60250baedb339b700d6f632c5087bf07da2a94&v=4" width="24" alt="Avatar of agasy18"> agasy18
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#agasy18">Copy rank badge</a><br/>
 			Aghasi Poghosyan
 		</td>
 		<td>@picsart  </td>
@@ -2579,7 +2581,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/hel-3d">
 				<img src="https://avatars.githubusercontent.com/u/164346244?s=72&u=92bc8b24c045c31d82264407406d92d5ae2dee0c&v=4" width="24" alt="Avatar of hel-3d"> hel-3d
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#hel-3d">Copy rank badge</a><br/>
 			Elena Gusarevich
 		</td>
 		<td>Private Practice </td>
@@ -2592,7 +2594,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Arman2409">
 				<img src="https://avatars.githubusercontent.com/u/87525833?s=72&u=15dabeab3c06d84783323a36850e273392d2dc5c&v=4" width="24" alt="Avatar of Arman2409"> Arman2409
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Arman2409">Copy rank badge</a><br/>
 			Arman
 		</td>
 		<td>No Company</td>
@@ -2605,7 +2607,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/puhoshville">
 				<img src="https://avatars.githubusercontent.com/u/6560448?s=72&u=f1e362adb3565b5793febfd5cdabdecc7d5cd7b0&v=4" width="24" alt="Avatar of puhoshville"> puhoshville
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#puhoshville">Copy rank badge</a><br/>
 			Dima Pukhov
 		</td>
 		<td>No Company</td>
@@ -2618,7 +2620,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/DmitriyKulagin">
 				<img src="https://avatars.githubusercontent.com/u/27218280?s=72&u=e31a9840a930c43ab5036459625959b0312ed14b&v=4" width="24" alt="Avatar of DmitriyKulagin"> DmitriyKulagin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#DmitriyKulagin">Copy rank badge</a><br/>
 			Dmitriy Kulagin
 		</td>
 		<td>Nopcommerce Team </td>
@@ -2631,7 +2633,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/navoyan">
 				<img src="https://avatars.githubusercontent.com/u/83413476?s=72&u=46fb0ec0a3e52c802a7f92ca4d93708d4ecd3c63&v=4" width="24" alt="Avatar of navoyan"> navoyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#navoyan">Copy rank badge</a><br/>
 			Narek Navoyan (dyamo)
 		</td>
 		<td>Findsense </td>
@@ -2644,7 +2646,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Raiden0456">
 				<img src="https://avatars.githubusercontent.com/u/41489691?s=72&u=53c68e2146721846fbfd43f24d0d9de7dae086cb&v=4" width="24" alt="Avatar of Raiden0456"> Raiden0456
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Raiden0456">Copy rank badge</a><br/>
 			Vrezh Babakekhian
 		</td>
 		<td>@zen-browser </td>
@@ -2657,7 +2659,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/saionaro">
 				<img src="https://avatars.githubusercontent.com/u/7808213?s=72&u=2ec475baeb2734a8e568bbb716b79b1a90bc0ab4&v=4" width="24" alt="Avatar of saionaro"> saionaro
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#saionaro">Copy rank badge</a><br/>
 			Artem Shibakov
 		</td>
 		<td>@brightdata </td>
@@ -2670,7 +2672,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/GhevondW">
 				<img src="https://avatars.githubusercontent.com/u/39257678?s=72&u=8bb3336d7e6324807d415758e9292faa1f1a6c3b&v=4" width="24" alt="Avatar of GhevondW"> GhevondW
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#GhevondW">Copy rank badge</a><br/>
 			Ghevond
 		</td>
 		<td>Yandex </td>
@@ -2683,7 +2685,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/al1r374">
 				<img src="https://avatars.githubusercontent.com/u/33761594?s=72&u=039ba6be7367dec2a33bf6de0475fe311242ca2d&v=4" width="24" alt="Avatar of al1r374"> al1r374
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#al1r374">Copy rank badge</a><br/>
 			Alireza Goudarzi
 		</td>
 		<td>@sheypoor </td>
@@ -2696,7 +2698,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/mher2004">
 				<img src="https://avatars.githubusercontent.com/u/44675886?s=72&u=a78872c18a36f05ae82673ba64e775b22b443007&v=4" width="24" alt="Avatar of mher2004"> mher2004
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#mher2004">Copy rank badge</a><br/>
 			Mher
 		</td>
 		<td>No Company</td>
@@ -2709,7 +2711,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/aminzayer">
 				<img src="https://avatars.githubusercontent.com/u/7605327?s=72&u=f978e1a4d3c31b478b6c2498227186bdc93d8922&v=4" width="24" alt="Avatar of aminzayer"> aminzayer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#aminzayer">Copy rank badge</a><br/>
 			Amin Zay-eromali
 		</td>
 		<td>Factually Health </td>
@@ -2722,7 +2724,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/rafalyovson">
 				<img src="https://avatars.githubusercontent.com/u/9849182?s=72&u=b175ce082d44416ba8843fe476c492d3c2ce0aed&v=4" width="24" alt="Avatar of rafalyovson"> rafalyovson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#rafalyovson">Copy rank badge</a><br/>
 			Rafa Lyóvson
 		</td>
 		<td>@roadcorp  </td>
@@ -2735,7 +2737,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/VaheAA">
 				<img src="https://avatars.githubusercontent.com/u/67433655?s=72&u=206c1ba8b320c8e30ac0144c32e3ea8cf99550f5&v=4" width="24" alt="Avatar of VaheAA"> VaheAA
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#VaheAA">Copy rank badge</a><br/>
 			Vahe Abovyan
 		</td>
 		<td>Teampay </td>
@@ -2748,7 +2750,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/WST">
 				<img src="https://avatars.githubusercontent.com/u/190773?s=72&u=d155789c4a77a42105f922f747a5ee22b86388f2&v=4" width="24" alt="Avatar of WST"> WST
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#WST">Copy rank badge</a><br/>
 			Ilya I. Averkov
 		</td>
 		<td>@gegillc  </td>
@@ -2761,7 +2763,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/senketsukamui">
 				<img src="https://avatars.githubusercontent.com/u/48017740?s=72&u=d8cdbdf925a39ccd59a6541aab8b4ea57353e6d5&v=4" width="24" alt="Avatar of senketsukamui"> senketsukamui
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#senketsukamui">Copy rank badge</a><br/>
 			Gleb Potapov
 		</td>
 		<td>No Company</td>
@@ -2774,7 +2776,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/devleifr">
 				<img src="https://avatars.githubusercontent.com/u/21125397?s=72&u=e36ebdbeb037a74aab13fa05370ced62e6298ff7&v=4" width="24" alt="Avatar of devleifr"> devleifr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#devleifr">Copy rank badge</a><br/>
 			Gleb Eliseev
 		</td>
 		<td>No Company</td>
@@ -2787,7 +2789,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/g4s8">
 				<img src="https://avatars.githubusercontent.com/u/1524988?s=72&u=69f4f849d8899e6c108f56ee81fdb3ec62a96df9&v=4" width="24" alt="Avatar of g4s8"> g4s8
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#g4s8">Copy rank badge</a><br/>
 			Kirill
 		</td>
 		<td>No Company</td>
@@ -2800,7 +2802,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/gagikh">
 				<img src="https://avatars.githubusercontent.com/u/7694001?s=72&u=75674b89b5af3668735ebdca64df9e395491ed39&v=4" width="24" alt="Avatar of gagikh"> gagikh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#gagikh">Copy rank badge</a><br/>
 			Gagik Hakobyan
 		</td>
 		<td>Boo Vision Technologies </td>
@@ -2813,7 +2815,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/AgvanGrigoryan">
 				<img src="https://avatars.githubusercontent.com/u/101641443?s=72&u=6035cce01ef1b1b3a7c86f55d07d975939f8f343&v=4" width="24" alt="Avatar of AgvanGrigoryan"> AgvanGrigoryan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#AgvanGrigoryan">Copy rank badge</a><br/>
 			Agvan
 		</td>
 		<td>Student At 42 School<br/></td>
@@ -2826,7 +2828,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/vhamed02">
 				<img src="https://avatars.githubusercontent.com/u/110328403?s=72&u=b2082f316fd1e03002bcacd2f4d36e2f18ca398b&v=4" width="24" alt="Avatar of vhamed02"> vhamed02
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#vhamed02">Copy rank badge</a><br/>
 			Hamed
 		</td>
 		<td>No Company</td>
@@ -2839,7 +2841,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/rharutyunyan">
 				<img src="https://avatars.githubusercontent.com/u/55436142?s=72&u=dbbf76b6553d17fb0eb9df7d20ad110f84e8b1b0&v=4" width="24" alt="Avatar of rharutyunyan"> rharutyunyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#rharutyunyan">Copy rank badge</a><br/>
 			Radik Harutyunyan
 		</td>
 		<td>No Company</td>
@@ -2852,7 +2854,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/natalieyan14">
 				<img src="https://avatars.githubusercontent.com/u/179211009?s=72&u=ed59404e125aa31152b5462bde1eb0dc4193745e&v=4" width="24" alt="Avatar of natalieyan14"> natalieyan14
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#natalieyan14">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -2865,7 +2867,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/petyapetr">
 				<img src="https://avatars.githubusercontent.com/u/90175094?s=72&u=5fce0a1ac0a35146d45cc447ecd223ec8eb00bd7&v=4" width="24" alt="Avatar of petyapetr"> petyapetr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#petyapetr">Copy rank badge</a><br/>
 			Slava Zakharov
 		</td>
 		<td>@geovibe </td>
@@ -2878,7 +2880,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Sargis-Hovsepyan">
 				<img src="https://avatars.githubusercontent.com/u/60169060?s=72&u=59de238709e7b51d860dbbd956b9a251efc07251&v=4" width="24" alt="Avatar of Sargis-Hovsepyan"> Sargis-Hovsepyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Sargis-Hovsepyan">Copy rank badge</a><br/>
 			Sargis Hovsepyan
 		</td>
 		<td>42 Yerevan </td>
@@ -2891,7 +2893,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/yarastqt">
 				<img src="https://avatars.githubusercontent.com/u/7934638?s=72&u=ed98ffea7a3bb81610a6dd76c475105c1e631c22&v=4" width="24" alt="Avatar of yarastqt"> yarastqt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#yarastqt">Copy rank badge</a><br/>
 			Eugene Tropin
 		</td>
 		<td>Yandex </td>
@@ -2904,7 +2906,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/sharipov-ru">
 				<img src="https://avatars.githubusercontent.com/u/482566?s=72&v=4" width="24" alt="Avatar of sharipov-ru"> sharipov-ru
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#sharipov-ru">Copy rank badge</a><br/>
 			Sharipov Ruslan
 		</td>
 		<td>No Company</td>
@@ -2917,7 +2919,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/armenbadal">
 				<img src="https://avatars.githubusercontent.com/u/4338566?s=72&v=4" width="24" alt="Avatar of armenbadal"> armenbadal
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#armenbadal">Copy rank badge</a><br/>
 			Armen Badalian
 		</td>
 		<td>No Company</td>
@@ -2930,7 +2932,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/grigdevelop">
 				<img src="https://avatars.githubusercontent.com/u/5349294?s=72&u=2ac28e197fbacc609802ed965f2c47aedf443724&v=4" width="24" alt="Avatar of grigdevelop"> grigdevelop
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#grigdevelop">Copy rank badge</a><br/>
 			Grigor Aleksanyan
 		</td>
 		<td>No Company</td>
@@ -2943,7 +2945,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Svaveop">
 				<img src="https://avatars.githubusercontent.com/u/168283825?s=72&u=5b22e7c9210cd8d884efde02675bd05069cf9ad2&v=4" width="24" alt="Avatar of Svaveop"> Svaveop
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Svaveop">Copy rank badge</a><br/>
 			Vahe Martirosyan
 		</td>
 		<td>No Company</td>
@@ -2956,7 +2958,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/BalanceBalls">
 				<img src="https://avatars.githubusercontent.com/u/29193297?s=72&u=bc30dcfb9812f68f78228af74ce8d853e96a5a7e&v=4" width="24" alt="Avatar of BalanceBalls"> BalanceBalls
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#BalanceBalls">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>Finom </td>
@@ -2969,7 +2971,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/arttonoyan">
 				<img src="https://avatars.githubusercontent.com/u/15414389?s=72&u=5c3f8a9974a0667787f027e6688f65120b6f28d1&v=4" width="24" alt="Avatar of arttonoyan"> arttonoyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#arttonoyan">Copy rank badge</a><br/>
 			Artyom Tonoyan
 		</td>
 		<td>Servicetitan </td>
@@ -2982,7 +2984,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/adlermore">
 				<img src="https://avatars.githubusercontent.com/u/52175898?s=72&v=4" width="24" alt="Avatar of adlermore"> adlermore
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#adlermore">Copy rank badge</a><br/>
 			Ashot
 		</td>
 		<td>Logixsoftware </td>
@@ -2995,7 +2997,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/IkeMurami">
 				<img src="https://avatars.githubusercontent.com/u/13149088?s=72&u=087d0a5ffba4c8dff2afd6ce0fc0a13468290640&v=4" width="24" alt="Avatar of IkeMurami"> IkeMurami
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#IkeMurami">Copy rank badge</a><br/>
 			Oleg Petrakov
 		</td>
 		<td>No Company</td>
@@ -3008,7 +3010,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/sargissargsyan">
 				<img src="https://avatars.githubusercontent.com/u/2853535?s=72&u=f054fa56f9a09de2a0693490f697c2770b19d633&v=4" width="24" alt="Avatar of sargissargsyan"> sargissargsyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#sargissargsyan">Copy rank badge</a><br/>
 			Sargis Sargsyan
 		</td>
 		<td>No Company</td>
@@ -3021,7 +3023,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Vladimir-Khlghatyan">
 				<img src="https://avatars.githubusercontent.com/u/94677889?s=72&u=d9596f1e9fe69b787db2aa78cc55f20dcf7e327d&v=4" width="24" alt="Avatar of Vladimir-Khlghatyan"> Vladimir-Khlghatyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Vladimir-Khlghatyan">Copy rank badge</a><br/>
 			Vladimir
 		</td>
 		<td>No Company</td>
@@ -3034,7 +3036,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/davit-badalyan">
 				<img src="https://avatars.githubusercontent.com/u/38225707?s=72&u=346b7d4aec347fb2c47a2c81560354868fa1f47a&v=4" width="24" alt="Avatar of davit-badalyan"> davit-badalyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#davit-badalyan">Copy rank badge</a><br/>
 			Davit Badalyan
 		</td>
 		<td>@your-digital-resear  </td>
@@ -3047,7 +3049,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/hovhannisians">
 				<img src="https://avatars.githubusercontent.com/u/51156797?s=72&u=faf293e7cf784f63121d73891cf2827dc2daa68a&v=4" width="24" alt="Avatar of hovhannisians"> hovhannisians
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#hovhannisians">Copy rank badge</a><br/>
 			Alen Hovhannisians
 		</td>
 		<td>@robi-labs @bleenkai  </td>
@@ -3060,7 +3062,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/JustSlavic">
 				<img src="https://avatars.githubusercontent.com/u/26839955?s=72&u=8d8d2d31d842be861878888f5cda01014911ab61&v=4" width="24" alt="Avatar of JustSlavic"> JustSlavic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#JustSlavic">Copy rank badge</a><br/>
 			Slavic
 		</td>
 		<td>Gaijin Entertainment </td>
@@ -3073,7 +3075,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Jorjeous">
 				<img src="https://avatars.githubusercontent.com/u/37293288?s=72&u=6e222f9eec37758c638973ab8dfae083657d205b&v=4" width="24" alt="Avatar of Jorjeous"> Jorjeous
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Jorjeous">Copy rank badge</a><br/>
 			George
 		</td>
 		<td>Nvidia </td>
@@ -3086,7 +3088,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/AlexGoOn">
 				<img src="https://avatars.githubusercontent.com/u/13753992?s=72&u=8cb9c482df4b1f54b68c5e1e4d50509f6145f521&v=4" width="24" alt="Avatar of AlexGoOn"> AlexGoOn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#AlexGoOn">Copy rank badge</a><br/>
 			Alexander Russkov
 		</td>
 		<td>Devexpress </td>
@@ -3099,7 +3101,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/otanim">
 				<img src="https://avatars.githubusercontent.com/u/7108843?s=72&u=575d66e7e8397dee69c8434fbeff081d1d79cabe&v=4" width="24" alt="Avatar of otanim"> otanim
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#otanim">Copy rank badge</a><br/>
 			Arman Yeghiazaryan
 		</td>
 		<td>No Company</td>
@@ -3112,7 +3114,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/vahan-sahakyan">
 				<img src="https://avatars.githubusercontent.com/u/52359994?s=72&u=84375cf1acd8c3324a042739dacd17edacb80182&v=4" width="24" alt="Avatar of vahan-sahakyan"> vahan-sahakyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#vahan-sahakyan">Copy rank badge</a><br/>
 			Vahan Sahakyan
 		</td>
 		<td>Optimum Partners </td>
@@ -3125,7 +3127,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Zkarape">
 				<img src="https://avatars.githubusercontent.com/u/106172666?s=72&u=cc32f83b85df9d8ddc641d6b00ddf19310fe764a&v=4" width="24" alt="Avatar of Zkarape"> Zkarape
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Zkarape">Copy rank badge</a><br/>
 			Zhenya Karapetyan
 		</td>
 		<td>No Company</td>
@@ -3138,7 +3140,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/matt-hosseini-dev">
 				<img src="https://avatars.githubusercontent.com/u/34459301?s=72&u=d2d8bdc5c3f938c2516b7f4d74b0d257bb3cbd0b&v=4" width="24" alt="Avatar of matt-hosseini-dev"> matt-hosseini-dev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#matt-hosseini-dev">Copy rank badge</a><br/>
 			Matt Hosseini
 		</td>
 		<td>No Company</td>
@@ -3151,7 +3153,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/sigseg5">
 				<img src="https://avatars.githubusercontent.com/u/36568961?s=72&u=1c17111a2a60c35bc26ec663e7c5a99087819169&v=4" width="24" alt="Avatar of sigseg5"> sigseg5
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#sigseg5">Copy rank badge</a><br/>
 			キツネさん
 		</td>
 		<td>@certizdat </td>
@@ -3164,7 +3166,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/ratsam">
 				<img src="https://avatars.githubusercontent.com/u/79494?s=72&v=4" width="24" alt="Avatar of ratsam"> ratsam
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#ratsam">Copy rank badge</a><br/>
 			Maksim Zakharov
 		</td>
 		<td>Pocketcombats, Llc </td>
@@ -3177,7 +3179,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/assam4">
 				<img src="https://avatars.githubusercontent.com/u/115891697?s=72&u=d521dd560e7c02272180d1caabfbb3e3c425e754&v=4" width="24" alt="Avatar of assam4"> assam4
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#assam4">Copy rank badge</a><br/>
 			Samvel Aslanyan
 		</td>
 		<td>No Company</td>
@@ -3190,7 +3192,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/khoren93">
 				<img src="https://avatars.githubusercontent.com/u/11523360?s=72&u=c60f8c1d354adfcab3047e1d2c935247718edc37&v=4" width="24" alt="Avatar of khoren93"> khoren93
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#khoren93">Copy rank badge</a><br/>
 			Khoren Markosyan
 		</td>
 		<td>No Company</td>
@@ -3203,7 +3205,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/artbataev">
 				<img src="https://avatars.githubusercontent.com/u/9380560?s=72&u=eeae48a54e5c58f5abc30fa3432aaa3dd5e446a7&v=4" width="24" alt="Avatar of artbataev"> artbataev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#artbataev">Copy rank badge</a><br/>
 			Vladimir Bataev
 		</td>
 		<td>@nvidia </td>
@@ -3216,7 +3218,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Pakisan">
 				<img src="https://avatars.githubusercontent.com/u/3388414?s=72&u=c324573fea30f55dfcd0a6f04c096ab4b5d90f01&v=4" width="24" alt="Avatar of Pakisan"> Pakisan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Pakisan">Copy rank badge</a><br/>
 			Pavel Bodiachevskii
 		</td>
 		<td>No Company</td>
@@ -3229,7 +3231,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/risenxxx">
 				<img src="https://avatars.githubusercontent.com/u/35740512?s=72&u=4f470701b5e14f422d838ec5997833671c5f31dd&v=4" width="24" alt="Avatar of risenxxx"> risenxxx
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#risenxxx">Copy rank badge</a><br/>
 			Evgenii Zakharov
 		</td>
 		<td>No Company</td>
@@ -3242,7 +3244,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/rasjonell">
 				<img src="https://avatars.githubusercontent.com/u/100065472?s=72&u=47e156cfb3aedabdcc885979eb3dbf0935e8616a&v=4" width="24" alt="Avatar of rasjonell"> rasjonell
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#rasjonell">Copy rank badge</a><br/>
 			Gurgen
 		</td>
 		<td>No Company</td>
@@ -3255,7 +3257,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/alykoshin">
 				<img src="https://avatars.githubusercontent.com/u/780920?s=72&v=4" width="24" alt="Avatar of alykoshin"> alykoshin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#alykoshin">Copy rank badge</a><br/>
 			Alexander
 		</td>
 		<td>No Company</td>
@@ -3268,7 +3270,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Ordyan777">
 				<img src="https://avatars.githubusercontent.com/u/83502954?s=72&u=e644097951e9b350fefc5656bca418bc25b16ef0&v=4" width="24" alt="Avatar of Ordyan777"> Ordyan777
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Ordyan777">Copy rank badge</a><br/>
 			DavOrdyan
 		</td>
 		<td>No Company</td>
@@ -3281,7 +3283,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/sponomarev">
 				<img src="https://avatars.githubusercontent.com/u/2322774?s=72&v=4" width="24" alt="Avatar of sponomarev"> sponomarev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#sponomarev">Copy rank badge</a><br/>
 			Sergey Ponomarev
 		</td>
 		<td>@hoodieshq </td>
@@ -3294,7 +3296,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/MartinXPN">
 				<img src="https://avatars.githubusercontent.com/u/16335716?s=72&u=ff0e1559a49f99277dd1118813e5ea8c343f1830&v=4" width="24" alt="Avatar of MartinXPN"> MartinXPN
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#MartinXPN">Copy rank badge</a><br/>
 			Martin
 		</td>
 		<td>Profound.academy </td>
@@ -3307,7 +3309,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/davidarny">
 				<img src="https://avatars.githubusercontent.com/u/17799810?s=72&u=8bd62046618d102ae0abaa4e4d82a4273d3ca6a8&v=4" width="24" alt="Avatar of davidarny"> davidarny
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#davidarny">Copy rank badge</a><br/>
 			David Arutyunyan
 		</td>
 		<td>No Company</td>
@@ -3320,7 +3322,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Ashot72">
 				<img src="https://avatars.githubusercontent.com/u/8523624?s=72&u=7c00d7595fa2410274ee3f457c421950cff3644e&v=4" width="24" alt="Avatar of Ashot72"> Ashot72
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Ashot72">Copy rank badge</a><br/>
 			Ashot Abrahamyan
 		</td>
 		<td>Lightning Tools </td>
@@ -3333,7 +3335,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/nightwing">
 				<img src="https://avatars.githubusercontent.com/u/341801?s=72&v=4" width="24" alt="Avatar of nightwing"> nightwing
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#nightwing">Copy rank badge</a><br/>
 			Harutyun Amirjanyan
 		</td>
 		<td>No Company</td>
@@ -3346,7 +3348,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/artabramov">
 				<img src="https://avatars.githubusercontent.com/u/49606840?s=72&u=a1d0e1a56df3be23e5cee6c977f9eb9730864832&v=4" width="24" alt="Avatar of artabramov"> artabramov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#artabramov">Copy rank badge</a><br/>
 			Art Abramov
 		</td>
 		<td>No Company</td>
@@ -3359,7 +3361,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Gor-Hoveyan">
 				<img src="https://avatars.githubusercontent.com/u/89770925?s=72&u=882e09b3c439642c6f5f2a90c308dafc0830d733&v=4" width="24" alt="Avatar of Gor-Hoveyan"> Gor-Hoveyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Gor-Hoveyan">Copy rank badge</a><br/>
 			Gor Hoveyan
 		</td>
 		<td>No Company</td>
@@ -3372,7 +3374,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Farzin-Firoozi">
 				<img src="https://avatars.githubusercontent.com/u/52259209?s=72&u=456b376f09dfb24a0e8f0f1df513b402a1fbca39&v=4" width="24" alt="Avatar of Farzin-Firoozi"> Farzin-Firoozi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Farzin-Firoozi">Copy rank badge</a><br/>
 			Farzin Firoozi
 		</td>
 		<td>No Company</td>
@@ -3385,7 +3387,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Akhrameev">
 				<img src="https://avatars.githubusercontent.com/u/1945749?s=72&v=4" width="24" alt="Avatar of Akhrameev"> Akhrameev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Akhrameev">Copy rank badge</a><br/>
 			Pavel Akhrameev
 		</td>
 		<td>Rhino </td>
@@ -3398,7 +3400,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/AmooAti">
 				<img src="https://avatars.githubusercontent.com/u/36756531?s=72&u=2a44dd91cbae80462951d17feb2c171d62170bae&v=4" width="24" alt="Avatar of AmooAti"> AmooAti
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#AmooAti">Copy rank badge</a><br/>
 			AmirHossein Adhami
 		</td>
 		<td>Hamrahtel </td>
@@ -3411,7 +3413,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/dBagrat">
 				<img src="https://avatars.githubusercontent.com/u/32529445?s=72&u=ff4b806dd267fff0fef16737b3cbf4e3d7e295ef&v=4" width="24" alt="Avatar of dBagrat"> dBagrat
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#dBagrat">Copy rank badge</a><br/>
 			Bagrat Dabaghyan
 		</td>
 		<td>Triada Studio </td>
@@ -3424,7 +3426,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/myavrum">
 				<img src="https://avatars.githubusercontent.com/u/27151036?s=72&u=f3409a35e4c2b35bcdc93588989b93a2d139c3a2&v=4" width="24" alt="Avatar of myavrum"> myavrum
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#myavrum">Copy rank badge</a><br/>
 			Marat M. Yavrumyan
 		</td>
 		<td>@armtreebank  </td>
@@ -3437,7 +3439,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/hayk96">
 				<img src="https://avatars.githubusercontent.com/u/46712946?s=72&u=1285e60234b81dc26ebe79158b4b61595e623a48&v=4" width="24" alt="Avatar of hayk96"> hayk96
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#hayk96">Copy rank badge</a><br/>
 			Hayk Davtyan
 		</td>
 		<td>@picsart  </td>
@@ -3450,7 +3452,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/tombouctou">
 				<img src="https://avatars.githubusercontent.com/u/529780?s=72&u=9b532fefc40f99e6fde32b51b67c8e8d4879d410&v=4" width="24" alt="Avatar of tombouctou"> tombouctou
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#tombouctou">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -3463,7 +3465,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/efa2d19">
 				<img src="https://avatars.githubusercontent.com/u/44712637?s=72&u=b843821df843ea8dd42378315b106e07b9abe80a&v=4" width="24" alt="Avatar of efa2d19"> efa2d19
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#efa2d19">Copy rank badge</a><br/>
 			Sasha
 		</td>
 		<td>No Company</td>
@@ -3476,7 +3478,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/CuberHuber">
 				<img src="https://avatars.githubusercontent.com/u/34835155?s=72&u=32849cf90c540ae30d1445a1f678c4845fbf9b09&v=4" width="24" alt="Avatar of CuberHuber"> CuberHuber
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#CuberHuber">Copy rank badge</a><br/>
 			Roman Lupashko
 		</td>
 		<td>No Company</td>
@@ -3489,7 +3491,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Feghal">
 				<img src="https://avatars.githubusercontent.com/u/16435721?s=72&u=3f880d9adb0cfd3c923d26f9680bc3384da88340&v=4" width="24" alt="Avatar of Feghal"> Feghal
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Feghal">Copy rank badge</a><br/>
 			Arthur Sahakyan
 		</td>
 		<td>Atomic S </td>
@@ -3502,7 +3504,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/geeksesi">
 				<img src="https://avatars.githubusercontent.com/u/28778964?s=72&u=8b753b12f32fe264da6af727ad3032be6606a81d&v=4" width="24" alt="Avatar of geeksesi"> geeksesi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#geeksesi">Copy rank badge</a><br/>
 			Mohammad Javad Ghasemy
 		</td>
 		<td>No Company</td>
@@ -3515,7 +3517,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/basvasilich">
 				<img src="https://avatars.githubusercontent.com/u/363312?s=72&u=5ec7bec1d22a78022988e179ce71f7e6b0da8b86&v=4" width="24" alt="Avatar of basvasilich"> basvasilich
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#basvasilich">Copy rank badge</a><br/>
 			Vadim Patsev
 		</td>
 		<td>Yandex Armenia </td>
@@ -3528,7 +3530,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/sergeyksv">
 				<img src="https://avatars.githubusercontent.com/u/1007040?s=72&v=4" width="24" alt="Avatar of sergeyksv"> sergeyksv
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#sergeyksv">Copy rank badge</a><br/>
 			Sergey Korotkov
 		</td>
 		<td>Pushok Software Am </td>
@@ -3541,7 +3543,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/izmaelmag">
 				<img src="https://avatars.githubusercontent.com/u/20561501?s=72&u=cab322f30ebe4f4bbfc056b8af2f87b4ab68cff9&v=4" width="24" alt="Avatar of izmaelmag"> izmaelmag
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#izmaelmag">Copy rank badge</a><br/>
 			Ismail Magomedov
 		</td>
 		<td>@variant-co  </td>
@@ -3554,7 +3556,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/tima1702">
 				<img src="https://avatars.githubusercontent.com/u/11982197?s=72&u=a0738f7d81232fd128a404cb43cbe47feee26f5e&v=4" width="24" alt="Avatar of tima1702"> tima1702
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#tima1702">Copy rank badge</a><br/>
 			Timofei Kuznetsov
 		</td>
 		<td>No Company</td>
@@ -3567,7 +3569,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/thebitbrine">
 				<img src="https://avatars.githubusercontent.com/u/10282676?s=72&u=6ebd34e126ec5b476c33f1c14a6d9fa5ab7ec008&v=4" width="24" alt="Avatar of thebitbrine"> thebitbrine
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#thebitbrine">Copy rank badge</a><br/>
 			TheBitBrine
 		</td>
 		<td>Tbb.rip </td>
@@ -3580,7 +3582,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/sjapi">
 				<img src="https://avatars.githubusercontent.com/u/76052463?s=72&u=160ba49d067be30209fe97548e8f796c1d324e33&v=4" width="24" alt="Avatar of sjapi"> sjapi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#sjapi">Copy rank badge</a><br/>
 			Arseniy Zolotarev
 		</td>
 		<td>No Company</td>
@@ -3593,7 +3595,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/shamkharyan">
 				<img src="https://avatars.githubusercontent.com/u/156576229?s=72&v=4" width="24" alt="Avatar of shamkharyan"> shamkharyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#shamkharyan">Copy rank badge</a><br/>
 			Pavel Shamkharyan
 		</td>
 		<td>Align Technology </td>
@@ -3606,7 +3608,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Ashot1995">
 				<img src="https://avatars.githubusercontent.com/u/29658245?s=72&u=aaf4fc6f44f5b57091cac15eae56ca1d239a229d&v=4" width="24" alt="Avatar of Ashot1995"> Ashot1995
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Ashot1995">Copy rank badge</a><br/>
 			Ashot Gharakeshishyan
 		</td>
 		<td>No Company</td>
@@ -3619,7 +3621,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/AGolz">
 				<img src="https://avatars.githubusercontent.com/u/51645091?s=72&u=098cd3cfe5ebcbed189574aba9646c7fb613cd8e&v=4" width="24" alt="Avatar of AGolz"> AGolz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#AGolz">Copy rank badge</a><br/>
 			Alyona Golz
 		</td>
 		<td>No Company</td>
@@ -3632,7 +3634,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Jesovile">
 				<img src="https://avatars.githubusercontent.com/u/17764449?s=72&u=895fdce62e537746b0ee075bed0cbb4ca18826c4&v=4" width="24" alt="Avatar of Jesovile"> Jesovile
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Jesovile">Copy rank badge</a><br/>
 			Evgeny Sokolov-Viluzin
 		</td>
 		<td>No Company</td>
@@ -3645,7 +3647,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/aramyants">
 				<img src="https://avatars.githubusercontent.com/u/116515088?s=72&u=a32d927b569caa0509c4edc7f8ada3306fc42ad7&v=4" width="24" alt="Avatar of aramyants"> aramyants
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#aramyants">Copy rank badge</a><br/>
 			Aram
 		</td>
 		<td>Davel Creative Agency </td>
@@ -3658,7 +3660,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/a-omi-io">
 				<img src="https://avatars.githubusercontent.com/u/48572511?s=72&u=abfd4b99acf8d027e5e522a35eb6d1db478418da&v=4" width="24" alt="Avatar of a-omi-io"> a-omi-io
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#a-omi-io">Copy rank badge</a><br/>
 			Arman Khilko
 		</td>
 		<td>No Company</td>
@@ -3671,7 +3673,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/ahiipsa">
 				<img src="https://avatars.githubusercontent.com/u/1662798?s=72&u=0c4ef41bb6963b61f1df2b771c880fa971d5776a&v=4" width="24" alt="Avatar of ahiipsa"> ahiipsa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#ahiipsa">Copy rank badge</a><br/>
 			Sergei Karasev
 		</td>
 		<td>No Company</td>
@@ -3684,7 +3686,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Frogleim">
 				<img src="https://avatars.githubusercontent.com/u/92037197?s=72&v=4" width="24" alt="Avatar of Frogleim"> Frogleim
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Frogleim">Copy rank badge</a><br/>
 			Frogleim
 		</td>
 		<td>No Company</td>
@@ -3697,7 +3699,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Davidoc26">
 				<img src="https://avatars.githubusercontent.com/u/65646045?s=72&u=1fc0106a5c84ea1c0643809740634a993b392bab&v=4" width="24" alt="Avatar of Davidoc26"> Davidoc26
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Davidoc26">Copy rank badge</a><br/>
 			David Eritsyan
 		</td>
 		<td>No Company</td>
@@ -3710,7 +3712,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/itrocket-team">
 				<img src="https://avatars.githubusercontent.com/u/48280694?s=72&u=4d3c86b80c4fa89a527c064d152df7350d68838f&v=4" width="24" alt="Avatar of itrocket-team"> itrocket-team
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#itrocket-team">Copy rank badge</a><br/>
 			Sam
 		</td>
 		<td>Itrocket </td>
@@ -3723,7 +3725,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/alipourhabibi">
 				<img src="https://avatars.githubusercontent.com/u/24697363?s=72&u=93ea55b214e1070cb28b4d4c96047a25eed75773&v=4" width="24" alt="Avatar of alipourhabibi"> alipourhabibi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#alipourhabibi">Copy rank badge</a><br/>
 			Ali Pourhabibi
 		</td>
 		<td>No Company</td>
@@ -3736,7 +3738,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/adeptvin1">
 				<img src="https://avatars.githubusercontent.com/u/37010056?s=72&u=2b32159630564524a5b42d9d7e4f741c8ab54592&v=4" width="24" alt="Avatar of adeptvin1"> adeptvin1
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#adeptvin1">Copy rank badge</a><br/>
 			Ivan Filianin
 		</td>
 		<td>Wildberries </td>
@@ -3749,7 +3751,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/sargsiann">
 				<img src="https://avatars.githubusercontent.com/u/104154063?s=72&v=4" width="24" alt="Avatar of sargsiann"> sargsiann
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#sargsiann">Copy rank badge</a><br/>
 			David Sargsyan
 		</td>
 		<td>No Company</td>
@@ -3762,7 +3764,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/roma-goodok">
 				<img src="https://avatars.githubusercontent.com/u/7957281?s=72&u=2f12cd940f63c61c7da7ea2361bc855ab6292243&v=4" width="24" alt="Avatar of roma-goodok"> roma-goodok
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#roma-goodok">Copy rank badge</a><br/>
 			Roman Gudchenko
 		</td>
 		<td>Align Technology </td>
@@ -3775,7 +3777,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/VictorVolovik">
 				<img src="https://avatars.githubusercontent.com/u/11180621?s=72&u=58e4e6b438e083c05d295c6f2d00c140c04a584a&v=4" width="24" alt="Avatar of VictorVolovik"> VictorVolovik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#VictorVolovik">Copy rank badge</a><br/>
 			Victor Volovik
 		</td>
 		<td>No Company</td>
@@ -3788,7 +3790,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Ishkhanants">
 				<img src="https://avatars.githubusercontent.com/u/43495028?s=72&u=f4e1a7817bc554b9d916660eb87e539e915722b6&v=4" width="24" alt="Avatar of Ishkhanants"> Ishkhanants
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Ishkhanants">Copy rank badge</a><br/>
 			Martin
 		</td>
 		<td>No Company</td>
@@ -3801,7 +3803,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/hanumanum">
 				<img src="https://avatars.githubusercontent.com/u/3165164?s=72&v=4" width="24" alt="Avatar of hanumanum"> hanumanum
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#hanumanum">Copy rank badge</a><br/>
 			a.kolyan
 		</td>
 		<td>No Company</td>
@@ -3814,7 +3816,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/bright98">
 				<img src="https://avatars.githubusercontent.com/u/37469478?s=72&u=3aeb97f156aa3387feb2f96401c34d6e52421ce7&v=4" width="24" alt="Avatar of bright98"> bright98
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#bright98">Copy rank badge</a><br/>
 			Haleh Shayanmanesh
 		</td>
 		<td>No Company</td>
@@ -3827,7 +3829,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/ShirakGevorgyan">
 				<img src="https://avatars.githubusercontent.com/u/170958739?s=72&u=eb77c1fd3f0a2f07c2c608ce9738f0c0153b0a1d&v=4" width="24" alt="Avatar of ShirakGevorgyan"> ShirakGevorgyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#ShirakGevorgyan">Copy rank badge</a><br/>
 			Shirak Gevorgyan
 		</td>
 		<td>No Company</td>
@@ -3840,7 +3842,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/kyurkchyan">
 				<img src="https://avatars.githubusercontent.com/u/3243139?s=72&u=538c81138b12b6896a6c1abdf2a53565c6a10b0d&v=4" width="24" alt="Avatar of kyurkchyan"> kyurkchyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#kyurkchyan">Copy rank badge</a><br/>
 			Gagik Kyurkchyan
 		</td>
 		<td>Xamlab </td>
@@ -3853,7 +3855,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/DeimeralGIT">
 				<img src="https://avatars.githubusercontent.com/u/93777577?s=72&u=74c2c5a6b53d1bcaaa5492243411bbd6a1650516&v=4" width="24" alt="Avatar of DeimeralGIT"> DeimeralGIT
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#DeimeralGIT">Copy rank badge</a><br/>
 			Vahan Hekimyan
 		</td>
 		<td>Self-iimployed </td>
@@ -3866,7 +3868,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/ArturHarutyunyan1">
 				<img src="https://avatars.githubusercontent.com/u/76475750?s=72&u=0856653c838ee74d825b8a053fe8bf07ae7bc946&v=4" width="24" alt="Avatar of ArturHarutyunyan1"> ArturHarutyunyan1
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#ArturHarutyunyan1">Copy rank badge</a><br/>
 			Artur Harutyunyan
 		</td>
 		<td>No Company</td>
@@ -3879,7 +3881,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/shadchin">
 				<img src="https://avatars.githubusercontent.com/u/61256?s=72&u=86b12d47165df7ef0b72407970d6696aeb045b1b&v=4" width="24" alt="Avatar of shadchin"> shadchin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#shadchin">Copy rank badge</a><br/>
 			Alexander Shadchin
 		</td>
 		<td>Yandex </td>
@@ -3892,7 +3894,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/In-line">
 				<img src="https://avatars.githubusercontent.com/u/19331496?s=72&u=1b5f12289b3d3375f7ba7356a2a2bd3b2044e3a9&v=4" width="24" alt="Avatar of In-line"> In-line
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#In-line">Copy rank badge</a><br/>
 			Alik Aslanyan
 		</td>
 		<td>@picsart </td>
@@ -3905,7 +3907,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/BerserkerMother">
 				<img src="https://avatars.githubusercontent.com/u/79415521?s=72&u=f55ae80195c0a87d9cd2e35a6faafcc77295272d&v=4" width="24" alt="Avatar of BerserkerMother"> BerserkerMother
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#BerserkerMother">Copy rank badge</a><br/>
 			Kave Bahraman
 		</td>
 		<td>Armenia </td>
@@ -3918,7 +3920,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/qwerity">
 				<img src="https://avatars.githubusercontent.com/u/2309929?s=72&u=aed12ed58252c92d5c89a66ef426aaf2447ec408&v=4" width="24" alt="Avatar of qwerity"> qwerity
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#qwerity">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -3931,7 +3933,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/melsvagharshyan">
 				<img src="https://avatars.githubusercontent.com/u/95281321?s=72&u=fd51d868669e1b013433d4de1ef1ef99e72f9fbd&v=4" width="24" alt="Avatar of melsvagharshyan"> melsvagharshyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#melsvagharshyan">Copy rank badge</a><br/>
 			Mels
 		</td>
 		<td>No Company</td>
@@ -3944,7 +3946,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/var77">
 				<img src="https://avatars.githubusercontent.com/u/17221195?s=72&u=6182ec534d25d1c9ffe1667bd78ea28fd0eea4c8&v=4" width="24" alt="Avatar of var77"> var77
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#var77">Copy rank badge</a><br/>
 			Varik Matevosyan
 		</td>
 		<td>No Company</td>
@@ -3957,7 +3959,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/thalidzhokov">
 				<img src="https://avatars.githubusercontent.com/u/5680364?s=72&v=4" width="24" alt="Avatar of thalidzhokov"> thalidzhokov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#thalidzhokov">Copy rank badge</a><br/>
 			Albert Thalidzhokov
 		</td>
 		<td>@brlabrussia </td>
@@ -3970,7 +3972,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/DarkPro1337">
 				<img src="https://avatars.githubusercontent.com/u/19241806?s=72&u=0ad79871bcbff7d1cc837d4282f4e1e6a977a07e&v=4" width="24" alt="Avatar of DarkPro1337"> DarkPro1337
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#DarkPro1337">Copy rank badge</a><br/>
 			Artem Chernykh
 		</td>
 		<td>No Company</td>
@@ -3983,7 +3985,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/RozaKerobyan">
 				<img src="https://avatars.githubusercontent.com/u/97788153?s=72&u=7608892ec9ce82b0adcc948fd03fc0737a9b20cd&v=4" width="24" alt="Avatar of RozaKerobyan"> RozaKerobyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#RozaKerobyan">Copy rank badge</a><br/>
 			Roza Kerobyan
 		</td>
 		<td>42yerevan </td>
@@ -3996,7 +3998,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/TrueMoein">
 				<img src="https://avatars.githubusercontent.com/u/7044050?s=72&u=259e0bc71147181da916b9d55049231c9a660440&v=4" width="24" alt="Avatar of TrueMoein"> TrueMoein
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#TrueMoein">Copy rank badge</a><br/>
 			Moein Alizadeh
 		</td>
 		<td>@darieh </td>
@@ -4009,7 +4011,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/evgenykochetkov">
 				<img src="https://avatars.githubusercontent.com/u/2527093?s=72&u=ed40606b3c10ee0442392c29422df13d59f9d8aa&v=4" width="24" alt="Avatar of evgenykochetkov"> evgenykochetkov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#evgenykochetkov">Copy rank badge</a><br/>
 			Evgeny Kochetkov
 		</td>
 		<td>No Company</td>
@@ -4022,7 +4024,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/codesnik">
 				<img src="https://avatars.githubusercontent.com/u/4512?s=72&u=4df2eb8c5c2b36062ceea277c1ea6d96e6b7b4fe&v=4" width="24" alt="Avatar of codesnik"> codesnik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#codesnik">Copy rank badge</a><br/>
 			Alexey Trofimenko
 		</td>
 		<td>No Company</td>
@@ -4035,7 +4037,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/itsatefe">
 				<img src="https://avatars.githubusercontent.com/u/39595101?s=72&u=ebf33230ef472984d0c3d9ce10f13ea26f893056&v=4" width="24" alt="Avatar of itsatefe"> itsatefe
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#itsatefe">Copy rank badge</a><br/>
 			Atefe Rajabi
 		</td>
 		<td>No Company</td>
@@ -4048,7 +4050,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/arturdev">
 				<img src="https://avatars.githubusercontent.com/u/6263856?s=72&v=4" width="24" alt="Avatar of arturdev"> arturdev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#arturdev">Copy rank badge</a><br/>
 			Artur  Mkrtchyan
 		</td>
 		<td>@coinstatshq </td>
@@ -4061,7 +4063,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Diveafall">
 				<img src="https://avatars.githubusercontent.com/u/6404971?s=72&u=72c16b565ec559e1c52fe6266b63f07f5970e9a7&v=4" width="24" alt="Avatar of Diveafall"> Diveafall
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Diveafall">Copy rank badge</a><br/>
 			David Isayan
 		</td>
 		<td>No Company</td>
@@ -4074,7 +4076,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/olsh">
 				<img src="https://avatars.githubusercontent.com/u/3613592?s=72&u=0baf163e5bf26d3a7ebca49f02a43fb4c3b1c637&v=4" width="24" alt="Avatar of olsh"> olsh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#olsh">Copy rank badge</a><br/>
 			Oleg Shevchenko
 		</td>
 		<td>No Company</td>
@@ -4087,7 +4089,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/aramix">
 				<img src="https://avatars.githubusercontent.com/u/1033320?s=72&u=16a92528eb786642c6787cba784a68d1b47b88e1&v=4" width="24" alt="Avatar of aramix"> aramix
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#aramix">Copy rank badge</a><br/>
 			Aram Bayadyan
 		</td>
 		<td>Coinplus </td>
@@ -4100,7 +4102,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/DavGal42">
 				<img src="https://avatars.githubusercontent.com/u/147987441?s=72&u=28866a7bb02ee37744e7eecc44cedd4b52d408ea&v=4" width="24" alt="Avatar of DavGal42"> DavGal42
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#DavGal42">Copy rank badge</a><br/>
 			David Galstyan
 		</td>
 		<td>No Company</td>
@@ -4113,7 +4115,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/SemyenPukhov">
 				<img src="https://avatars.githubusercontent.com/u/34551852?s=72&u=13a4760fff8c1a1728457f8564b415a58b5cddd8&v=4" width="24" alt="Avatar of SemyenPukhov"> SemyenPukhov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#SemyenPukhov">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -4126,7 +4128,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/lorsabyan">
 				<img src="https://avatars.githubusercontent.com/u/1901373?s=72&u=0f50785cd7066e9788a5ae51eb1c9d3a46ca2b82&v=4" width="24" alt="Avatar of lorsabyan"> lorsabyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#lorsabyan">Copy rank badge</a><br/>
 			Aghasi Lorsabyan
 		</td>
 		<td>Visual Armenia Foundation </td>
@@ -4139,7 +4141,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/aramzham">
 				<img src="https://avatars.githubusercontent.com/u/25085025?s=72&u=2323f187be68effe1940fe6a863ec67d31845370&v=4" width="24" alt="Avatar of aramzham"> aramzham
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#aramzham">Copy rank badge</a><br/>
 			Aram Zhamkochyan
 		</td>
 		<td>Finnovation </td>
@@ -4152,7 +4154,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/besteto">
 				<img src="https://avatars.githubusercontent.com/u/1311845?s=72&u=ec33fbeee3bb3d4eed1a649bc49255210a0065e7&v=4" width="24" alt="Avatar of besteto"> besteto
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#besteto">Copy rank badge</a><br/>
 			Helen Allien Poe
 		</td>
 		<td>The Witches Circle </td>
@@ -4165,7 +4167,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/adipierro">
 				<img src="https://avatars.githubusercontent.com/u/80180243?s=72&u=b5eff8b388917663573a0ea44dfa8ebf4c2b9ef3&v=4" width="24" alt="Avatar of adipierro"> adipierro
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#adipierro">Copy rank badge</a><br/>
 			Tina DiPierro
 		</td>
 		<td>Tumo Center For Creative<br/>Technologies<br/></td>
@@ -4178,7 +4180,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/mikayelyolchyan">
 				<img src="https://avatars.githubusercontent.com/u/158290439?s=72&u=e0530bbac11b0e64945586a16c06645da76d84ff&v=4" width="24" alt="Avatar of mikayelyolchyan"> mikayelyolchyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#mikayelyolchyan">Copy rank badge</a><br/>
 			Mikayel Yolchyan
 		</td>
 		<td>Tumo </td>
@@ -4191,7 +4193,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/SarkisKhachatryan">
 				<img src="https://avatars.githubusercontent.com/u/53656092?s=72&u=f97eb24769db1005a167c9b4e975d378f001336b&v=4" width="24" alt="Avatar of SarkisKhachatryan"> SarkisKhachatryan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#SarkisKhachatryan">Copy rank badge</a><br/>
 			Sargis Khachatryan
 		</td>
 		<td>No Company</td>
@@ -4204,7 +4206,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/HARUTDOKHOYAN">
 				<img src="https://avatars.githubusercontent.com/u/82262019?s=72&u=2610b76b54d4ee79a9776bb60168ddbfecc0ebe6&v=4" width="24" alt="Avatar of HARUTDOKHOYAN"> HARUTDOKHOYAN
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#HARUTDOKHOYAN">Copy rank badge</a><br/>
 			HarutDokhoyan
 		</td>
 		<td>Picsart </td>
@@ -4217,7 +4219,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/miora-sora">
 				<img src="https://avatars.githubusercontent.com/u/92441512?s=72&u=013995ae30c513ed7bb7ce199189f1eff03b775d&v=4" width="24" alt="Avatar of miora-sora"> miora-sora
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#miora-sora">Copy rank badge</a><br/>
 			Mi0r4
 		</td>
 		<td>No Company</td>
@@ -4230,7 +4232,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/druizf85">
 				<img src="https://avatars.githubusercontent.com/u/121362745?s=72&v=4" width="24" alt="Avatar of druizf85"> druizf85
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#druizf85">Copy rank badge</a><br/>
 			Daniel Ruiz
 		</td>
 		<td>No Company</td>
@@ -4243,7 +4245,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/gamedevshrimp">
 				<img src="https://avatars.githubusercontent.com/u/10572103?s=72&u=f0bf29e62ccc4bc72fc6719eee24daf55b417876&v=4" width="24" alt="Avatar of gamedevshrimp"> gamedevshrimp
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#gamedevshrimp">Copy rank badge</a><br/>
 			Evgenii Starostin
 		</td>
 		<td>No Company</td>
@@ -4256,7 +4258,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/dev-kraken">
 				<img src="https://avatars.githubusercontent.com/u/86368498?s=72&u=68368f5cc7efe7618b8bdf0335ecd117bb8576dc&v=4" width="24" alt="Avatar of dev-kraken"> dev-kraken
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#dev-kraken">Copy rank badge</a><br/>
 			👋🏽  Dev Kraken
 		</td>
 		<td>Logix Software </td>
@@ -4269,7 +4271,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Ecialo">
 				<img src="https://avatars.githubusercontent.com/u/5411164?s=72&u=59b030534182ed7ff627f175ba0545bb7455abce&v=4" width="24" alt="Avatar of Ecialo"> Ecialo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Ecialo">Copy rank badge</a><br/>
 			Alexander Tortsev
 		</td>
 		<td>No Company</td>
@@ -4282,7 +4284,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/HugaidaS">
 				<img src="https://avatars.githubusercontent.com/u/48504377?s=72&u=11bb6d08885da55138df196dfcaa3eb46989e514&v=4" width="24" alt="Avatar of HugaidaS"> HugaidaS
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#HugaidaS">Copy rank badge</a><br/>
 			Victoria
 		</td>
 		<td>No Company</td>
@@ -4295,7 +4297,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/vitek">
 				<img src="https://avatars.githubusercontent.com/u/489439?s=72&v=4" width="24" alt="Avatar of vitek"> vitek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#vitek">Copy rank badge</a><br/>
 			Victor Makarov
 		</td>
 		<td>No Company</td>
@@ -4308,7 +4310,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/tigran-sn">
 				<img src="https://avatars.githubusercontent.com/u/12901106?s=72&u=8e5b0785831834bf43392a6ca9f0cbcc512d538c&v=4" width="24" alt="Avatar of tigran-sn"> tigran-sn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#tigran-sn">Copy rank badge</a><br/>
 			Tigran Soghomonyan
 		</td>
 		<td>Senior Front End Developer<br/></td>
@@ -4321,7 +4323,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/xobotun">
 				<img src="https://avatars.githubusercontent.com/u/1250297?s=72&u=f2e7a75e48d8984568c89061e9b449fa4b223a32&v=4" width="24" alt="Avatar of xobotun"> xobotun
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#xobotun">Copy rank badge</a><br/>
 			Paul Maminov
 		</td>
 		<td>No Company</td>
@@ -4334,7 +4336,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/xpahos">
 				<img src="https://avatars.githubusercontent.com/u/480005?s=72&u=7b9b0090ec41082edf3824f32b07e8599d62e4c2&v=4" width="24" alt="Avatar of xpahos"> xpahos
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#xpahos">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -4347,7 +4349,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/ezhevita">
 				<img src="https://avatars.githubusercontent.com/u/24438339?s=72&u=29e7f353fe7f2c3bba707ad15305b2ab54aa2c02&v=4" width="24" alt="Avatar of ezhevita"> ezhevita
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#ezhevita">Copy rank badge</a><br/>
 			Vita Chumakova
 		</td>
 		<td>@drivenet </td>
@@ -4360,7 +4362,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/mrkaren">
 				<img src="https://avatars.githubusercontent.com/u/11619225?s=72&u=cf922b3c147e5cc73ba7fe0efe7be264a461bd95&v=4" width="24" alt="Avatar of mrkaren"> mrkaren
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#mrkaren">Copy rank badge</a><br/>
 			Karen Gasparyan
 		</td>
 		<td>No Company</td>
@@ -4373,7 +4375,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/boxfrommars">
 				<img src="https://avatars.githubusercontent.com/u/81930?s=72&v=4" width="24" alt="Avatar of boxfrommars"> boxfrommars
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#boxfrommars">Copy rank badge</a><br/>
 			Dmitry Groza
 		</td>
 		<td>No Company</td>
@@ -4386,7 +4388,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/aacc1on">
 				<img src="https://avatars.githubusercontent.com/u/62832144?s=72&u=10c4b167bac527e2ff8ef12f72b3d67985c981ee&v=4" width="24" alt="Avatar of aacc1on"> aacc1on
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#aacc1on">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -4399,7 +4401,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/shahen94">
 				<img src="https://avatars.githubusercontent.com/u/13334788?s=72&u=d6fa2cb75b99fa304eb8ee22faa02f40c361698c&v=4" width="24" alt="Avatar of shahen94"> shahen94
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#shahen94">Copy rank badge</a><br/>
 			Shahen Hovhannisyan
 		</td>
 		<td>No Company</td>
@@ -4412,7 +4414,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/alexandr2110pro">
 				<img src="https://avatars.githubusercontent.com/u/2496784?s=72&u=a46fad78436147f6e9dda9e55cf21f50bbe9b4c4&v=4" width="24" alt="Avatar of alexandr2110pro"> alexandr2110pro
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#alexandr2110pro">Copy rank badge</a><br/>
 			Alexandr Cherednichenko
 		</td>
 		<td>Private Person </td>
@@ -4425,7 +4427,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/nikitindiz">
 				<img src="https://avatars.githubusercontent.com/u/7104984?s=72&u=ec257af476f9b78afba3e120ee4e0cba18dfa4e1&v=4" width="24" alt="Avatar of nikitindiz"> nikitindiz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#nikitindiz">Copy rank badge</a><br/>
 			Aleksandr Nikitin
 		</td>
 		<td>No Company</td>
@@ -4438,7 +4440,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/suren-atoyan">
 				<img src="https://avatars.githubusercontent.com/u/13118722?s=72&u=510d425620216857687a6e021738d4b6e921ca96&v=4" width="24" alt="Avatar of suren-atoyan"> suren-atoyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#suren-atoyan">Copy rank badge</a><br/>
 			Suren Atoyan
 		</td>
 		<td>@basetenlabs </td>
@@ -4451,7 +4453,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/ozor">
 				<img src="https://avatars.githubusercontent.com/u/1396944?s=72&u=796cf3948c78e4bd080bbe8421315a963a6bf0ad&v=4" width="24" alt="Avatar of ozor"> ozor
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#ozor">Copy rank badge</a><br/>
 			Denis Ushakov
 		</td>
 		<td>No Company</td>
@@ -4464,7 +4466,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/merdiofriviaisherebitch">
 				<img src="https://avatars.githubusercontent.com/u/177917544?s=72&u=9909a7f2b7dd27384b90cf933bcde4ab97fd46ff&v=4" width="24" alt="Avatar of merdiofriviaisherebitch"> merdiofriviaisherebitch
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#merdiofriviaisherebitch">Copy rank badge</a><br/>
 			Antevolt
 		</td>
 		<td>Antevolt </td>
@@ -4477,7 +4479,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/MkrtichSargsyan">
 				<img src="https://avatars.githubusercontent.com/u/31889642?s=72&u=102994300b6a07c664bc478dcae58055daa11af0&v=4" width="24" alt="Avatar of MkrtichSargsyan"> MkrtichSargsyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#MkrtichSargsyan">Copy rank badge</a><br/>
 			Mkrtich Sargsyan
 		</td>
 		<td>Freelance Full-stack Developer </td>
@@ -4490,7 +4492,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Sp1ta4">
 				<img src="https://avatars.githubusercontent.com/u/150962088?s=72&u=add3bdab97ef59a32dd1ecbf92867ef0da54a938&v=4" width="24" alt="Avatar of Sp1ta4"> Sp1ta4
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Sp1ta4">Copy rank badge</a><br/>
 			Glak Gevorgian
 		</td>
 		<td>Codeex </td>
@@ -4503,7 +4505,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/ArmSershant">
 				<img src="https://avatars.githubusercontent.com/u/101866789?s=72&u=6a4fca74e05feba44bb79c8113875db95dbd61a3&v=4" width="24" alt="Avatar of ArmSershant"> ArmSershant
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#ArmSershant">Copy rank badge</a><br/>
 			Vardges
 		</td>
 		<td>No Company</td>
@@ -4516,7 +4518,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/AndreiMaz">
 				<img src="https://avatars.githubusercontent.com/u/5019111?s=72&u=f741c4f331c6300e127ac7345349940e311a0eab&v=4" width="24" alt="Avatar of AndreiMaz"> AndreiMaz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#AndreiMaz">Copy rank badge</a><br/>
 			Andrei Mazulnitsyn
 		</td>
 		<td>Nopcommerce Team </td>
@@ -4529,7 +4531,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/caxapexac">
 				<img src="https://avatars.githubusercontent.com/u/33996246?s=72&u=21278590dfcf42ef87751dabc08e5bdb01b47ed6&v=4" width="24" alt="Avatar of caxapexac"> caxapexac
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#caxapexac">Copy rank badge</a><br/>
 			caxapexac
 		</td>
 		<td>No Company</td>
@@ -4542,7 +4544,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/sabovyan">
 				<img src="https://avatars.githubusercontent.com/u/58337011?s=72&u=df61737e6991cce97cd4ae0d554cc3cc1a910535&v=4" width="24" alt="Avatar of sabovyan"> sabovyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#sabovyan">Copy rank badge</a><br/>
 			Sargis Abovyan
 		</td>
 		<td>Simply Technologies </td>
@@ -4555,7 +4557,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/zombiQWERTY">
 				<img src="https://avatars.githubusercontent.com/u/4366893?s=72&u=c38e402c2492ca7f2f73ed5d23da505c37ee158c&v=4" width="24" alt="Avatar of zombiQWERTY"> zombiQWERTY
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#zombiQWERTY">Copy rank badge</a><br/>
 			Pavel Zinovev
 		</td>
 		<td>No Company</td>
@@ -4568,7 +4570,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/tsepakme">
 				<img src="https://avatars.githubusercontent.com/u/90152813?s=72&v=4" width="24" alt="Avatar of tsepakme"> tsepakme
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#tsepakme">Copy rank badge</a><br/>
 			Aiusha Mikhailov
 		</td>
 		<td>Hirschtec Gmbh & Co.<br/>Kg<br/><br/></td>
@@ -4581,7 +4583,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/musheghtorosyan">
 				<img src="https://avatars.githubusercontent.com/u/17844459?s=72&u=453a6e6479a7593721ff48d53999caba192fae8a&v=4" width="24" alt="Avatar of musheghtorosyan"> musheghtorosyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#musheghtorosyan">Copy rank badge</a><br/>
 			MUSHEGH TOROSYAN
 		</td>
 		<td>Github  </td>
@@ -4594,7 +4596,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/gevaghajanyan">
 				<img src="https://avatars.githubusercontent.com/u/26455292?s=72&u=1e9c652a20bdd76bf97cbe6c1d106635e5218b8f&v=4" width="24" alt="Avatar of gevaghajanyan"> gevaghajanyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#gevaghajanyan">Copy rank badge</a><br/>
 			Gevorg Aghajanyan
 		</td>
 		<td>Async </td>
@@ -4607,7 +4609,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Fantoom">
 				<img src="https://avatars.githubusercontent.com/u/28819693?s=72&u=6e2d1eb1196ebf8b610829222452cd35525ce407&v=4" width="24" alt="Avatar of Fantoom"> Fantoom
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Fantoom">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>@jetbrains </td>
@@ -4620,7 +4622,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/vmartirosyan">
 				<img src="https://avatars.githubusercontent.com/u/11453994?s=72&u=d0ddf83076f7d82ed00dd0a0441c107e1bd7ea47&v=4" width="24" alt="Avatar of vmartirosyan"> vmartirosyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#vmartirosyan">Copy rank badge</a><br/>
 			Vahram Martirosyan
 		</td>
 		<td>No Company</td>
@@ -4633,7 +4635,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/lvnr">
 				<img src="https://avatars.githubusercontent.com/u/3449973?s=72&u=f895661b223c89415e345e656082f8582ca25918&v=4" width="24" alt="Avatar of lvnr"> lvnr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#lvnr">Copy rank badge</a><br/>
 			Levon Arakelyan
 		</td>
 		<td>No Company</td>
@@ -4646,7 +4648,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/OdearOgy">
 				<img src="https://avatars.githubusercontent.com/u/23006209?s=72&u=733bb0c24166eabfbddbeec6c5b2f74b6c843ffd&v=4" width="24" alt="Avatar of OdearOgy"> OdearOgy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#OdearOgy">Copy rank badge</a><br/>
 			Hovhannes
 		</td>
 		<td>@balance-bet </td>
@@ -4659,7 +4661,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/siranussh">
 				<img src="https://avatars.githubusercontent.com/u/153432303?s=72&u=437aa7c6f46eae349a1ea2db8718d7795791ebdb&v=4" width="24" alt="Avatar of siranussh"> siranussh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#siranussh">Copy rank badge</a><br/>
 			Siranush Hakobyan
 		</td>
 		<td>No Company</td>
@@ -4672,7 +4674,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/sadfuzzy">
 				<img src="https://avatars.githubusercontent.com/u/158883?s=72&u=e23d4b606286e1fb57c275e724295eb172d46e97&v=4" width="24" alt="Avatar of sadfuzzy"> sadfuzzy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#sadfuzzy">Copy rank badge</a><br/>
 			Denis Savitskiy
 		</td>
 		<td>No Company</td>
@@ -4685,7 +4687,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/RomanovM">
 				<img src="https://avatars.githubusercontent.com/u/16698464?s=72&u=699af751802509c5703f8e1c9856aea6b113e9fc&v=4" width="24" alt="Avatar of RomanovM"> RomanovM
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#RomanovM">Copy rank badge</a><br/>
 			Romanov Maksim
 		</td>
 		<td>Nopcommerce Team </td>
@@ -4698,7 +4700,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Rey8d01">
 				<img src="https://avatars.githubusercontent.com/u/4836190?s=72&u=14f410b0befd79de59cff5394059f892a4e8375a&v=4" width="24" alt="Avatar of Rey8d01"> Rey8d01
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Rey8d01">Copy rank badge</a><br/>
 			Evgeniy Radchenko
 		</td>
 		<td>No Company</td>
@@ -4711,7 +4713,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/n0uk">
 				<img src="https://avatars.githubusercontent.com/u/3470446?s=72&v=4" width="24" alt="Avatar of n0uk"> n0uk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#n0uk">Copy rank badge</a><br/>
 			Maksim Ustichenko
 		</td>
 		<td>No Company</td>
@@ -4724,7 +4726,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/AndranikSargsyan">
 				<img src="https://avatars.githubusercontent.com/u/8330396?s=72&u=30a146b54a0f074183e46fa0eeb8b3f7e5871e99&v=4" width="24" alt="Avatar of AndranikSargsyan"> AndranikSargsyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#AndranikSargsyan">Copy rank badge</a><br/>
 			Andranik Sargsyan
 		</td>
 		<td>Picsart </td>
@@ -4737,7 +4739,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/kozlice">
 				<img src="https://avatars.githubusercontent.com/u/747947?s=72&u=c19e0c5c036a3d6607984e59c0802d3aeaca2534&v=4" width="24" alt="Avatar of kozlice"> kozlice
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#kozlice">Copy rank badge</a><br/>
 			Valentin Nazarov
 		</td>
 		<td>No Company</td>
@@ -4750,7 +4752,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/robgev">
 				<img src="https://avatars.githubusercontent.com/u/9303680?s=72&u=9e4e375084adced498a5f23f7c074e9ecdac902f&v=4" width="24" alt="Avatar of robgev"> robgev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#robgev">Copy rank badge</a><br/>
 			Robert
 		</td>
 		<td>No Company</td>
@@ -4763,7 +4765,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/rubentsirunyan">
 				<img src="https://avatars.githubusercontent.com/u/26749930?s=72&u=f332c88067f574c296db861d85b14ed8a8f164b0&v=4" width="24" alt="Avatar of rubentsirunyan"> rubentsirunyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#rubentsirunyan">Copy rank badge</a><br/>
 			Ruben Tsirunyan
 		</td>
 		<td>No Company</td>
@@ -4776,7 +4778,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/monica06-yan">
 				<img src="https://avatars.githubusercontent.com/u/130900080?s=72&u=2f90914443a7b84ebec4449973920af76799dcca&v=4" width="24" alt="Avatar of monica06-yan"> monica06-yan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#monica06-yan">Copy rank badge</a><br/>
 			Monica
 		</td>
 		<td>Tumo Lab's </td>
@@ -4789,7 +4791,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Hrant-Khachatrian">
 				<img src="https://avatars.githubusercontent.com/u/933808?s=72&v=4" width="24" alt="Avatar of Hrant-Khachatrian"> Hrant-Khachatrian
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Hrant-Khachatrian">Copy rank badge</a><br/>
 			Hrant Khachatrian
 		</td>
 		<td>No Company</td>
@@ -4802,7 +4804,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Nagellan">
 				<img src="https://avatars.githubusercontent.com/u/31626879?s=72&u=78551b96596b45129360a235c955f200603b982b&v=4" width="24" alt="Avatar of Nagellan"> Nagellan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Nagellan">Copy rank badge</a><br/>
 			Irek Nazmiev
 		</td>
 		<td>No Company</td>
@@ -4815,7 +4817,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/NeoTheFox">
 				<img src="https://avatars.githubusercontent.com/u/1682833?s=72&v=4" width="24" alt="Avatar of NeoTheFox"> NeoTheFox
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#NeoTheFox">Copy rank badge</a><br/>
 			NeoTheFox
 		</td>
 		<td>No Company</td>
@@ -4828,7 +4830,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/gagharutyunyan1993">
 				<img src="https://avatars.githubusercontent.com/u/53352872?s=72&u=89a6dba662bb4438920e39e93fec99378cb25736&v=4" width="24" alt="Avatar of gagharutyunyan1993"> gagharutyunyan1993
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#gagharutyunyan1993">Copy rank badge</a><br/>
 			Gagik Harutyunyan
 		</td>
 		<td>No Company</td>
@@ -4841,7 +4843,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/ditord">
 				<img src="https://avatars.githubusercontent.com/u/1479500?s=72&u=57aa94e061db44c14073e23265ca53e5d8dd36e1&v=4" width="24" alt="Avatar of ditord"> ditord
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#ditord">Copy rank badge</a><br/>
 			Artur Papyan
 		</td>
 		<td>Subnet.am </td>
@@ -4854,7 +4856,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/annabaharyan">
 				<img src="https://avatars.githubusercontent.com/u/92983392?s=72&u=45d7ad06c6fe46f9e83a8f965437aef7067cd3c9&v=4" width="24" alt="Avatar of annabaharyan"> annabaharyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#annabaharyan">Copy rank badge</a><br/>
 			Anna
 		</td>
 		<td>Hacktech </td>
@@ -4867,7 +4869,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/andresfdel17">
 				<img src="https://avatars.githubusercontent.com/u/53264064?s=72&u=4658928842a6cff665d80eb4d67e863dfe434bb1&v=4" width="24" alt="Avatar of andresfdel17"> andresfdel17
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#andresfdel17">Copy rank badge</a><br/>
 			Andres Felipe Delgado G
 		</td>
 		<td>@coordinadora-mercan  </td>
@@ -4880,7 +4882,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/markparonyan">
 				<img src="https://avatars.githubusercontent.com/u/84400463?s=72&u=743605d2f3097f9270fa933857baeffb099ff3bc&v=4" width="24" alt="Avatar of markparonyan"> markparonyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#markparonyan">Copy rank badge</a><br/>
 			Mark Paronyan
 		</td>
 		<td>No Company</td>
@@ -4893,7 +4895,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/hflexgrig">
 				<img src="https://avatars.githubusercontent.com/u/24684337?s=72&u=163c2a6c46e2bb4a70090f60922916361f25f03b&v=4" width="24" alt="Avatar of hflexgrig"> hflexgrig
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#hflexgrig">Copy rank badge</a><br/>
 			Hakob Grigoryan
 		</td>
 		<td>No Company</td>
@@ -4906,7 +4908,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/CrissNamon">
 				<img src="https://avatars.githubusercontent.com/u/22001123?s=72&u=fdb3614491d40a32cdf210ead25733f381b805a0&v=4" width="24" alt="Avatar of CrissNamon"> CrissNamon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#CrissNamon">Copy rank badge</a><br/>
 			Danila Rassokhin
 		</td>
 		<td>Ylab </td>
@@ -4919,7 +4921,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/immz4">
 				<img src="https://avatars.githubusercontent.com/u/22055934?s=72&u=14d0e62923b90e247f0e3a22d3e90cc0ebddcacd&v=4" width="24" alt="Avatar of immz4"> immz4
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#immz4">Copy rank badge</a><br/>
 			immz
 		</td>
 		<td>No Company</td>
@@ -4932,7 +4934,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/JilmarV">
 				<img src="https://avatars.githubusercontent.com/u/159512502?s=72&u=7a01c0bb7877b3cbb31b02244432307fa52bf631&v=4" width="24" alt="Avatar of JilmarV"> JilmarV
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#JilmarV">Copy rank badge</a><br/>
 			Jilmar Said Veloza Paez
 		</td>
 		<td>No Company</td>
@@ -4945,7 +4947,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Armenvardanyan95">
 				<img src="https://avatars.githubusercontent.com/u/20133025?s=72&u=c7265574e69d384f02b5b84bf69a4c421a1a5889&v=4" width="24" alt="Avatar of Armenvardanyan95"> Armenvardanyan95
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Armenvardanyan95">Copy rank badge</a><br/>
 			Armen Vardanyan
 		</td>
 		<td>Volo Llc </td>
@@ -4958,7 +4960,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/dairongranada">
 				<img src="https://avatars.githubusercontent.com/u/93607018?s=72&u=9e9dc1f8849fd7989d5446e2aa4472eb8799e3ab&v=4" width="24" alt="Avatar of dairongranada"> dairongranada
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#dairongranada">Copy rank badge</a><br/>
 			Dairon Granada
 		</td>
 		<td>No Company</td>
@@ -4971,7 +4973,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/modularcoder">
 				<img src="https://avatars.githubusercontent.com/u/3959008?s=72&u=514bb1e53ec3e768098672aa0999c7e0273ba7ca&v=4" width="24" alt="Avatar of modularcoder"> modularcoder
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#modularcoder">Copy rank badge</a><br/>
 			Gevorg Harutyunyan
 		</td>
 		<td>@modularcode </td>
@@ -4984,7 +4986,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/sergeywave">
 				<img src="https://avatars.githubusercontent.com/u/95087376?s=72&u=d0bf9d65afeb7ca884535335b656dd5d128e642c&v=4" width="24" alt="Avatar of sergeywave"> sergeywave
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#sergeywave">Copy rank badge</a><br/>
 			Sergey Volnushkin
 		</td>
 		<td>Freelance </td>
@@ -4997,7 +4999,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/lo-van">
 				<img src="https://avatars.githubusercontent.com/u/38462485?s=72&u=ce2a2643569c18c61e36dc65bfcccd3e7fdb64ea&v=4" width="24" alt="Avatar of lo-van"> lo-van
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#lo-van">Copy rank badge</a><br/>
 			Ivan Lomakin
 		</td>
 		<td>@intspirit </td>
@@ -5010,7 +5012,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/AydinyanNarek">
 				<img src="https://avatars.githubusercontent.com/u/31367900?s=72&u=4d9491c63056a8ef82903f510cbd709709dcb95f&v=4" width="24" alt="Avatar of AydinyanNarek"> AydinyanNarek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#AydinyanNarek">Copy rank badge</a><br/>
 			Narek Aydinyan
 		</td>
 		<td>No Company</td>
@@ -5023,7 +5025,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Gim6626">
 				<img src="https://avatars.githubusercontent.com/u/169866?s=72&u=dde8a53112c48bec3514a93627950517b7287cb4&v=4" width="24" alt="Avatar of Gim6626"> Gim6626
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Gim6626">Copy rank badge</a><br/>
 			Dmitrii Vinokurov
 		</td>
 		<td>No Company</td>
@@ -5036,7 +5038,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/ShoshinNikita">
 				<img src="https://avatars.githubusercontent.com/u/30220965?s=72&u=29b80948546a85712455e6e8d6da6435a9c9c417&v=4" width="24" alt="Avatar of ShoshinNikita"> ShoshinNikita
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#ShoshinNikita">Copy rank badge</a><br/>
 			Shoshin Nikita
 		</td>
 		<td>No Company</td>
@@ -5049,7 +5051,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/WindowGenerator">
 				<img src="https://avatars.githubusercontent.com/u/41333030?s=72&u=3a6f252088df612350ce84f2d2788ce99e5cee16&v=4" width="24" alt="Avatar of WindowGenerator"> WindowGenerator
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#WindowGenerator">Copy rank badge</a><br/>
 			Sergei Chudov
 		</td>
 		<td>@bostongene </td>
@@ -5062,7 +5064,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/aramvr">
 				<img src="https://avatars.githubusercontent.com/u/17475434?s=72&u=fe3297edfa39b69fa578254fbc566c6ff29c1fb4&v=4" width="24" alt="Avatar of aramvr"> aramvr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#aramvr">Copy rank badge</a><br/>
 			Aram
 		</td>
 		<td>No Company</td>
@@ -5075,7 +5077,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/lLalvar">
 				<img src="https://avatars.githubusercontent.com/u/44973936?s=72&u=a27b4f7f6b38294e7dfdbdbb9d4afedf08b255f9&v=4" width="24" alt="Avatar of lLalvar"> lLalvar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#lLalvar">Copy rank badge</a><br/>
 			Lalvar Mnatsakanyan
 		</td>
 		<td>No Company</td>
@@ -5088,7 +5090,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/sumboid">
 				<img src="https://avatars.githubusercontent.com/u/271486?s=72&v=4" width="24" alt="Avatar of sumboid"> sumboid
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#sumboid">Copy rank badge</a><br/>
 			Ilya Sumbatyants
 		</td>
 		<td>No Company</td>
@@ -5101,7 +5103,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/shchuko">
 				<img src="https://avatars.githubusercontent.com/u/36963534?s=72&u=5a07082c6033d301ea05c63a4482f83a0af9bb68&v=4" width="24" alt="Avatar of shchuko"> shchuko
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#shchuko">Copy rank badge</a><br/>
 			Vladislav Yaroshchuk
 		</td>
 		<td>@jetbrains </td>
@@ -5114,7 +5116,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/heysebas">
 				<img src="https://avatars.githubusercontent.com/u/70991975?s=72&u=42d4263b3412c7ba6e291755733b912308dbafb2&v=4" width="24" alt="Avatar of heysebas"> heysebas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#heysebas">Copy rank badge</a><br/>
 			Sebastian Grisales
 		</td>
 		<td>No Company</td>
@@ -5127,7 +5129,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/edbabayan">
 				<img src="https://avatars.githubusercontent.com/u/100773774?s=72&u=3682c603a874d56cd873941b0d9733e5a333a156&v=4" width="24" alt="Avatar of edbabayan"> edbabayan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#edbabayan">Copy rank badge</a><br/>
 			Eduard
 		</td>
 		<td>No Company</td>
@@ -5140,7 +5142,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/ilyxabatko">
 				<img src="https://avatars.githubusercontent.com/u/80854615?s=72&u=ef86f56414904826cda6bc5d46fc9ddafb5560cb&v=4" width="24" alt="Avatar of ilyxabatko"> ilyxabatko
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#ilyxabatko">Copy rank badge</a><br/>
 			Ilia Barinov
 		</td>
 		<td>Influenceable </td>
@@ -5153,7 +5155,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/cricketnest">
 				<img src="https://avatars.githubusercontent.com/u/22011186?s=72&u=57ca0615a7d612239c6de2472609403521b51aa6&v=4" width="24" alt="Avatar of cricketnest"> cricketnest
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#cricketnest">Copy rank badge</a><br/>
 			RV
 		</td>
 		<td>No Company</td>
@@ -5166,7 +5168,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/tigransimonyan">
 				<img src="https://avatars.githubusercontent.com/u/25534427?s=72&u=0b321d29fc49348517d060240b9e1e60223b654b&v=4" width="24" alt="Avatar of tigransimonyan"> tigransimonyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#tigransimonyan">Copy rank badge</a><br/>
 			տիգրան
 		</td>
 		<td>No Company</td>
@@ -5179,7 +5181,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/42proger">
 				<img src="https://avatars.githubusercontent.com/u/13406748?s=72&u=f0fe9f731e57d3498b91509c369ce94c436c329b&v=4" width="24" alt="Avatar of 42proger"> 42proger
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#42proger">Copy rank badge</a><br/>
 			Hovhannes B10n
 		</td>
 		<td>No Company</td>
@@ -5192,7 +5194,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/pjsofts">
 				<img src="https://avatars.githubusercontent.com/u/2054306?s=72&u=956f38e5a76824fcb45a578a77ea7bac312bb515&v=4" width="24" alt="Avatar of pjsofts"> pjsofts
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#pjsofts">Copy rank badge</a><br/>
 			Pouria Jahandideh
 		</td>
 		<td>Agentonic </td>
@@ -5205,7 +5207,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Davit98">
 				<img src="https://avatars.githubusercontent.com/u/21690840?s=72&u=b97d8d7df0c0118e6482481041b720517cefadce&v=4" width="24" alt="Avatar of Davit98"> Davit98
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Davit98">Copy rank badge</a><br/>
 			Davit Martirosyan
 		</td>
 		<td>No Company</td>
@@ -5218,7 +5220,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/andranik3949">
 				<img src="https://avatars.githubusercontent.com/u/15646819?s=72&u=9729248552f5ac1dc5957c74d4c65143aff5ecd7&v=4" width="24" alt="Avatar of andranik3949"> andranik3949
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#andranik3949">Copy rank badge</a><br/>
 			Andranik Melikyan
 		</td>
 		<td>@triadastudio  </td>
@@ -5231,7 +5233,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/CoonJS">
 				<img src="https://avatars.githubusercontent.com/u/37885113?s=72&u=4928d1e2874c277705361d1279c46d9f308f0134&v=4" width="24" alt="Avatar of CoonJS"> CoonJS
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#CoonJS">Copy rank badge</a><br/>
 			Roman
 		</td>
 		<td>Sourcemap </td>
@@ -5244,7 +5246,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/nikarm22">
 				<img src="https://avatars.githubusercontent.com/u/20836844?s=72&u=6917e8e42896ad85072448d02c5eb3ddc176880a&v=4" width="24" alt="Avatar of nikarm22"> nikarm22
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#nikarm22">Copy rank badge</a><br/>
 			Armen Nikoyan
 		</td>
 		<td>No Company</td>
@@ -5257,7 +5259,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/MRGGC">
 				<img src="https://avatars.githubusercontent.com/u/16705954?s=72&u=dcb8670c749d8ea1638996c47f39e42203602261&v=4" width="24" alt="Avatar of MRGGC"> MRGGC
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#MRGGC">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>Ggc </td>
@@ -5270,7 +5272,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/AlexFridman">
 				<img src="https://avatars.githubusercontent.com/u/8332918?s=72&v=4" width="24" alt="Avatar of AlexFridman"> AlexFridman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#AlexFridman">Copy rank badge</a><br/>
 			Alexander Fridman
 		</td>
 		<td>Shapeion Technologies </td>
@@ -5283,7 +5285,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/pimenov">
 				<img src="https://avatars.githubusercontent.com/u/2860603?s=72&u=cf1ec47344a044ce4ad286e74c24488b4b882930&v=4" width="24" alt="Avatar of pimenov"> pimenov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#pimenov">Copy rank badge</a><br/>
 			Sergey Pimenov
 		</td>
 		<td>Ailifto Inc </td>
@@ -5296,7 +5298,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/armdev">
 				<img src="https://avatars.githubusercontent.com/u/467183?s=72&u=d7454fb86819fae8e010ecc80587e01de63717cc&v=4" width="24" alt="Avatar of armdev"> armdev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#armdev">Copy rank badge</a><br/>
 			Armen
 		</td>
 		<td>Ardshinbank </td>
@@ -5309,7 +5311,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/nezorflame">
 				<img src="https://avatars.githubusercontent.com/u/3906766?s=72&u=1583ede795a366b7d5fd53beb52597763670f8e8&v=4" width="24" alt="Avatar of nezorflame"> nezorflame
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#nezorflame">Copy rank badge</a><br/>
 			Ilya Danilkin
 		</td>
 		<td>@avito-tech </td>
@@ -5322,7 +5324,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/vardanator">
 				<img src="https://avatars.githubusercontent.com/u/10207370?s=72&u=fa87f040f36a70e13998b2d904d7969e64de9e46&v=4" width="24" alt="Avatar of vardanator"> vardanator
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#vardanator">Copy rank badge</a><br/>
 			Vardan Grigoryan
 		</td>
 		<td>No Company</td>
@@ -5335,7 +5337,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/javaherisaber">
 				<img src="https://avatars.githubusercontent.com/u/29440700?s=72&u=2572a2dd988c8304c2f40f3cc9cfc287203ade4a&v=4" width="24" alt="Avatar of javaherisaber"> javaherisaber
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#javaherisaber">Copy rank badge</a><br/>
 			Mahdi Javaheri
 		</td>
 		<td>No Company</td>
@@ -5348,7 +5350,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/nkruglikov">
 				<img src="https://avatars.githubusercontent.com/u/8327627?s=72&u=dc1b82f5ea070815499366068cb9ceaa628ec790&v=4" width="24" alt="Avatar of nkruglikov"> nkruglikov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#nkruglikov">Copy rank badge</a><br/>
 			Nikolai Kruglikov
 		</td>
 		<td>No Company</td>
@@ -5361,7 +5363,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/k0y4v2">
 				<img src="https://avatars.githubusercontent.com/u/35292248?s=72&u=f30cb75d3bdcb8c68819834a46d81840ae4d1d4b&v=4" width="24" alt="Avatar of k0y4v2"> k0y4v2
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#k0y4v2">Copy rank badge</a><br/>
 			Aleksandr K.
 		</td>
 		<td>Exante </td>
@@ -5374,7 +5376,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/antranigv">
 				<img src="https://avatars.githubusercontent.com/u/5600749?s=72&u=bf2926927162140f73f9cf74cde31d0b6dc656de&v=4" width="24" alt="Avatar of antranigv"> antranigv
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#antranigv">Copy rank badge</a><br/>
 			Antranig Vartanian
 		</td>
 		<td>@axcient </td>
@@ -5387,7 +5389,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/lnikon">
 				<img src="https://avatars.githubusercontent.com/u/3999323?s=72&u=dfa929bdd1069b1545483106e1367f6219c34b77&v=4" width="24" alt="Avatar of lnikon"> lnikon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#lnikon">Copy rank badge</a><br/>
 			Vahag Bejanyan
 		</td>
 		<td>Questrade </td>
@@ -5400,7 +5402,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/wadimiusz">
 				<img src="https://avatars.githubusercontent.com/u/22571281?s=72&u=b501678559e3902fe82c7777fe4311631e385982&v=4" width="24" alt="Avatar of wadimiusz"> wadimiusz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#wadimiusz">Copy rank badge</a><br/>
 			Vadim Fomin
 		</td>
 		<td>Modelfront </td>
@@ -5413,7 +5415,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/dotland">
 				<img src="https://avatars.githubusercontent.com/u/6199709?s=72&u=a5f4e4fb464d4468932519b8dd17730fcf3df139&v=4" width="24" alt="Avatar of dotland"> dotland
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#dotland">Copy rank badge</a><br/>
 			Tigran S.
 		</td>
 		<td>No Company</td>
@@ -5426,7 +5428,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/davitMartirosyan">
 				<img src="https://avatars.githubusercontent.com/u/26132568?s=72&u=6dad950c9ae922ceffaf73a8c2f14d078abafe70&v=4" width="24" alt="Avatar of davitMartirosyan"> davitMartirosyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#davitMartirosyan">Copy rank badge</a><br/>
 			dmartiro
 		</td>
 		<td>Digitain Llc </td>
@@ -5439,7 +5441,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/ArtemII9a">
 				<img src="https://avatars.githubusercontent.com/u/64254791?s=72&u=c2e63bd6bc9a82f79897c693d401c28927439069&v=4" width="24" alt="Avatar of ArtemII9a"> ArtemII9a
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#ArtemII9a">Copy rank badge</a><br/>
 			ArtemII9a
 		</td>
 		<td>No Company</td>
@@ -5452,7 +5454,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/SebasSosa10">
 				<img src="https://avatars.githubusercontent.com/u/133404267?s=72&u=e8f4364a461a201ba6929f813471afc70b86e579&v=4" width="24" alt="Avatar of SebasSosa10"> SebasSosa10
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#SebasSosa10">Copy rank badge</a><br/>
 			Joan Sebastian Sosa Bedoya
 		</td>
 		<td>No Company</td>
@@ -5465,7 +5467,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/vah13">
 				<img src="https://avatars.githubusercontent.com/u/7976421?s=72&u=56c291d2a166a18132f98935208bb5f840583260&v=4" width="24" alt="Avatar of vah13"> vah13
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#vah13">Copy rank badge</a><br/>
 			vah_13
 		</td>
 		<td>Redrays </td>
@@ -5478,7 +5480,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/vrezhMik">
 				<img src="https://avatars.githubusercontent.com/u/38406975?s=72&u=0fb3d03584eab261e0f5160e401bb731e3c66171&v=4" width="24" alt="Avatar of vrezhMik"> vrezhMik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#vrezhMik">Copy rank badge</a><br/>
 			Vrezh Mikayelyan
 		</td>
 		<td>Tumo </td>
@@ -5491,7 +5493,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/i-vainn">
 				<img src="https://avatars.githubusercontent.com/u/42346810?s=72&u=ebcdd71974d3cb9e4b675f2fd83b08ea1097f9f2&v=4" width="24" alt="Avatar of i-vainn"> i-vainn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#i-vainn">Copy rank badge</a><br/>
 			Ivan
 		</td>
 		<td>Nvidia </td>
@@ -5504,7 +5506,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/FarzanHajian">
 				<img src="https://avatars.githubusercontent.com/u/7634237?s=72&u=f272156cc6f699ece007375a54b8c3f35aad4e44&v=4" width="24" alt="Avatar of FarzanHajian"> FarzanHajian
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#FarzanHajian">Copy rank badge</a><br/>
 			Farzan Hajian
 		</td>
 		<td>Volo Global </td>
@@ -5517,7 +5519,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/LIL19-IT">
 				<img src="https://avatars.githubusercontent.com/u/167091589?s=72&u=4685d1e27b18463c5c090aeea164d5602ec5f51c&v=4" width="24" alt="Avatar of LIL19-IT"> LIL19-IT
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#LIL19-IT">Copy rank badge</a><br/>
 			Lilit
 		</td>
 		<td>No Company</td>
@@ -5530,7 +5532,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/tdkkdt">
 				<img src="https://avatars.githubusercontent.com/u/37324682?s=72&u=9373d39761dba8aa0cf8ab0cb309832e960c7da9&v=4" width="24" alt="Avatar of tdkkdt"> tdkkdt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#tdkkdt">Copy rank badge</a><br/>
 			Dmitry Yudakov
 		</td>
 		<td>Yandex </td>
@@ -5543,7 +5545,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Kelin2025">
 				<img src="https://avatars.githubusercontent.com/u/4208480?s=72&u=10e87514a1083f724fea12e6fef575c74cebd22b&v=4" width="24" alt="Avatar of Kelin2025"> Kelin2025
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Kelin2025">Copy rank badge</a><br/>
 			Anton Kosykh
 		</td>
 		<td>No Company</td>
@@ -5556,7 +5558,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/rfoxxxy">
 				<img src="https://avatars.githubusercontent.com/u/48347444?s=72&u=421d54adeab8ae466e88f9084213646adf08413b&v=4" width="24" alt="Avatar of rfoxxxy"> rfoxxxy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#rfoxxxy">Copy rank badge</a><br/>
 			рфоксед • rf0x3d
 		</td>
 		<td>@rfoxxxyshit 'n @neongang <br/></td>
@@ -5569,7 +5571,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/goodluck3301">
 				<img src="https://avatars.githubusercontent.com/u/100533325?s=72&u=e10691b50d5134ca59aab4e04ee0353a34ff6f77&v=4" width="24" alt="Avatar of goodluck3301"> goodluck3301
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#goodluck3301">Copy rank badge</a><br/>
 			Levon M.
 		</td>
 		<td>No Company</td>
@@ -5582,7 +5584,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/bugdaryan">
 				<img src="https://avatars.githubusercontent.com/u/28567416?s=72&u=5a6c27697bc05cbb8d732ba366161bc88f62b287&v=4" width="24" alt="Avatar of bugdaryan"> bugdaryan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#bugdaryan">Copy rank badge</a><br/>
 			Spartak
 		</td>
 		<td>No Company</td>
@@ -5595,7 +5597,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Mukhametvaleev">
 				<img src="https://avatars.githubusercontent.com/u/8947056?s=72&u=1f218c4e941ac123e3d9bef2a8694635f5dd3bf9&v=4" width="24" alt="Avatar of Mukhametvaleev"> Mukhametvaleev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Mukhametvaleev">Copy rank badge</a><br/>
 			Andrei
 		</td>
 		<td>Sole Proprietor </td>
@@ -5608,7 +5610,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/NuclearC">
 				<img src="https://avatars.githubusercontent.com/u/8341270?s=72&u=b09c33119f269d86a1424e7d5dac0b15d1bc283b&v=4" width="24" alt="Avatar of NuclearC"> NuclearC
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#NuclearC">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -5621,7 +5623,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/jsgiraldoh">
 				<img src="https://avatars.githubusercontent.com/u/8978140?s=72&u=11fb59044504216d0eb3b61987ab4978b2f3d2c9&v=4" width="24" alt="Avatar of jsgiraldoh"> jsgiraldoh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#jsgiraldoh">Copy rank badge</a><br/>
 			Johan Giraldo
 		</td>
 		<td>No Company</td>
@@ -5634,7 +5636,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/gooddaytoday">
 				<img src="https://avatars.githubusercontent.com/u/1484395?s=72&u=666aba324a3cd2de1eacb07bd53af2453cb8b39f&v=4" width="24" alt="Avatar of gooddaytoday"> gooddaytoday
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#gooddaytoday">Copy rank badge</a><br/>
 			George Kiselev
 		</td>
 		<td>No Company</td>
@@ -5647,7 +5649,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/arshak-grigoryan">
 				<img src="https://avatars.githubusercontent.com/u/52595017?s=72&v=4" width="24" alt="Avatar of arshak-grigoryan"> arshak-grigoryan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#arshak-grigoryan">Copy rank badge</a><br/>
 			Arshak Grigoryan
 		</td>
 		<td>No Company</td>
@@ -5660,7 +5662,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/syxme">
 				<img src="https://avatars.githubusercontent.com/u/5158672?s=72&u=d78bd7e1224400c0d7ffe445c128a9bf9c37203b&v=4" width="24" alt="Avatar of syxme"> syxme
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#syxme">Copy rank badge</a><br/>
 			Dmitry Shebaldin
 		</td>
 		<td>Syxme </td>
@@ -5673,7 +5675,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/MohammedRashad">
 				<img src="https://avatars.githubusercontent.com/u/13450068?s=72&u=080a4ed89df74a66c25af67e9dffe1caf1df08b8&v=4" width="24" alt="Avatar of MohammedRashad"> MohammedRashad
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#MohammedRashad">Copy rank badge</a><br/>
 			Rashad
 		</td>
 		<td>No Company</td>
@@ -5686,7 +5688,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/KaroMourad">
 				<img src="https://avatars.githubusercontent.com/u/44981312?s=72&u=3dad8f50598091b4f545da27f083adf50a253247&v=4" width="24" alt="Avatar of KaroMourad"> KaroMourad
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#KaroMourad">Copy rank badge</a><br/>
 			Karo
 		</td>
 		<td>Aim </td>
@@ -5699,7 +5701,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/ETamazyan">
 				<img src="https://avatars.githubusercontent.com/u/140879197?s=72&u=a172ecfde1ed9d83c7f6879e41617767c3d74ae0&v=4" width="24" alt="Avatar of ETamazyan"> ETamazyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#ETamazyan">Copy rank badge</a><br/>
 			Elena Tamazyan
 		</td>
 		<td>Student At 42 Yerevan<br/></td>
@@ -5712,7 +5714,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/x1y2z">
 				<img src="https://avatars.githubusercontent.com/u/70291249?s=72&u=dea3ffb90c01d4445632f63527424bff82247c39&v=4" width="24" alt="Avatar of x1y2z"> x1y2z
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#x1y2z">Copy rank badge</a><br/>
 			Gor Grigoryan
 		</td>
 		<td>No Company</td>
@@ -5725,7 +5727,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Mordorreal">
 				<img src="https://avatars.githubusercontent.com/u/8039537?s=72&u=8ae0cc76e21f675d2bc027fe6c1a68e0f32d66b2&v=4" width="24" alt="Avatar of Mordorreal"> Mordorreal
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Mordorreal">Copy rank badge</a><br/>
 			Denis Savchuk
 		</td>
 		<td>No Company</td>
@@ -5738,7 +5740,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/ivan4th">
 				<img src="https://avatars.githubusercontent.com/u/190448?s=72&u=14ef3633e08c1f149231daf6311a8d2469e06248&v=4" width="24" alt="Avatar of ivan4th"> ivan4th
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#ivan4th">Copy rank badge</a><br/>
 			Ivan Shvedunov
 		</td>
 		<td>Spacemesh </td>
@@ -5751,7 +5753,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/mhzrerfani">
 				<img src="https://avatars.githubusercontent.com/u/51866154?s=72&u=74344db1d1ddd8224feec8207be07d1e10ba3d4e&v=4" width="24" alt="Avatar of mhzrerfani"> mhzrerfani
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#mhzrerfani">Copy rank badge</a><br/>
 			Mahziyar Erfani
 		</td>
 		<td>@ainurdev  </td>
@@ -5764,7 +5766,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Selvana-Sh">
 				<img src="https://avatars.githubusercontent.com/u/90338618?s=72&u=df11c6e8903dcbd71cb4df8c03d3c67f4c4bfb69&v=4" width="24" alt="Avatar of Selvana-Sh"> Selvana-Sh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Selvana-Sh">Copy rank badge</a><br/>
 			Selvana
 		</td>
 		<td>No Company</td>
@@ -5777,7 +5779,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Hazarapet">
 				<img src="https://avatars.githubusercontent.com/u/4758675?s=72&u=8adef7e4ce623444966a0c2e891507f65bb57a46&v=4" width="24" alt="Avatar of Hazarapet"> Hazarapet
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Hazarapet">Copy rank badge</a><br/>
 			Hazarapet Tunanyan
 		</td>
 		<td>No Company</td>
@@ -5790,7 +5792,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/arshamalh">
 				<img src="https://avatars.githubusercontent.com/u/81646632?s=72&u=1fee36436a60bb5ec4d0dd8f358339b8a348624d&v=4" width="24" alt="Avatar of arshamalh"> arshamalh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#arshamalh">Copy rank badge</a><br/>
 			Mohammadreza Karimi
 		</td>
 		<td>Snapp! </td>
@@ -5803,7 +5805,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/daniilr">
 				<img src="https://avatars.githubusercontent.com/u/1212355?s=72&u=509139384651e0ccf9da8bac59563c372864dd72&v=4" width="24" alt="Avatar of daniilr"> daniilr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#daniilr">Copy rank badge</a><br/>
 			Daniil
 		</td>
 		<td>Eko Investments </td>
@@ -5816,7 +5818,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/aghabekyanmilena">
 				<img src="https://avatars.githubusercontent.com/u/154875412?s=72&u=67e30c8583197c0523a0880062b26e5601f6d89b&v=4" width="24" alt="Avatar of aghabekyanmilena"> aghabekyanmilena
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#aghabekyanmilena">Copy rank badge</a><br/>
 			Milena 
 		</td>
 		<td>Student At 42 Yerevan<br/></td>
@@ -5829,7 +5831,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/crrips">
 				<img src="https://avatars.githubusercontent.com/u/106340049?s=72&u=56363635b2bf76c677ef3a977eb82ba3c4903cba&v=4" width="24" alt="Avatar of crrips"> crrips
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#crrips">Copy rank badge</a><br/>
 			Ahadzhan Piloian
 		</td>
 		<td>No Company</td>
@@ -5842,7 +5844,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/ar-asatryan">
 				<img src="https://avatars.githubusercontent.com/u/40166840?s=72&u=2c8201457848a4aca6df8742921a672d6c2d73c6&v=4" width="24" alt="Avatar of ar-asatryan"> ar-asatryan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#ar-asatryan">Copy rank badge</a><br/>
 			Ararat Asatryan
 		</td>
 		<td>No Company</td>
@@ -5855,7 +5857,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/spherebread">
 				<img src="https://avatars.githubusercontent.com/u/48400794?s=72&u=1e7a5bc7efa7997823a43ac566af194f5f2e3cb6&v=4" width="24" alt="Avatar of spherebread"> spherebread
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#spherebread">Copy rank badge</a><br/>
 			Matvey Gerasimov
 		</td>
 		<td>No Company</td>
@@ -5868,7 +5870,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/KKasbarian">
 				<img src="https://avatars.githubusercontent.com/u/20095638?s=72&u=c08b8cd68da121cdc337ceff63733f4b45f042b4&v=4" width="24" alt="Avatar of KKasbarian"> KKasbarian
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#KKasbarian">Copy rank badge</a><br/>
 			Kourken Kasbarian
 		</td>
 		<td>No Company</td>
@@ -5881,7 +5883,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/AlenAbrahamyan">
 				<img src="https://avatars.githubusercontent.com/u/46008632?s=72&u=856ff5848ef4d1cacc6f8a1529c2166de7bbdeba&v=4" width="24" alt="Avatar of AlenAbrahamyan"> AlenAbrahamyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#AlenAbrahamyan">Copy rank badge</a><br/>
 			Alen Abrahamyan
 		</td>
 		<td>No Company</td>
@@ -5894,7 +5896,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/vahe-evoyan">
 				<img src="https://avatars.githubusercontent.com/u/134960?s=72&u=b9a4f5c0006ee4d0445a2c7489342edfdb2ba8ea&v=4" width="24" alt="Avatar of vahe-evoyan"> vahe-evoyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#vahe-evoyan">Copy rank badge</a><br/>
 			Vahe Evoyan
 		</td>
 		<td>No Company</td>
@@ -5907,7 +5909,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/fargelus">
 				<img src="https://avatars.githubusercontent.com/u/14609424?s=72&u=a8a319c6182ae95ff65257aa4821be684e0e70b4&v=4" width="24" alt="Avatar of fargelus"> fargelus
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#fargelus">Copy rank badge</a><br/>
 			Dmitriy Nemykin
 		</td>
 		<td>@teachbase </td>
@@ -5920,7 +5922,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/geghamjivanyan">
 				<img src="https://avatars.githubusercontent.com/u/11429021?s=72&u=96644bd4595e2e20d7d31d397c01a96fde3383f6&v=4" width="24" alt="Avatar of geghamjivanyan"> geghamjivanyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#geghamjivanyan">Copy rank badge</a><br/>
 			gegham
 		</td>
 		<td>No Company</td>
@@ -5933,7 +5935,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/denton">
 				<img src="https://avatars.githubusercontent.com/u/110861?s=72&u=8c4782b024a5cfdb59eeb7ff82d32ebfabb411b1&v=4" width="24" alt="Avatar of denton"> denton
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#denton">Copy rank badge</a><br/>
 			Alexander Rybakov
 		</td>
 		<td>No Company</td>
@@ -5946,7 +5948,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/gevgasparyan">
 				<img src="https://avatars.githubusercontent.com/u/13519034?s=72&u=bdb72ed6804c76b20dd615b480c1fd87f392ce1e&v=4" width="24" alt="Avatar of gevgasparyan"> gevgasparyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#gevgasparyan">Copy rank badge</a><br/>
 			Gevorg Gasparyan
 		</td>
 		<td>No Company</td>
@@ -5959,7 +5961,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/AlekNS">
 				<img src="https://avatars.githubusercontent.com/u/982436?s=72&u=43e3ee82d2ea1533e89e1f9f4b425ecc849113fc&v=4" width="24" alt="Avatar of AlekNS"> AlekNS
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#AlekNS">Copy rank badge</a><br/>
 			Alexander N. Sedelnikov
 		</td>
 		<td>Individual Entrepreneur </td>
@@ -5972,7 +5974,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/KarVarr">
 				<img src="https://avatars.githubusercontent.com/u/103530402?s=72&u=410e8506fe5781536aeb46fb2060c1aacd24a029&v=4" width="24" alt="Avatar of KarVarr"> KarVarr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#KarVarr">Copy rank badge</a><br/>
 			Karen Vardanian
 		</td>
 		<td>No Company</td>
@@ -5985,7 +5987,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/VahanMargaryan">
 				<img src="https://avatars.githubusercontent.com/u/176320?s=72&v=4" width="24" alt="Avatar of VahanMargaryan"> VahanMargaryan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#VahanMargaryan">Copy rank badge</a><br/>
 			Vahan
 		</td>
 		<td>Smartclickai </td>
@@ -5998,7 +6000,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/IsmeniaIMGO">
 				<img src="https://avatars.githubusercontent.com/u/113052394?s=72&u=800460b65ff13fa0f6b34b1cafa095d7ac4c0be6&v=4" width="24" alt="Avatar of IsmeniaIMGO"> IsmeniaIMGO
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#IsmeniaIMGO">Copy rank badge</a><br/>
 			Ismenia Marcela Guevara Ortiz
 		</td>
 		<td>No Company</td>
@@ -6011,7 +6013,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Aharonyan">
 				<img src="https://avatars.githubusercontent.com/u/48214689?s=72&u=b95ae1d88d4d5fe06bfacaada175b649f14d5dca&v=4" width="24" alt="Avatar of Aharonyan"> Aharonyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Aharonyan">Copy rank badge</a><br/>
 			Aleksan
 		</td>
 		<td>Createthebest </td>
@@ -6024,7 +6026,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/EngineerSpock">
 				<img src="https://avatars.githubusercontent.com/u/4013012?s=72&u=a10c97dd15c4c1c520a5805b6f5968970efc628b&v=4" width="24" alt="Avatar of EngineerSpock"> EngineerSpock
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#EngineerSpock">Copy rank badge</a><br/>
 			EngineerSpock
 		</td>
 		<td>Independent Consultant </td>
@@ -6037,7 +6039,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/awwester">
 				<img src="https://avatars.githubusercontent.com/u/6151877?s=72&u=f3d1751e8b182f69ce844d3653661ac804a6e12e&v=4" width="24" alt="Avatar of awwester"> awwester
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#awwester">Copy rank badge</a><br/>
 			Adam
 		</td>
 		<td>No Company</td>
@@ -6050,7 +6052,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/vpashkov">
 				<img src="https://avatars.githubusercontent.com/u/1384378?s=72&u=30dd4804fb3aa9de77b7edb77944cd16463c2b6b&v=4" width="24" alt="Avatar of vpashkov"> vpashkov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#vpashkov">Copy rank badge</a><br/>
 			Vadim Pashkov
 		</td>
 		<td>No Company</td>
@@ -6063,7 +6065,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/ashl1">
 				<img src="https://avatars.githubusercontent.com/u/4058628?s=72&u=c315257f655cc4d753ed2752e95c454330e7ea76&v=4" width="24" alt="Avatar of ashl1"> ashl1
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#ashl1">Copy rank badge</a><br/>
 			Alexey Shil
 		</td>
 		<td>No Company</td>
@@ -6076,7 +6078,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Natalia21">
 				<img src="https://avatars.githubusercontent.com/u/6988270?s=72&u=db9a72fda6da0dc150ca949c68820185235a31fd&v=4" width="24" alt="Avatar of Natalia21"> Natalia21
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Natalia21">Copy rank badge</a><br/>
 			Natalia Stash
 		</td>
 		<td>Intspirit </td>
@@ -6089,7 +6091,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Aram-Vn">
 				<img src="https://avatars.githubusercontent.com/u/118690340?s=72&u=179041529011689dd76a0b1bec312bd21af86177&v=4" width="24" alt="Avatar of Aram-Vn"> Aram-Vn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Aram-Vn">Copy rank badge</a><br/>
 			Aram Vardanyan
 		</td>
 		<td>No Company</td>
@@ -6102,7 +6104,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/mitalcoi">
 				<img src="https://avatars.githubusercontent.com/u/3224226?s=72&v=4" width="24" alt="Avatar of mitalcoi"> mitalcoi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#mitalcoi">Copy rank badge</a><br/>
 			Sorokin Victor
 		</td>
 		<td>Riverway </td>
@@ -6115,7 +6117,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/sevakharutyunyan">
 				<img src="https://avatars.githubusercontent.com/u/52492060?s=72&u=eef1e1290fdc46e48159a501087a13fddc17f58b&v=4" width="24" alt="Avatar of sevakharutyunyan"> sevakharutyunyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#sevakharutyunyan">Copy rank badge</a><br/>
 			Sevak Harutyunyan
 		</td>
 		<td>No Company</td>
@@ -6128,7 +6130,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/shakespear-dev">
 				<img src="https://avatars.githubusercontent.com/u/19732655?s=72&u=7879d70a5603655b06008c382117dca7f0741b00&v=4" width="24" alt="Avatar of shakespear-dev"> shakespear-dev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#shakespear-dev">Copy rank badge</a><br/>
 			Andrei Menshikh
 		</td>
 		<td>No Company</td>
@@ -6141,7 +6143,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/hayrapetyansami">
 				<img src="https://avatars.githubusercontent.com/u/32421202?s=72&u=7291dc5e13a09951db56c990898738c0e1174a79&v=4" width="24" alt="Avatar of hayrapetyansami"> hayrapetyansami
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#hayrapetyansami">Copy rank badge</a><br/>
 			Samvel Hayrapetyan [Sami]
 		</td>
 		<td>@hsrocket </td>
@@ -6154,7 +6156,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/optician">
 				<img src="https://avatars.githubusercontent.com/u/3683866?s=72&u=50d931fa792935117ecd737f6dbcbaa525f55547&v=4" width="24" alt="Avatar of optician"> optician
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#optician">Copy rank badge</a><br/>
 			Danila Matveev
 		</td>
 		<td>No Company</td>
@@ -6167,7 +6169,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/unicorn-embassy">
 				<img src="https://avatars.githubusercontent.com/u/63212728?s=72&u=a1e000fd6c7608627072b4a3309be64d8e1ddc8c&v=4" width="24" alt="Avatar of unicorn-embassy"> unicorn-embassy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#unicorn-embassy">Copy rank badge</a><br/>
 			Yan Nerovny
 		</td>
 		<td>Vsu, Csf </td>
@@ -6180,7 +6182,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/glader">
 				<img src="https://avatars.githubusercontent.com/u/494361?s=72&u=731caf39a9995f2d47f4579840b07658734610df&v=4" width="24" alt="Avatar of glader"> glader
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#glader">Copy rank badge</a><br/>
 			Mikhail
 		</td>
 		<td>No Company</td>
@@ -6193,7 +6195,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/nazarethk">
 				<img src="https://avatars.githubusercontent.com/u/35573519?s=72&u=dec4d97c73079aaf020be125a1b08e710e581b07&v=4" width="24" alt="Avatar of nazarethk"> nazarethk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#nazarethk">Copy rank badge</a><br/>
 			Nazareth Keshishian
 		</td>
 		<td>Picsart  </td>
@@ -6206,7 +6208,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/algaboya">
 				<img src="https://avatars.githubusercontent.com/u/159569200?s=72&v=4" width="24" alt="Avatar of algaboya"> algaboya
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#algaboya">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>42yerevan </td>
@@ -6219,7 +6221,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/ArtyomKaraxanyan">
 				<img src="https://avatars.githubusercontent.com/u/39194936?s=72&u=84dd79dafd4ee57279e5f9e1c455f2a4178a4488&v=4" width="24" alt="Avatar of ArtyomKaraxanyan"> ArtyomKaraxanyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#ArtyomKaraxanyan">Copy rank badge</a><br/>
 			Artyom Karakhanyan
 		</td>
 		<td>No Company</td>
@@ -6232,7 +6234,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/bugron">
 				<img src="https://avatars.githubusercontent.com/u/13225220?s=72&u=2c9c18558172d6d7506b1ce10d8421ee87fdfa93&v=4" width="24" alt="Avatar of bugron"> bugron
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#bugron">Copy rank badge</a><br/>
 			Arsen Melikyan
 		</td>
 		<td>Servicetitan </td>
@@ -6245,7 +6247,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/moon3fire">
 				<img src="https://avatars.githubusercontent.com/u/90133297?s=72&u=2f37471eea2ed4626a984e6c4f6be0af5e818610&v=4" width="24" alt="Avatar of moon3fire"> moon3fire
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#moon3fire">Copy rank badge</a><br/>
 			Arman Isajanyan
 		</td>
 		<td>Epam Systems </td>
@@ -6258,7 +6260,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/bezirganyan">
 				<img src="https://avatars.githubusercontent.com/u/16824193?s=72&u=2410318e54c00cd2e50054e7f878fd765120c1a5&v=4" width="24" alt="Avatar of bezirganyan"> bezirganyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#bezirganyan">Copy rank badge</a><br/>
 			Grigor Bezirganyan
 		</td>
 		<td>Modelfront </td>
@@ -6271,7 +6273,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/fimak">
 				<img src="https://avatars.githubusercontent.com/u/1921713?s=72&u=90033b8d336e2344db461a32d1096669d9f28f2b&v=4" width="24" alt="Avatar of fimak"> fimak
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#fimak">Copy rank badge</a><br/>
 			Aleksandr Ufimtsev
 		</td>
 		<td>No Company</td>
@@ -6284,7 +6286,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/wawan93">
 				<img src="https://avatars.githubusercontent.com/u/1741716?s=72&u=27806e4332e81b41eb107455c052107f12b2e51f&v=4" width="24" alt="Avatar of wawan93"> wawan93
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#wawan93">Copy rank badge</a><br/>
 			Vladimir Kochergin
 		</td>
 		<td>No Company</td>
@@ -6297,7 +6299,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/amirkhanyan11">
 				<img src="https://avatars.githubusercontent.com/u/138108895?s=72&u=154e29b682194c561d136a71a00a6b5eeec7eb24&v=4" width="24" alt="Avatar of amirkhanyan11"> amirkhanyan11
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#amirkhanyan11">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -6310,7 +6312,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/SatikGhazaryan">
 				<img src="https://avatars.githubusercontent.com/u/104253540?s=72&u=636dcb43bd1facdb83076274940a48f779b65ec0&v=4" width="24" alt="Avatar of SatikGhazaryan"> SatikGhazaryan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#SatikGhazaryan">Copy rank badge</a><br/>
 			Satik
 		</td>
 		<td>No Company</td>
@@ -6323,7 +6325,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/azomorodian">
 				<img src="https://avatars.githubusercontent.com/u/25180780?s=72&u=8c7592f52a2d4d7190f398443641e1273fdcdec9&v=4" width="24" alt="Avatar of azomorodian"> azomorodian
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#azomorodian">Copy rank badge</a><br/>
 			Artin
 		</td>
 		<td>No Company</td>
@@ -6336,7 +6338,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/miladbonakdar">
 				<img src="https://avatars.githubusercontent.com/u/17030910?s=72&u=c28480455d34a99accd384fdb2a407f646d8f9e9&v=4" width="24" alt="Avatar of miladbonakdar"> miladbonakdar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#miladbonakdar">Copy rank badge</a><br/>
 			Milawd
 		</td>
 		<td>Https://www.ironfx.c </td>
@@ -6349,7 +6351,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/hamidne">
 				<img src="https://avatars.githubusercontent.com/u/53326634?s=72&u=1efe1b137ee8005d411eff973efc6b450067080f&v=4" width="24" alt="Avatar of hamidne"> hamidne
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#hamidne">Copy rank badge</a><br/>
 			Hamid Nasr
 		</td>
 		<td>@alibaba-aero @vuejs-fa </td>
@@ -6362,7 +6364,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Artur93gev">
 				<img src="https://avatars.githubusercontent.com/u/16912166?s=72&v=4" width="24" alt="Avatar of Artur93gev"> Artur93gev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Artur93gev">Copy rank badge</a><br/>
 			Artur Gevorgyan
 		</td>
 		<td>Picsart </td>
@@ -6375,7 +6377,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/khlevon">
 				<img src="https://avatars.githubusercontent.com/u/10566530?s=72&u=5bb0635148f0c367edfdd3a532953cd2332e36cb&v=4" width="24" alt="Avatar of khlevon"> khlevon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#khlevon">Copy rank badge</a><br/>
 			Levon Khachatryan
 		</td>
 		<td>No Company</td>
@@ -6388,7 +6390,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/igoralentyev">
 				<img src="https://avatars.githubusercontent.com/u/32164075?s=72&u=90106584cd0e0e42bfae69f52eda80e68ba60a9e&v=4" width="24" alt="Avatar of igoralentyev"> igoralentyev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#igoralentyev">Copy rank badge</a><br/>
 			Igor Alentyev
 		</td>
 		<td>No Company</td>
@@ -6401,7 +6403,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Va54">
 				<img src="https://avatars.githubusercontent.com/u/25555466?s=72&u=cc9d5a89dc0eb0eb1363e6ac0f53dd2fcbe18c67&v=4" width="24" alt="Avatar of Va54"> Va54
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Va54">Copy rank badge</a><br/>
 			Vardan Hayrapetyan
 		</td>
 		<td>No Company</td>
@@ -6414,7 +6416,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/HamedSiaban">
 				<img src="https://avatars.githubusercontent.com/u/83172266?s=72&u=2778bd9c47bc4db3a791a6ffe8fe3669acb95523&v=4" width="24" alt="Avatar of HamedSiaban"> HamedSiaban
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#HamedSiaban">Copy rank badge</a><br/>
 			Hamed Siaban
 		</td>
 		<td>Mizban </td>
@@ -6427,7 +6429,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/arayik-99">
 				<img src="https://avatars.githubusercontent.com/u/64907389?s=72&u=db1e43e4c800259024f40bc4a5b086f0668bec6b&v=4" width="24" alt="Avatar of arayik-99"> arayik-99
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#arayik-99">Copy rank badge</a><br/>
 			Arayik Hovhannisyan
 		</td>
 		<td>No Company</td>
@@ -6440,7 +6442,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/DmitriyBaklikov">
 				<img src="https://avatars.githubusercontent.com/u/25715?s=72&u=b8e42ddeee2b4caa392b41c9894a7f3a3d1e912e&v=4" width="24" alt="Avatar of DmitriyBaklikov"> DmitriyBaklikov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#DmitriyBaklikov">Copy rank badge</a><br/>
 			Dmitriy Baklikov
 		</td>
 		<td>No Company</td>
@@ -6453,7 +6455,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/smbattumasyan">
 				<img src="https://avatars.githubusercontent.com/u/10283828?s=72&u=b26cef4906eff0e1d496402ed0666df5456837d1&v=4" width="24" alt="Avatar of smbattumasyan"> smbattumasyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#smbattumasyan">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -6466,7 +6468,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/dnavre">
 				<img src="https://avatars.githubusercontent.com/u/341914?s=72&u=a94afe3513921c274d8e9689b73b51ca27ba754b&v=4" width="24" alt="Avatar of dnavre"> dnavre
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#dnavre">Copy rank badge</a><br/>
 			Yervand Aghababyan
 		</td>
 		<td>Sfl </td>
@@ -6479,7 +6481,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/VaheM27">
 				<img src="https://avatars.githubusercontent.com/u/60319108?s=72&u=e96f3ce8dc938cf8340259e7ea90bb088e21606f&v=4" width="24" alt="Avatar of VaheM27"> VaheM27
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#VaheM27">Copy rank badge</a><br/>
 			Վահե Մնացականյան
 		</td>
 		<td>No Company</td>
@@ -6492,7 +6494,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/rsxrwscjpzdzwpxaujrr">
 				<img src="https://avatars.githubusercontent.com/u/49131073?s=72&u=755a8e887ce3fdd64c16caebab9e97e74db8ddd5&v=4" width="24" alt="Avatar of rsxrwscjpzdzwpxaujrr"> rsxrwscjpzdzwpxaujrr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#rsxrwscjpzdzwpxaujrr">Copy rank badge</a><br/>
 			rsxrwscjpzdzwpxaujrr
 		</td>
 		<td>No Company</td>
@@ -6505,7 +6507,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/andreyoganesyan">
 				<img src="https://avatars.githubusercontent.com/u/22058754?s=72&u=f30059e03d1cf46e6d78b0bc727700bdf1522f93&v=4" width="24" alt="Avatar of andreyoganesyan"> andreyoganesyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#andreyoganesyan">Copy rank badge</a><br/>
 			Andrey Oganesyan
 		</td>
 		<td>No Company</td>
@@ -6518,7 +6520,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/jdanigo">
 				<img src="https://avatars.githubusercontent.com/u/74785265?s=72&u=f22fdf0179db0756dc85e68b184f8dbd0c7a9cad&v=4" width="24" alt="Avatar of jdanigo"> jdanigo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#jdanigo">Copy rank badge</a><br/>
 			José Daniel Garcés Ospina
 		</td>
 		<td>@cloudsoftindustries </td>
@@ -6531,7 +6533,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/mnacakan007">
 				<img src="https://avatars.githubusercontent.com/u/37411251?s=72&u=80837419edc5d54edc781e54ec8d2fa3394b6fc8&v=4" width="24" alt="Avatar of mnacakan007"> mnacakan007
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#mnacakan007">Copy rank badge</a><br/>
 			Mnatsakan Manukyan
 		</td>
 		<td>Mm </td>
@@ -6544,7 +6546,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/ptuchik">
 				<img src="https://avatars.githubusercontent.com/u/4479697?s=72&u=932f2071c66532dcd905a12667c0e0eb6ae0c841&v=4" width="24" alt="Avatar of ptuchik"> ptuchik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#ptuchik">Copy rank badge</a><br/>
 			Avik Aghajanyan
 		</td>
 		<td>Ucraft </td>
@@ -6557,7 +6559,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/hovmikayelyan">
 				<img src="https://avatars.githubusercontent.com/u/89905543?s=72&u=600bca5694180165a9dc979d3740b3eda858514d&v=4" width="24" alt="Avatar of hovmikayelyan"> hovmikayelyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#hovmikayelyan">Copy rank badge</a><br/>
 			Hovhannes Gabriél Mikayelyan
 		</td>
 		<td>Grid Dynamics </td>
@@ -6570,7 +6572,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/robertlevonyan">
 				<img src="https://avatars.githubusercontent.com/u/4151242?s=72&u=3391e386bbe5850a615a3b2cfb03e2ce29836abb&v=4" width="24" alt="Avatar of robertlevonyan"> robertlevonyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#robertlevonyan">Copy rank badge</a><br/>
 			Robert Levonyan 
 		</td>
 		<td>Senior Android Developert At<br/>Marktguru<br/>(@visivoconsulting)<br/></td>
@@ -6583,7 +6585,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/dmitryravilov">
 				<img src="https://avatars.githubusercontent.com/u/55440339?s=72&u=86ed73d1031e50ef77f1550b14b6db29140f56b0&v=4" width="24" alt="Avatar of dmitryravilov"> dmitryravilov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#dmitryravilov">Copy rank badge</a><br/>
 			Dmitry Ravilov
 		</td>
 		<td>Unafinancial </td>
@@ -6596,7 +6598,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/massoudasadi">
 				<img src="https://avatars.githubusercontent.com/u/11457976?s=72&u=0dc1925fa6000817ca250efaf55d1cf2226369e7&v=4" width="24" alt="Avatar of massoudasadi"> massoudasadi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#massoudasadi">Copy rank badge</a><br/>
 			Massoud Asadi
 		</td>
 		<td>Pharmabits </td>
@@ -6609,7 +6611,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/artakvg">
 				<img src="https://avatars.githubusercontent.com/u/2362491?s=72&u=3c8077e0f8dfc9f705c582cf7ab3f23d5400eac0&v=4" width="24" alt="Avatar of artakvg"> artakvg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#artakvg">Copy rank badge</a><br/>
 			Artak
 		</td>
 		<td>Https://privasui.xyz </td>
@@ -6622,7 +6624,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/cryogenian">
 				<img src="https://avatars.githubusercontent.com/u/10245930?s=72&u=cc47919512f310bdebb9d7b19cba6628f1686d56&v=4" width="24" alt="Avatar of cryogenian"> cryogenian
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#cryogenian">Copy rank badge</a><br/>
 			Maksim Zimaliev
 		</td>
 		<td>No Company</td>
@@ -6635,7 +6637,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/KarenDanielyan">
 				<img src="https://avatars.githubusercontent.com/u/33602488?s=72&u=ef1807f0adb2e43df9e3e4b60a61ea8ac8b3afeb&v=4" width="24" alt="Avatar of KarenDanielyan"> KarenDanielyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#KarenDanielyan">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>Student At Ecole 42<br/></td>
@@ -6648,7 +6650,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/ngenehub">
 				<img src="https://avatars.githubusercontent.com/u/122623153?s=72&u=c0043002c30cd52ed0cb54854b7e1a2be063f1c7&v=4" width="24" alt="Avatar of ngenehub"> ngenehub
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#ngenehub">Copy rank badge</a><br/>
 			Ngene
 		</td>
 		<td>Ngene Llc </td>
@@ -6661,7 +6663,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/roodabeashoorpouri">
 				<img src="https://avatars.githubusercontent.com/u/105597755?s=72&u=8e1073e983f5c9c0989fc07baec02fd96f148551&v=4" width="24" alt="Avatar of roodabeashoorpouri"> roodabeashoorpouri
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#roodabeashoorpouri">Copy rank badge</a><br/>
 			Roodabe
 		</td>
 		<td>No Company</td>
@@ -6674,7 +6676,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/tterian">
 				<img src="https://avatars.githubusercontent.com/u/9268746?s=72&u=061a19e53443e7cd988d37957c52c9ecefacd110&v=4" width="24" alt="Avatar of tterian"> tterian
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#tterian">Copy rank badge</a><br/>
 			Tigran Terian
 		</td>
 		<td>No Company</td>
@@ -6687,7 +6689,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/letmein">
 				<img src="https://avatars.githubusercontent.com/u/444348?s=72&u=d6765d4ce653e654da0f5085943d80021d038aa9&v=4" width="24" alt="Avatar of letmein"> letmein
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#letmein">Copy rank badge</a><br/>
 			Yuriy Kharchenko
 		</td>
 		<td>@mrsool </td>
@@ -6700,7 +6702,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/arutar">
 				<img src="https://avatars.githubusercontent.com/u/116097611?s=72&v=4" width="24" alt="Avatar of arutar"> arutar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#arutar">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -6713,7 +6715,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/DrozdikGleb">
 				<img src="https://avatars.githubusercontent.com/u/22279601?s=72&u=10a0d8b5493a12ec5c239bb0cbddecfeebd6ca89&v=4" width="24" alt="Avatar of DrozdikGleb"> DrozdikGleb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#DrozdikGleb">Copy rank badge</a><br/>
 			Drozdov Gleb
 		</td>
 		<td>No Company</td>
@@ -6726,7 +6728,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/GkHabib">
 				<img src="https://avatars.githubusercontent.com/u/37121165?s=72&u=961c86e9db0c9a5eb77863f73fe5da0f690f5f3f&v=4" width="24" alt="Avatar of GkHabib"> GkHabib
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#GkHabib">Copy rank badge</a><br/>
 			Habib Ghadimi
 		</td>
 		<td>No Company</td>
@@ -6739,7 +6741,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/NarekHakobyanJS">
 				<img src="https://avatars.githubusercontent.com/u/111564764?s=72&u=c51c5aa7a21dc417d1be1d65577953e9324745cc&v=4" width="24" alt="Avatar of NarekHakobyanJS"> NarekHakobyanJS
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#NarekHakobyanJS">Copy rank badge</a><br/>
 			Narek
 		</td>
 		<td>Bitluma </td>
@@ -6752,7 +6754,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/ashotjanibekyan">
 				<img src="https://avatars.githubusercontent.com/u/31385299?s=72&u=bde32d8364431271b074061e0298c671f1a84c01&v=4" width="24" alt="Avatar of ashotjanibekyan"> ashotjanibekyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#ashotjanibekyan">Copy rank badge</a><br/>
 			Ashot Janibekyan
 		</td>
 		<td>No Company</td>
@@ -6765,7 +6767,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/HiveBeats">
 				<img src="https://avatars.githubusercontent.com/u/38073817?s=72&u=975306e0f69906be1864db3a3ab7d1cc74e8f2f6&v=4" width="24" alt="Avatar of HiveBeats"> HiveBeats
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#HiveBeats">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -6778,7 +6780,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/valexey">
 				<img src="https://avatars.githubusercontent.com/u/664741?s=72&v=4" width="24" alt="Avatar of valexey"> valexey
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#valexey">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -6791,7 +6793,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/DavMovsesyan2002">
 				<img src="https://avatars.githubusercontent.com/u/51234151?s=72&u=20ea3f1775a30dba82ee369ebb97245e357bbd30&v=4" width="24" alt="Avatar of DavMovsesyan2002"> DavMovsesyan2002
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#DavMovsesyan2002">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -6804,7 +6806,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Aramxxx8691">
 				<img src="https://avatars.githubusercontent.com/u/103204795?s=72&u=b9f108d0b054d6c7a51f934bde61ce3751888c60&v=4" width="24" alt="Avatar of Aramxxx8691"> Aramxxx8691
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Aramxxx8691">Copy rank badge</a><br/>
 			Aram
 		</td>
 		<td>42 Yerevan </td>
@@ -6817,7 +6819,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/emarukyan">
 				<img src="https://avatars.githubusercontent.com/u/2195825?s=72&u=f4ff6c7312b802235cd551e6be1c23874cc4cabf&v=4" width="24" alt="Avatar of emarukyan"> emarukyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#emarukyan">Copy rank badge</a><br/>
 			Edgar
 		</td>
 		<td>Essemem </td>
@@ -6830,7 +6832,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/dryabov">
 				<img src="https://avatars.githubusercontent.com/u/378044?s=72&v=4" width="24" alt="Avatar of dryabov"> dryabov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#dryabov">Copy rank badge</a><br/>
 			Denis Ryabov
 		</td>
 		<td>No Company</td>
@@ -6843,7 +6845,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/honarmanly">
 				<img src="https://avatars.githubusercontent.com/u/56865811?s=72&u=09ef205b851ff44f53442a90739365ca30a31588&v=4" width="24" alt="Avatar of honarmanly"> honarmanly
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#honarmanly">Copy rank badge</a><br/>
 			ali honarmand
 		</td>
 		<td>No Company</td>
@@ -6856,7 +6858,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/annykh">
 				<img src="https://avatars.githubusercontent.com/u/101419541?s=72&u=059ea95d34a02b22ae90e7482f31b14818d48127&v=4" width="24" alt="Avatar of annykh"> annykh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#annykh">Copy rank badge</a><br/>
 			Anny
 		</td>
 		<td>Cba </td>
@@ -6869,7 +6871,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/alekcac">
 				<img src="https://avatars.githubusercontent.com/u/1832042?s=72&v=4" width="24" alt="Avatar of alekcac"> alekcac
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#alekcac">Copy rank badge</a><br/>
 			Alexander Shishkov
 		</td>
 		<td>Itseez3d </td>
@@ -6882,7 +6884,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/foxel">
 				<img src="https://avatars.githubusercontent.com/u/1551926?s=72&v=4" width="24" alt="Avatar of foxel"> foxel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#foxel">Copy rank badge</a><br/>
 			Andrey Kupreychik
 		</td>
 		<td>Bitworks @bwsw </td>
@@ -6895,7 +6897,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/hrayr-s">
 				<img src="https://avatars.githubusercontent.com/u/55699544?s=72&u=a3114bf3a6265d9c4ec4a37e4a380fc19c839c35&v=4" width="24" alt="Avatar of hrayr-s"> hrayr-s
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#hrayr-s">Copy rank badge</a><br/>
 			Hrayr
 		</td>
 		<td>Emerson </td>
@@ -6908,7 +6910,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/MilenaJanoyan">
 				<img src="https://avatars.githubusercontent.com/u/110425737?s=72&u=40778fb3b4c9ee7e6e40a621de0ee7c97a851068&v=4" width="24" alt="Avatar of MilenaJanoyan"> MilenaJanoyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#MilenaJanoyan">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -6921,7 +6923,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/mbelduque">
 				<img src="https://avatars.githubusercontent.com/u/19484378?s=72&u=b4ce341c190175ab777e3f8ed2cfd826bff15cac&v=4" width="24" alt="Avatar of mbelduque"> mbelduque
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#mbelduque">Copy rank badge</a><br/>
 			Mauricio Belduque
 		</td>
 		<td>No Company</td>
@@ -6934,7 +6936,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/rezamirmhrabi">
 				<img src="https://avatars.githubusercontent.com/u/39024280?s=72&u=1ce5e6e4e7ae41ca552f5509a162250e22a092a0&v=4" width="24" alt="Avatar of rezamirmhrabi"> rezamirmhrabi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#rezamirmhrabi">Copy rank badge</a><br/>
 			rezamirmhrabi
 		</td>
 		<td>Yerevango </td>
@@ -6947,7 +6949,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/artsimonyan23">
 				<img src="https://avatars.githubusercontent.com/u/30107111?s=72&u=48183fbe78253b7cc39546762d0d0864d48af255&v=4" width="24" alt="Avatar of artsimonyan23"> artsimonyan23
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#artsimonyan23">Copy rank badge</a><br/>
 			ArtS
 		</td>
 		<td>No Company</td>
@@ -6960,7 +6962,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/hman278">
 				<img src="https://avatars.githubusercontent.com/u/39907034?s=72&u=8acf47d603d651ebc4deeb3fde3ee1751a63ccad&v=4" width="24" alt="Avatar of hman278"> hman278
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#hman278">Copy rank badge</a><br/>
 			Sargis
 		</td>
 		<td>Company </td>
@@ -6973,7 +6975,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/armansujoyan">
 				<img src="https://avatars.githubusercontent.com/u/21337763?s=72&u=5d4f164d9a46c08785120e802fba2a1f89a0017d&v=4" width="24" alt="Avatar of armansujoyan"> armansujoyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#armansujoyan">Copy rank badge</a><br/>
 			Arman Sujoyan
 		</td>
 		<td>Toptal </td>
@@ -6986,7 +6988,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/SofiMovsesyan">
 				<img src="https://avatars.githubusercontent.com/u/67863086?s=72&v=4" width="24" alt="Avatar of SofiMovsesyan"> SofiMovsesyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#SofiMovsesyan">Copy rank badge</a><br/>
 			Sofi
 		</td>
 		<td>Tumo, Samsung, Yerevan State<br/>College<br/>Of<br/>Informatics<br/></td>
@@ -6999,7 +7001,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/vahpetr">
 				<img src="https://avatars.githubusercontent.com/u/10128393?s=72&u=0c952e6f6bd4cb0f53621d7e9c31d2e563ea1ae9&v=4" width="24" alt="Avatar of vahpetr"> vahpetr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#vahpetr">Copy rank badge</a><br/>
 			Vasilev Pyotr
 		</td>
 		<td>No Company</td>
@@ -7012,7 +7014,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/NarekPVP">
 				<img src="https://avatars.githubusercontent.com/u/57366386?s=72&u=ededbf11f2f5adf69ccfa287a236c6f3266c8155&v=4" width="24" alt="Avatar of NarekPVP"> NarekPVP
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#NarekPVP">Copy rank badge</a><br/>
 			Narek Hovhannisyan
 		</td>
 		<td>Epam </td>
@@ -7025,7 +7027,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/DaveHellsmith">
 				<img src="https://avatars.githubusercontent.com/u/20946126?s=72&u=ae47e8b7a668ee8113d24d2132ab0d660676b7af&v=4" width="24" alt="Avatar of DaveHellsmith"> DaveHellsmith
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#DaveHellsmith">Copy rank badge</a><br/>
 			Dave Demirkhanyan
 		</td>
 		<td>No Company</td>
@@ -7038,7 +7040,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/nzhdehbarseghyan">
 				<img src="https://avatars.githubusercontent.com/u/107572906?s=72&u=cb50a283f95f254baf3f3077e19529637b264982&v=4" width="24" alt="Avatar of nzhdehbarseghyan"> nzhdehbarseghyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#nzhdehbarseghyan">Copy rank badge</a><br/>
 			Nzhdeh Barseghyan
 		</td>
 		<td>Esterox </td>
@@ -7051,7 +7053,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/jBugman">
 				<img src="https://avatars.githubusercontent.com/u/891785?s=72&u=c1e43efb8f990aa8401fe52f595b4c8319a1c7b2&v=4" width="24" alt="Avatar of jBugman"> jBugman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#jBugman">Copy rank badge</a><br/>
 			Sergei Parshukov
 		</td>
 		<td>No Company</td>
@@ -7064,7 +7066,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Armen96">
 				<img src="https://avatars.githubusercontent.com/u/29157466?s=72&u=a93e3381169988bc531e42924307163294c7e084&v=4" width="24" alt="Avatar of Armen96"> Armen96
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Armen96">Copy rank badge</a><br/>
 			Armen96
 		</td>
 		<td>Directionx </td>
@@ -7077,7 +7079,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/nane-petrosyan">
 				<img src="https://avatars.githubusercontent.com/u/44318846?s=72&u=632544b9caea8c657a097afb7f74a317cc668c25&v=4" width="24" alt="Avatar of nane-petrosyan"> nane-petrosyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#nane-petrosyan">Copy rank badge</a><br/>
 			Nane Petrosyan 🫧
 		</td>
 		<td>Grid Dynamics </td>
@@ -7090,7 +7092,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/mistakster">
 				<img src="https://avatars.githubusercontent.com/u/531671?s=72&v=4" width="24" alt="Avatar of mistakster"> mistakster
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#mistakster">Copy rank badge</a><br/>
 			Vladimir Kuznetsov
 		</td>
 		<td>No Company</td>
@@ -7103,7 +7105,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/HadiSiavashi">
 				<img src="https://avatars.githubusercontent.com/u/98638605?s=72&u=be396cdc3ff3504792e6dec2aa401b10f42963dc&v=4" width="24" alt="Avatar of HadiSiavashi"> HadiSiavashi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#HadiSiavashi">Copy rank badge</a><br/>
 			Mohammad Hadi Siavashi
 		</td>
 		<td>No Company</td>
@@ -7116,7 +7118,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/VamOSGS">
 				<img src="https://avatars.githubusercontent.com/u/26979773?s=72&u=fa19baa9abc767f2ffeb6ba5fa121e41545dc2c5&v=4" width="24" alt="Avatar of VamOSGS"> VamOSGS
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#VamOSGS">Copy rank badge</a><br/>
 			Gegham Samvelyan
 		</td>
 		<td>@opengate-labs  @magicallabs </td>
@@ -7129,7 +7131,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/whoiskenshi">
 				<img src="https://avatars.githubusercontent.com/u/80559781?s=72&u=38aab33c560bee364c02491cf2efa3f47c69795a&v=4" width="24" alt="Avatar of whoiskenshi"> whoiskenshi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#whoiskenshi">Copy rank badge</a><br/>
 			Vahe
 		</td>
 		<td>No Company</td>
@@ -7142,7 +7144,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/ssoulless">
 				<img src="https://avatars.githubusercontent.com/u/5223012?s=72&u=2aa81029339a2796275b25e39dca213f7d1d4515&v=4" width="24" alt="Avatar of ssoulless"> ssoulless
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#ssoulless">Copy rank badge</a><br/>
 			Sebastian Velandia
 		</td>
 		<td>Upbound Group Inc. </td>
@@ -7155,7 +7157,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/barigisherdzez">
 				<img src="https://avatars.githubusercontent.com/u/103608514?s=72&u=c9d8f958ad9779ab82f53cf819c9fab4b3b1ef32&v=4" width="24" alt="Avatar of barigisherdzez"> barigisherdzez
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#barigisherdzez">Copy rank badge</a><br/>
 			David Arakelyan
 		</td>
 		<td>No Company</td>
@@ -7168,7 +7170,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/mherkhachatryan">
 				<img src="https://avatars.githubusercontent.com/u/39911978?s=72&u=cfe579d596c0401daf9e005af8beebc34599a7b7&v=4" width="24" alt="Avatar of mherkhachatryan"> mherkhachatryan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#mherkhachatryan">Copy rank badge</a><br/>
 			Mher Khachatryan
 		</td>
 		<td>@10web </td>
@@ -7181,7 +7183,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/KARM99">
 				<img src="https://avatars.githubusercontent.com/u/21248684?s=72&u=b3a68b0ec2f1243717837b0aca35a5e5f43c8d4f&v=4" width="24" alt="Avatar of KARM99"> KARM99
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#KARM99">Copy rank badge</a><br/>
 			Karen Mkrtumyan
 		</td>
 		<td>@krispai </td>
@@ -7194,7 +7196,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/ElKry">
 				<img src="https://avatars.githubusercontent.com/u/11164163?s=72&u=94bc21179ca2c67316ee8e6c7e5a2c07cc6da493&v=4" width="24" alt="Avatar of ElKry"> ElKry
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#ElKry">Copy rank badge</a><br/>
 			Elizaveta Kriazhkova
 		</td>
 		<td>No Company</td>
@@ -7207,7 +7209,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/oshnix">
 				<img src="https://avatars.githubusercontent.com/u/22083660?s=72&v=4" width="24" alt="Avatar of oshnix"> oshnix
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#oshnix">Copy rank badge</a><br/>
 			Danya
 		</td>
 		<td>No Company</td>
@@ -7220,7 +7222,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/anahit42">
 				<img src="https://avatars.githubusercontent.com/u/7938403?s=72&u=426814deba72624bc8915dfaba8eae19bab994ea&v=4" width="24" alt="Avatar of anahit42"> anahit42
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#anahit42">Copy rank badge</a><br/>
 			Anahit Vardanyan
 		</td>
 		<td>No Company</td>
@@ -7233,7 +7235,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/sparik">
 				<img src="https://avatars.githubusercontent.com/u/8527378?s=72&v=4" width="24" alt="Avatar of sparik"> sparik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#sparik">Copy rank badge</a><br/>
 			Sparik Hayrapetyan
 		</td>
 		<td>No Company</td>
@@ -7246,7 +7248,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/pointguard0">
 				<img src="https://avatars.githubusercontent.com/u/7186613?s=72&v=4" width="24" alt="Avatar of pointguard0"> pointguard0
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#pointguard0">Copy rank badge</a><br/>
 			Arshak
 		</td>
 		<td>Yerevann </td>
@@ -7259,7 +7261,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/smikayel">
 				<img src="https://avatars.githubusercontent.com/u/80779485?s=72&u=38e1f06040e32dcfd36937dda8e534ca3abcdc2a&v=4" width="24" alt="Avatar of smikayel"> smikayel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#smikayel">Copy rank badge</a><br/>
 			smikayel
 		</td>
 		<td>No Company</td>
@@ -7272,7 +7274,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/sokolegg">
 				<img src="https://avatars.githubusercontent.com/u/20648820?s=72&u=65ecc75e9294eadaa0ec7a2c82a29808687a9f76&v=4" width="24" alt="Avatar of sokolegg"> sokolegg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#sokolegg">Copy rank badge</a><br/>
 			Oleg Sokolov
 		</td>
 		<td>Tatradev </td>
@@ -7285,7 +7287,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/natamazy">
 				<img src="https://avatars.githubusercontent.com/u/149107676?s=72&u=34479a821cc7d7938df3fb6fb159de329c3dbde7&v=4" width="24" alt="Avatar of natamazy"> natamazy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#natamazy">Copy rank badge</a><br/>
 			Narek Tamazyan
 		</td>
 		<td>Upt.ai </td>
@@ -7298,7 +7300,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/davwwwx">
 				<img src="https://avatars.githubusercontent.com/u/26136505?s=72&u=cd13b30bde50cf7895af999c42bf7711ca3eebfe&v=4" width="24" alt="Avatar of davwwwx"> davwwwx
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#davwwwx">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -7311,7 +7313,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/fr13n8">
 				<img src="https://avatars.githubusercontent.com/u/57458390?s=72&u=1c99917756775c13695409246d7684040d2fbede&v=4" width="24" alt="Avatar of fr13n8"> fr13n8
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#fr13n8">Copy rank badge</a><br/>
 			Erik Hovsepyan
 		</td>
 		<td>No Company</td>
@@ -7324,7 +7326,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/yogurt1">
 				<img src="https://avatars.githubusercontent.com/u/4020866?s=72&u=e9c9223e158b5961d8a2ccb3abe7ca92450ae904&v=4" width="24" alt="Avatar of yogurt1"> yogurt1
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#yogurt1">Copy rank badge</a><br/>
 			Paruyr
 		</td>
 		<td>No Company</td>
@@ -7337,7 +7339,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/mozerrr">
 				<img src="https://avatars.githubusercontent.com/u/24671272?s=72&u=0e6816040a0ca5093c5488fb4b48eea4fda99919&v=4" width="24" alt="Avatar of mozerrr"> mozerrr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#mozerrr">Copy rank badge</a><br/>
 			Mozer Dmitry
 		</td>
 		<td>No Company</td>
@@ -7350,7 +7352,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/GagMirz">
 				<img src="https://avatars.githubusercontent.com/u/34382873?s=72&u=272d65813aa6d3da3e4e4cce8125933781d3ef35&v=4" width="24" alt="Avatar of GagMirz"> GagMirz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#GagMirz">Copy rank badge</a><br/>
 			Gagik Mirzoyan
 		</td>
 		<td>@modelfront  </td>
@@ -7363,7 +7365,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/brutspark">
 				<img src="https://avatars.githubusercontent.com/u/38699287?s=72&u=c6197cc4f18079ff01c8d907fd282906e9678773&v=4" width="24" alt="Avatar of brutspark"> brutspark
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#brutspark">Copy rank badge</a><br/>
 			Brutspark
 		</td>
 		<td>Brutspark </td>
@@ -7376,7 +7378,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/hrachocode">
 				<img src="https://avatars.githubusercontent.com/u/23248910?s=72&u=686bca31cf04d9c155c313fd3d04442549bfabef&v=4" width="24" alt="Avatar of hrachocode"> hrachocode
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#hrachocode">Copy rank badge</a><br/>
 			Hrach
 		</td>
 		<td>Hydralab </td>
@@ -7389,7 +7391,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/GevorDanielyan">
 				<img src="https://avatars.githubusercontent.com/u/10724174?s=72&u=6af711c7ac0c1a2bf9debfed1f6ab8cbea9accc2&v=4" width="24" alt="Avatar of GevorDanielyan"> GevorDanielyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#GevorDanielyan">Copy rank badge</a><br/>
 			Gevorg Danielyan
 		</td>
 		<td>No Company</td>
@@ -7402,7 +7404,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Hasul79">
 				<img src="https://avatars.githubusercontent.com/u/95657084?s=72&u=de520f03f52c95ea53dc5ae1402da56d21fcb437&v=4" width="24" alt="Avatar of Hasul79"> Hasul79
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Hasul79">Copy rank badge</a><br/>
 			Hasmik Minasyan
 		</td>
 		<td>No Company</td>
@@ -7415,7 +7417,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/timmarinin">
 				<img src="https://avatars.githubusercontent.com/u/66025?s=72&u=b670fbd44cc975f723fd50b73188003dcd0cb6ad&v=4" width="24" alt="Avatar of timmarinin"> timmarinin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#timmarinin">Copy rank badge</a><br/>
 			Tim Marinin
 		</td>
 		<td>No Company</td>
@@ -7428,7 +7430,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/bleakgrey">
 				<img src="https://avatars.githubusercontent.com/u/20158357?s=72&u=9a3988f5cd7b3932fe96ef0f4c4d966dfecbec62&v=4" width="24" alt="Avatar of bleakgrey"> bleakgrey
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#bleakgrey">Copy rank badge</a><br/>
 			Bleak Grey
 		</td>
 		<td>No Company</td>
@@ -7441,7 +7443,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/r4rohan">
 				<img src="https://avatars.githubusercontent.com/u/30438229?s=72&u=19ec61d21e10f332f1e7fe8c47e804db920b2374&v=4" width="24" alt="Avatar of r4rohan"> r4rohan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#r4rohan">Copy rank badge</a><br/>
 			Rohan Singh
 		</td>
 		<td>@sadasystems  </td>
@@ -7454,7 +7456,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/pavelnikonorov">
 				<img src="https://avatars.githubusercontent.com/u/4646953?s=72&u=3aa34d20e40f6b62033297d51aac4b4fcbe6845b&v=4" width="24" alt="Avatar of pavelnikonorov"> pavelnikonorov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#pavelnikonorov">Copy rank badge</a><br/>
 			Pavel Nikonorov
 		</td>
 		<td>@genxnetwork </td>
@@ -7467,7 +7469,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/VankaTaganai">
 				<img src="https://avatars.githubusercontent.com/u/37435137?s=72&u=3152399359d0d61c130e0fcd4ac393139b2370db&v=4" width="24" alt="Avatar of VankaTaganai"> VankaTaganai
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#VankaTaganai">Copy rank badge</a><br/>
 			Panov Ivan
 		</td>
 		<td>No Company</td>
@@ -7480,7 +7482,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/arsdever">
 				<img src="https://avatars.githubusercontent.com/u/22396275?s=72&u=c288b9421ef9e92cb8faf3e686db5b182c085935&v=4" width="24" alt="Avatar of arsdever"> arsdever
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#arsdever">Copy rank badge</a><br/>
 			Arsen
 		</td>
 		<td>Synopsys </td>
@@ -7493,7 +7495,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Adel2k">
 				<img src="https://avatars.githubusercontent.com/u/119963790?s=72&u=4e925f642f8c8afcae4e6de16f3cac4157110411&v=4" width="24" alt="Avatar of Adel2k"> Adel2k
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Adel2k">Copy rank badge</a><br/>
 			Adeline Eminian
 		</td>
 		<td>No Company</td>
@@ -7506,7 +7508,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/000KJ">
 				<img src="https://avatars.githubusercontent.com/u/103612926?s=72&u=4914c793b2e86b159c92391b5190f7799c426012&v=4" width="24" alt="Avatar of 000KJ"> 000KJ
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#000KJ">Copy rank badge</a><br/>
 			Gasparyan KJ
 		</td>
 		<td>No Company</td>
@@ -7519,7 +7521,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/SolomidHero">
 				<img src="https://avatars.githubusercontent.com/u/28161779?s=72&v=4" width="24" alt="Avatar of SolomidHero"> SolomidHero
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#SolomidHero">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>Moscow Institute Of Physics<br/>And<br/>Technologies<br/></td>
@@ -7532,7 +7534,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/intonoya">
 				<img src="https://avatars.githubusercontent.com/u/104089007?s=72&u=51b2650179ffcf063a236aad90a048a3a4546d32&v=4" width="24" alt="Avatar of intonoya"> intonoya
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#intonoya">Copy rank badge</a><br/>
 			Inga (Solanj) Tonoyan
 		</td>
 		<td>Tumo Labs </td>
@@ -7545,7 +7547,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/nieraraqel">
 				<img src="https://avatars.githubusercontent.com/u/71599424?s=72&v=4" width="24" alt="Avatar of nieraraqel"> nieraraqel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#nieraraqel">Copy rank badge</a><br/>
 			niera
 		</td>
 		<td>No Company</td>
@@ -7558,7 +7560,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/darkacid">
 				<img src="https://avatars.githubusercontent.com/u/7871664?s=72&u=96b58f4f197e6fb1b497ac51ba2d85dcf24911f0&v=4" width="24" alt="Avatar of darkacid"> darkacid
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#darkacid">Copy rank badge</a><br/>
 			Serg
 		</td>
 		<td>No Company</td>
@@ -7571,7 +7573,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Mr-Dev-A13">
 				<img src="https://avatars.githubusercontent.com/u/60068657?s=72&u=ab43865428921a590b80cf2197c7a8991c63227b&v=4" width="24" alt="Avatar of Mr-Dev-A13"> Mr-Dev-A13
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Mr-Dev-A13">Copy rank badge</a><br/>
 			A13-Cloud
 		</td>
 		<td>No Company</td>
@@ -7584,7 +7586,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/sonachitchyan">
 				<img src="https://avatars.githubusercontent.com/u/24611712?s=72&u=72b850b115ed74568ba4f197ee6a064c81ca923e&v=4" width="24" alt="Avatar of sonachitchyan"> sonachitchyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#sonachitchyan">Copy rank badge</a><br/>
 			Sona Chitchyan
 		</td>
 		<td>No Company</td>
@@ -7597,7 +7599,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/kittycat-tech">
 				<img src="https://avatars.githubusercontent.com/u/101205308?s=72&u=d5b7f64addbf797edeb156da078be9319bf7a1b9&v=4" width="24" alt="Avatar of kittycat-tech"> kittycat-tech
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#kittycat-tech">Copy rank badge</a><br/>
 			Erica Madebeykin
 		</td>
 		<td>No Company</td>
@@ -7610,7 +7612,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Gor32">
 				<img src="https://avatars.githubusercontent.com/u/23289688?s=72&u=8077be89e36d44684e2c228badd0862ef18a079e&v=4" width="24" alt="Avatar of Gor32"> Gor32
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Gor32">Copy rank badge</a><br/>
 			Gor
 		</td>
 		<td>Betconstruct </td>
@@ -7623,7 +7625,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/montanodoto">
 				<img src="https://avatars.githubusercontent.com/u/37954693?s=72&u=92a944d9cf502cf7459257e2a7a616aa969d5b5e&v=4" width="24" alt="Avatar of montanodoto"> montanodoto
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#montanodoto">Copy rank badge</a><br/>
 			Gregory
 		</td>
 		<td>Picsart </td>
@@ -7636,7 +7638,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Capriatto">
 				<img src="https://avatars.githubusercontent.com/u/1812257?s=72&v=4" width="24" alt="Avatar of Capriatto"> Capriatto
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Capriatto">Copy rank badge</a><br/>
 			Juan Sebastian Ocampo Ospina
 		</td>
 		<td>Logyca </td>
@@ -7649,7 +7651,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/lilit-nersisyan">
 				<img src="https://avatars.githubusercontent.com/u/7588977?s=72&u=018a67ca8ec91026e2f9e0ffe0b94b8e54962a91&v=4" width="24" alt="Avatar of lilit-nersisyan"> lilit-nersisyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#lilit-nersisyan">Copy rank badge</a><br/>
 			Lilit Nersisyan
 		</td>
 		<td>Armenian Bioinformatics Institute </td>
@@ -7662,7 +7664,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/hheghine">
 				<img src="https://avatars.githubusercontent.com/u/119530584?s=72&u=18ba548d6c4a1260a30d6cded3a628b03e3c26f5&v=4" width="24" alt="Avatar of hheghine"> hheghine
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#hheghine">Copy rank badge</a><br/>
 			Heghine Balasanyan
 		</td>
 		<td>@42school </td>
@@ -7675,7 +7677,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/nar3k">
 				<img src="https://avatars.githubusercontent.com/u/8156149?s=72&v=4" width="24" alt="Avatar of nar3k"> nar3k
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#nar3k">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -7688,7 +7690,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/dmayilyan">
 				<img src="https://avatars.githubusercontent.com/u/6394434?s=72&v=4" width="24" alt="Avatar of dmayilyan"> dmayilyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#dmayilyan">Copy rank badge</a><br/>
 			Davit Mayilyan
 		</td>
 		<td>No Company</td>
@@ -7701,7 +7703,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Anushavan95">
 				<img src="https://avatars.githubusercontent.com/u/54754667?s=72&v=4" width="24" alt="Avatar of Anushavan95"> Anushavan95
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Anushavan95">Copy rank badge</a><br/>
 			Anushavan
 		</td>
 		<td>No Company</td>
@@ -7714,7 +7716,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/klenov">
 				<img src="https://avatars.githubusercontent.com/u/1382229?s=72&u=c493a96ff0de34469bae61ee807f83844b1529c8&v=4" width="24" alt="Avatar of klenov"> klenov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#klenov">Copy rank badge</a><br/>
 			Vasily Klenov
 		</td>
 		<td>No Company</td>
@@ -7727,7 +7729,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/eilazov">
 				<img src="https://avatars.githubusercontent.com/u/37984112?s=72&u=7702a4b1467ce994b78595ed6280ff46e359fe6c&v=4" width="24" alt="Avatar of eilazov"> eilazov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#eilazov">Copy rank badge</a><br/>
 			Levon Eilazov
 		</td>
 		<td>No Company</td>
@@ -7740,7 +7742,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/hovhannisyangevorg">
 				<img src="https://avatars.githubusercontent.com/u/113924661?s=72&u=a06563742d58e116761a9bb2a2def22a1a1d1152&v=4" width="24" alt="Avatar of hovhannisyangevorg"> hovhannisyangevorg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#hovhannisyangevorg">Copy rank badge</a><br/>
 			Gevorg Hovhannisyan
 		</td>
 		<td>No Company</td>
@@ -7753,7 +7755,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/lurepheonix">
 				<img src="https://avatars.githubusercontent.com/u/3383912?s=72&u=4878f5d83398afd4e7f7d9e109bfc595cfe5eb1e&v=4" width="24" alt="Avatar of lurepheonix"> lurepheonix
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#lurepheonix">Copy rank badge</a><br/>
 			The Ghost
 		</td>
 		<td>@foilhats </td>
@@ -7766,7 +7768,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/EdwardStepanian">
 				<img src="https://avatars.githubusercontent.com/u/13977677?s=72&u=69217f250cd77408c107b337d1a2dab183425967&v=4" width="24" alt="Avatar of EdwardStepanian"> EdwardStepanian
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#EdwardStepanian">Copy rank badge</a><br/>
 			Edward Stepainan
 		</td>
 		<td>No Company</td>
@@ -7779,7 +7781,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/cryptexis">
 				<img src="https://avatars.githubusercontent.com/u/1158677?s=72&u=01cffffac3f33dee0622cb3e6cedc16640115ca5&v=4" width="24" alt="Avatar of cryptexis"> cryptexis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#cryptexis">Copy rank badge</a><br/>
 			Vahe Hakobyan
 		</td>
 		<td>No Company</td>
@@ -7792,7 +7794,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/hovik-aghajanyan">
 				<img src="https://avatars.githubusercontent.com/u/17846478?s=72&u=85cea652e50f8b5e1882528e61c6e5fd5999d4ef&v=4" width="24" alt="Avatar of hovik-aghajanyan"> hovik-aghajanyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#hovik-aghajanyan">Copy rank badge</a><br/>
 			Hovik Aghajanyan
 		</td>
 		<td>No Company</td>
@@ -7805,7 +7807,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/VaheDanielyan">
 				<img src="https://avatars.githubusercontent.com/u/7036959?s=72&u=d2db6a5aa2042a2dae348f648426eed64caf117d&v=4" width="24" alt="Avatar of VaheDanielyan"> VaheDanielyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#VaheDanielyan">Copy rank badge</a><br/>
 			Vahe Danielyan
 		</td>
 		<td>No Company</td>
@@ -7818,7 +7820,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/m1ome">
 				<img src="https://avatars.githubusercontent.com/u/5213243?s=72&u=2569ead361778b1ca89f12913832328c157cb4dc&v=4" width="24" alt="Avatar of m1ome"> m1ome
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#m1ome">Copy rank badge</a><br/>
 			Pavel Makarenko
 		</td>
 		<td>No Company</td>
@@ -7831,7 +7833,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/linkarux">
 				<img src="https://avatars.githubusercontent.com/u/270163031?s=72&u=2fba747315e9e4931911b244d1bf5edaf7d523cf&v=4" width="24" alt="Avatar of linkarux"> linkarux
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#linkarux">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -7844,7 +7846,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/daniilshat">
 				<img src="https://avatars.githubusercontent.com/u/38105043?s=72&u=d806c0418aa6d8c569711eb00956bb99a4c9c6ac&v=4" width="24" alt="Avatar of daniilshat"> daniilshat
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#daniilshat">Copy rank badge</a><br/>
 			Daniil Shatukhin
 		</td>
 		<td>No Company</td>
@@ -7857,7 +7859,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/c01nd01r">
 				<img src="https://avatars.githubusercontent.com/u/3511312?s=72&u=0f01b08fda0cbe370dcd127154ad4afa9b83f0e2&v=4" width="24" alt="Avatar of c01nd01r"> c01nd01r
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#c01nd01r">Copy rank badge</a><br/>
 			Stanislav
 		</td>
 		<td>No Company</td>
@@ -7870,7 +7872,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/thekarenovich">
 				<img src="https://avatars.githubusercontent.com/u/78443570?s=72&u=cf4d47f2e974de91b7d923427696170f6d47c6cf&v=4" width="24" alt="Avatar of thekarenovich"> thekarenovich
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#thekarenovich">Copy rank badge</a><br/>
 			Erik Karenovich
 		</td>
 		<td>No Company</td>
@@ -7883,7 +7885,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/arenshaee">
 				<img src="https://avatars.githubusercontent.com/u/19183640?s=72&u=8924642675d0701cdce5fa01224a816cf9fafe23&v=4" width="24" alt="Avatar of arenshaee"> arenshaee
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#arenshaee">Copy rank badge</a><br/>
 			Ahmad Reza Enshaee
 		</td>
 		<td>No Company</td>
@@ -7896,7 +7898,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/NameLeSS-93">
 				<img src="https://avatars.githubusercontent.com/u/30523448?s=72&u=34354ea8641f30cdb848b802d69ab0d8ba3d024e&v=4" width="24" alt="Avatar of NameLeSS-93"> NameLeSS-93
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#NameLeSS-93">Copy rank badge</a><br/>
 			Nikita Myakishev
 		</td>
 		<td>@yandex </td>
@@ -7909,7 +7911,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/vigen81">
 				<img src="https://avatars.githubusercontent.com/u/4341940?s=72&u=46e63e6edf0f678ae2fe3905abcd7c88e38d1998&v=4" width="24" alt="Avatar of vigen81"> vigen81
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#vigen81">Copy rank badge</a><br/>
 			Vigen
 		</td>
 		<td>No Company</td>
@@ -7922,7 +7924,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Flowneee">
 				<img src="https://avatars.githubusercontent.com/u/10746427?s=72&u=4fe5fa9ea74ffcbfe2b996503263b005a67117e2&v=4" width="24" alt="Avatar of Flowneee"> Flowneee
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Flowneee">Copy rank badge</a><br/>
 			Andrei Kononov
 		</td>
 		<td>No Company</td>
@@ -7935,7 +7937,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Karlen96">
 				<img src="https://avatars.githubusercontent.com/u/59868342?s=72&u=a733358c8b6baef998d608b8a7ae02971b0f383e&v=4" width="24" alt="Avatar of Karlen96"> Karlen96
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Karlen96">Copy rank badge</a><br/>
 			Karlen96
 		</td>
 		<td>No Company</td>
@@ -7948,7 +7950,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/YervandBag">
 				<img src="https://avatars.githubusercontent.com/u/29462299?s=72&u=62a1727304b279ab271701ab0e659f515b1e73e5&v=4" width="24" alt="Avatar of YervandBag"> YervandBag
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#YervandBag">Copy rank badge</a><br/>
 			Yervand Baghdasaryan
 		</td>
 		<td>No Company</td>
@@ -7961,7 +7963,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/hovhanns">
 				<img src="https://avatars.githubusercontent.com/u/17962453?s=72&u=842d6e887d9e5af868aa3d00ae323983d018840e&v=4" width="24" alt="Avatar of hovhanns"> hovhanns
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#hovhanns">Copy rank badge</a><br/>
 			Harutyun Hovhannisyan
 		</td>
 		<td>No Company</td>
@@ -7974,7 +7976,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/hettmett">
 				<img src="https://avatars.githubusercontent.com/u/8983353?s=72&u=b9e7ea36ab9cef3e9defabb1211d6cb2badd0436&v=4" width="24" alt="Avatar of hettmett"> hettmett
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#hettmett">Copy rank badge</a><br/>
 			Ruben Manukyan
 		</td>
 		<td>Vxsoft </td>
@@ -7987,7 +7989,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Hakob">
 				<img src="https://avatars.githubusercontent.com/u/3417848?s=72&u=3cf33014f1cec081716b32e82ca842119a9deae2&v=4" width="24" alt="Avatar of Hakob"> Hakob
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Hakob">Copy rank badge</a><br/>
 			Hakob Arakelyan
 		</td>
 		<td>Ameriabank Cjsc </td>
@@ -8000,7 +8002,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/holikyan">
 				<img src="https://avatars.githubusercontent.com/u/111994421?s=72&u=b2a15a8ea9213554e8ab6c802cc0f15260ed6859&v=4" width="24" alt="Avatar of holikyan"> holikyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#holikyan">Copy rank badge</a><br/>
 			Taron
 		</td>
 		<td>No Company</td>
@@ -8013,7 +8015,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/vre2h">
 				<img src="https://avatars.githubusercontent.com/u/29960909?s=72&u=e032e5341e0c4c6bc1f20076042196ee05b40aa3&v=4" width="24" alt="Avatar of vre2h"> vre2h
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#vre2h">Copy rank badge</a><br/>
 			Vrezh Oganisyan
 		</td>
 		<td>No Company</td>
@@ -8026,7 +8028,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/jespy666">
 				<img src="https://avatars.githubusercontent.com/u/123451311?s=72&u=6fee11ae565485351c02d4dde36deb5d05fbbbfe&v=4" width="24" alt="Avatar of jespy666"> jespy666
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#jespy666">Copy rank badge</a><br/>
 			Anton Georgievsky
 		</td>
 		<td>No Company</td>
@@ -8039,7 +8041,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/PoisonousJohn">
 				<img src="https://avatars.githubusercontent.com/u/1488281?s=72&u=bc1cc99d4f74d9a8e085f6192fa8289e021d920c&v=4" width="24" alt="Avatar of PoisonousJohn"> PoisonousJohn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#PoisonousJohn">Copy rank badge</a><br/>
 			Ivan Fateev
 		</td>
 		<td>No Company</td>
@@ -8052,7 +8054,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/mikron">
 				<img src="https://avatars.githubusercontent.com/u/1601323?s=72&u=0c5b631afaa320a7cded413a066db66cd06250f1&v=4" width="24" alt="Avatar of mikron"> mikron
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#mikron">Copy rank badge</a><br/>
 			Davit Harutyunyan
 		</td>
 		<td>Sfl Llc </td>
@@ -8065,7 +8067,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Xelgen">
 				<img src="https://avatars.githubusercontent.com/u/3137137?s=72&v=4" width="24" alt="Avatar of Xelgen"> Xelgen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Xelgen">Copy rank badge</a><br/>
 			Aleksey Chalabyan
 		</td>
 		<td>No Company</td>
@@ -8078,7 +8080,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/juanprq">
 				<img src="https://avatars.githubusercontent.com/u/937705?s=72&v=4" width="24" alt="Avatar of juanprq"> juanprq
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#juanprq">Copy rank badge</a><br/>
 			Juan Pablo Ramírez
 		</td>
 		<td>Alchemy </td>
@@ -8091,7 +8093,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/azizbekian">
 				<img src="https://avatars.githubusercontent.com/u/3052023?s=72&u=93ee08566cc8a3fa63b54d1aee8b85575ac39d94&v=4" width="24" alt="Avatar of azizbekian"> azizbekian
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#azizbekian">Copy rank badge</a><br/>
 			Andranik Azizbekian
 		</td>
 		<td>No Company</td>
@@ -8104,7 +8106,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/manyakhachatryan">
 				<img src="https://avatars.githubusercontent.com/u/90526363?s=72&u=9a1f5a8d318f05b5209df84e23fec9f435d74afd&v=4" width="24" alt="Avatar of manyakhachatryan"> manyakhachatryan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#manyakhachatryan">Copy rank badge</a><br/>
 			Manya Khachatryan
 		</td>
 		<td>Tumo Center For Creative<br/>Technology<br/></td>
@@ -8117,7 +8119,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/pustoshilov-d">
 				<img src="https://avatars.githubusercontent.com/u/22946517?s=72&u=437097fceeba885cae5d370a41848acd20af0d74&v=4" width="24" alt="Avatar of pustoshilov-d"> pustoshilov-d
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#pustoshilov-d">Copy rank badge</a><br/>
 			Dmitry Pustoshilov
 		</td>
 		<td>No Company</td>
@@ -8130,7 +8132,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/VladimirBudilov">
 				<img src="https://avatars.githubusercontent.com/u/109314834?s=72&u=2cc918077956179ac0cf7c6a5e365f911571bd4f&v=4" width="24" alt="Avatar of VladimirBudilov"> VladimirBudilov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#VladimirBudilov">Copy rank badge</a><br/>
 			Vladimir Budilov
 		</td>
 		<td>42 School </td>
@@ -8143,7 +8145,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/8RockStar8">
 				<img src="https://avatars.githubusercontent.com/u/31365793?s=72&u=9b9e4e776a5b07857df77a9aa302380ff5bded28&v=4" width="24" alt="Avatar of 8RockStar8"> 8RockStar8
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#8RockStar8">Copy rank badge</a><br/>
 			Gagik Aproyan
 		</td>
 		<td>No Company</td>
@@ -8156,7 +8158,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/karart1981">
 				<img src="https://avatars.githubusercontent.com/u/88782077?s=72&u=e089b7fb997d98becfbacf9766bd0eab30f04a36&v=4" width="24" alt="Avatar of karart1981"> karart1981
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#karart1981">Copy rank badge</a><br/>
 			Artur Karapetyan
 		</td>
 		<td>No Company</td>
@@ -8169,7 +8171,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/denismosolov">
 				<img src="https://avatars.githubusercontent.com/u/3057626?s=72&u=598aaf47f6f71e190e97244d0c19e64c59e3002f&v=4" width="24" alt="Avatar of denismosolov"> denismosolov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#denismosolov">Copy rank badge</a><br/>
 			Denis Mosolov
 		</td>
 		<td>No Company</td>
@@ -8182,7 +8184,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/quansho">
 				<img src="https://avatars.githubusercontent.com/u/41778292?s=72&u=6009369a50b61eb6d68b8e05225feefeb61cbe62&v=4" width="24" alt="Avatar of quansho"> quansho
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#quansho">Copy rank badge</a><br/>
 			Arthur Danielian
 		</td>
 		<td>Freelance </td>
@@ -8195,7 +8197,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/tomsve">
 				<img src="https://avatars.githubusercontent.com/u/164321?s=72&v=4" width="24" alt="Avatar of tomsve"> tomsve
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#tomsve">Copy rank badge</a><br/>
 			Tom Svensson
 		</td>
 		<td>Empowings Llc </td>
@@ -8208,7 +8210,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/mikekolganov">
 				<img src="https://avatars.githubusercontent.com/u/557480?s=72&u=6560c9fa04186e7aaae8923c7bb687fa3eb4cf91&v=4" width="24" alt="Avatar of mikekolganov"> mikekolganov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#mikekolganov">Copy rank badge</a><br/>
 			Mike Kolganov
 		</td>
 		<td>No Company</td>
@@ -8221,7 +8223,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/se-foster">
 				<img src="https://avatars.githubusercontent.com/u/65450489?s=72&u=7d891825286dcb508b4d8adbd93ebf1a52710573&v=4" width="24" alt="Avatar of se-foster"> se-foster
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#se-foster">Copy rank badge</a><br/>
 			Sergei Foster
 		</td>
 		<td>Yandex </td>
@@ -8234,7 +8236,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/mihran113">
 				<img src="https://avatars.githubusercontent.com/u/6143646?s=72&u=f12fb9529c6c2ae2507e2d0ec65ed062e3603ffc&v=4" width="24" alt="Avatar of mihran113"> mihran113
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#mihran113">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>@aimhubio  </td>
@@ -8247,7 +8249,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/BUGOVER">
 				<img src="https://avatars.githubusercontent.com/u/22304644?s=72&u=152c2e4e0228e778e7bdb64148f3a068e922da0d&v=4" width="24" alt="Avatar of BUGOVER"> BUGOVER
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#BUGOVER">Copy rank badge</a><br/>
 			Artak
 		</td>
 		<td>Individual Llc </td>
@@ -8260,7 +8262,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/ArmmGh">
 				<img src="https://avatars.githubusercontent.com/u/21320770?s=72&v=4" width="24" alt="Avatar of ArmmGh"> ArmmGh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#ArmmGh">Copy rank badge</a><br/>
 			Arman Ghazaryan
 		</td>
 		<td>@opengate-labs  </td>
@@ -8273,7 +8275,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Jarlosh">
 				<img src="https://avatars.githubusercontent.com/u/3882722?s=72&u=846ec991d2f3a521c7913ffa455a3dab374ef991&v=4" width="24" alt="Avatar of Jarlosh"> Jarlosh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Jarlosh">Copy rank badge</a><br/>
 			Evgeniy Ilinykh
 		</td>
 		<td>Saber Interactive </td>
@@ -8286,7 +8288,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/sand1k">
 				<img src="https://avatars.githubusercontent.com/u/9209835?s=72&u=556be5972fd56fed8beb4f7fb1359892ab9870ee&v=4" width="24" alt="Avatar of sand1k"> sand1k
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#sand1k">Copy rank badge</a><br/>
 			Andrei Shitov
 		</td>
 		<td>Turing </td>
@@ -8299,7 +8301,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Hovhannes99">
 				<img src="https://avatars.githubusercontent.com/u/75797412?s=72&u=32b1dee3c1c04e25fed6c6fdae709c3bd9642c25&v=4" width="24" alt="Avatar of Hovhannes99"> Hovhannes99
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Hovhannes99">Copy rank badge</a><br/>
 			Hovo
 		</td>
 		<td>No Company</td>
@@ -8312,7 +8314,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/yuiauo">
 				<img src="https://avatars.githubusercontent.com/u/79303699?s=72&u=e2997c3d1d51c99a1f861438942bdb94c5301701&v=4" width="24" alt="Avatar of yuiauo"> yuiauo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#yuiauo">Copy rank badge</a><br/>
 			Yuri
 		</td>
 		<td>No Company</td>
@@ -8325,7 +8327,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/armansw">
 				<img src="https://avatars.githubusercontent.com/u/37415995?s=72&v=4" width="24" alt="Avatar of armansw"> armansw
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#armansw">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -8338,7 +8340,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/noubarkalost">
 				<img src="https://avatars.githubusercontent.com/u/77554002?s=72&u=642a2f41deda72df04729967d944882c0ce31bbc&v=4" width="24" alt="Avatar of noubarkalost"> noubarkalost
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#noubarkalost">Copy rank badge</a><br/>
 			Noubar Kalost
 		</td>
 		<td>Epam </td>
@@ -8351,7 +8353,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/danya">
 				<img src="https://avatars.githubusercontent.com/u/34190860?s=72&u=21015091c63beb04ab75c35cfb325ea1570c74b7&v=4" width="24" alt="Avatar of danya"> danya
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#danya">Copy rank badge</a><br/>
 			Daniil Poroshin
 		</td>
 		<td>No Company</td>
@@ -8364,7 +8366,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/manar007">
 				<img src="https://avatars.githubusercontent.com/u/736738?s=72&u=31113db2203f0532e59c25fcbc04013ca8dfbe03&v=4" width="24" alt="Avatar of manar007"> manar007
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#manar007">Copy rank badge</a><br/>
 			Narek
 		</td>
 		<td>No Company</td>
@@ -8377,7 +8379,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/DavitPetrosyan">
 				<img src="https://avatars.githubusercontent.com/u/9525104?s=72&u=fe9226dd1d5ce3f492f186baabcba6e65f6b98c4&v=4" width="24" alt="Avatar of DavitPetrosyan"> DavitPetrosyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#DavitPetrosyan">Copy rank badge</a><br/>
 			Davit Petrosyan
 		</td>
 		<td>Eyesoft </td>
@@ -8390,7 +8392,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Mee-Tree">
 				<img src="https://avatars.githubusercontent.com/u/30271846?s=72&u=e3c245c277bd998bcfe96ad1322f10374c8c6389&v=4" width="24" alt="Avatar of Mee-Tree"> Mee-Tree
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Mee-Tree">Copy rank badge</a><br/>
 			Dmitri Polchinski
 		</td>
 		<td>Itmo University </td>
@@ -8403,7 +8405,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/gooxpf">
 				<img src="https://avatars.githubusercontent.com/u/18036661?s=72&u=0647f118ba616561d5cb8127e4a885e879cfb0bb&v=4" width="24" alt="Avatar of gooxpf"> gooxpf
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#gooxpf">Copy rank badge</a><br/>
 			GooxPF
 		</td>
 		<td>No Company</td>
@@ -8416,7 +8418,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/aleksandr-kirakosyan">
 				<img src="https://avatars.githubusercontent.com/u/105770305?s=72&u=ac8f0c6bc7a3154646eb77696cea97716d45e816&v=4" width="24" alt="Avatar of aleksandr-kirakosyan"> aleksandr-kirakosyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#aleksandr-kirakosyan">Copy rank badge</a><br/>
 			Aleksandr
 		</td>
 		<td>Eip Concepts </td>
@@ -8429,7 +8431,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/kreig133">
 				<img src="https://avatars.githubusercontent.com/u/925293?s=72&v=4" width="24" alt="Avatar of kreig133"> kreig133
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#kreig133">Copy rank badge</a><br/>
 			kreig133
 		</td>
 		<td>No Company</td>
@@ -8442,7 +8444,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/aklto">
 				<img src="https://avatars.githubusercontent.com/u/105605370?s=72&u=f9836b7b80227c34e7141c1ba0c7b3b9c67ad047&v=4" width="24" alt="Avatar of aklto"> aklto
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#aklto">Copy rank badge</a><br/>
 			Vitalii Novokshonov
 		</td>
 		<td>No Company</td>
@@ -8455,7 +8457,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/GrishTad">
 				<img src="https://avatars.githubusercontent.com/u/29206404?s=72&u=234fb7413eab0ce15bb33874c99cfb8e377760ee&v=4" width="24" alt="Avatar of GrishTad"> GrishTad
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#GrishTad">Copy rank badge</a><br/>
 			GrishTad
 		</td>
 		<td>No Company</td>
@@ -8468,7 +8470,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/rikarsen">
 				<img src="https://avatars.githubusercontent.com/u/6823614?s=72&u=0c0a60cc8ac1490b5a7465e5e8d5d013fed43770&v=4" width="24" alt="Avatar of rikarsen"> rikarsen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#rikarsen">Copy rank badge</a><br/>
 			Arsen Babajanyan
 		</td>
 		<td>Sta-development </td>
@@ -8481,7 +8483,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/armcha">
 				<img src="https://avatars.githubusercontent.com/u/15573237?s=72&u=c55f9ca1848b6fcacdbe173416be9f6c5b7cac09&v=4" width="24" alt="Avatar of armcha"> armcha
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#armcha">Copy rank badge</a><br/>
 			Arman
 		</td>
 		<td>No Company</td>
@@ -8494,7 +8496,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/aetovmasyan">
 				<img src="https://avatars.githubusercontent.com/u/86357987?s=72&u=902d09e047e91131e101074612c3131f167c0146&v=4" width="24" alt="Avatar of aetovmasyan"> aetovmasyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#aetovmasyan">Copy rank badge</a><br/>
 			Arman Tovmasyan
 		</td>
 		<td>Tinkoff Technologies </td>
@@ -8507,7 +8509,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Aharonyan-Narek">
 				<img src="https://avatars.githubusercontent.com/u/48772190?s=72&u=46b30ade1b24747cb8af36dc28351d33cf7ce518&v=4" width="24" alt="Avatar of Aharonyan-Narek"> Aharonyan-Narek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Aharonyan-Narek">Copy rank badge</a><br/>
 			Narek Aharonyan
 		</td>
 		<td>No Company</td>
@@ -8520,7 +8522,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/dmitryshostak">
 				<img src="https://avatars.githubusercontent.com/u/39539554?s=72&u=b50f099c8cc5fcef4f97974f7665db2343e45542&v=4" width="24" alt="Avatar of dmitryshostak"> dmitryshostak
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#dmitryshostak">Copy rank badge</a><br/>
 			Dmitry Shostak
 		</td>
 		<td>Memocity </td>
@@ -8533,7 +8535,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/vasekva">
 				<img src="https://avatars.githubusercontent.com/u/48613408?s=72&u=2510cf74929834ae5827a075628de7b2d90ed81d&v=4" width="24" alt="Avatar of vasekva"> vasekva
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#vasekva">Copy rank badge</a><br/>
 			Vasiliy
 		</td>
 		<td>21 School </td>
@@ -8546,7 +8548,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Vladinho10">
 				<img src="https://avatars.githubusercontent.com/u/33626746?s=72&u=44d12d1d05bdb1dfb29df8b0642d5e1b8350c928&v=4" width="24" alt="Avatar of Vladinho10"> Vladinho10
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Vladinho10">Copy rank badge</a><br/>
 			 Vlad
 		</td>
 		<td>No Company</td>
@@ -8559,7 +8561,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/yalozhkin">
 				<img src="https://avatars.githubusercontent.com/u/454947?s=72&u=567acec7a0465eb0a15e4e8cf7e0625ec1564e2d&v=4" width="24" alt="Avatar of yalozhkin"> yalozhkin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#yalozhkin">Copy rank badge</a><br/>
 			Yaroslav Lozhkin
 		</td>
 		<td>@evilmartians  </td>
@@ -8572,7 +8574,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/MariaKorshunova">
 				<img src="https://avatars.githubusercontent.com/u/31948971?s=72&u=49e3b3fd3a530a8a333baaec42e3db2786ff8d81&v=4" width="24" alt="Avatar of MariaKorshunova"> MariaKorshunova
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#MariaKorshunova">Copy rank badge</a><br/>
 			Mariia Korshunova
 		</td>
 		<td>No Company</td>
@@ -8585,7 +8587,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/armsargis">
 				<img src="https://avatars.githubusercontent.com/u/229335?s=72&u=daec879e0dd7826aae7c3021470c5d3d7e8589c9&v=4" width="24" alt="Avatar of armsargis"> armsargis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#armsargis">Copy rank badge</a><br/>
 			Sargis Harutyunyan
 		</td>
 		<td>Webb Fontaine Group </td>
@@ -8598,7 +8600,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/me-masoud">
 				<img src="https://avatars.githubusercontent.com/u/36824897?s=72&u=a797a15f2cb15a5aff333da6d8c8b0a15ab4f2fb&v=4" width="24" alt="Avatar of me-masoud"> me-masoud
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#me-masoud">Copy rank badge</a><br/>
 			Masoud Hosseini
 		</td>
 		<td>No Company</td>
@@ -8611,7 +8613,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/maxmanukian">
 				<img src="https://avatars.githubusercontent.com/u/108003669?s=72&u=d194ce936a169cca127665cc2821a02889c3a78e&v=4" width="24" alt="Avatar of maxmanukian"> maxmanukian
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#maxmanukian">Copy rank badge</a><br/>
 			Maximous
 		</td>
 		<td>No Company</td>
@@ -8624,7 +8626,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/TheLink1999">
 				<img src="https://avatars.githubusercontent.com/u/28709735?s=72&u=ef10fe6897ef81aaaec93a700d525ac87085c138&v=4" width="24" alt="Avatar of TheLink1999"> TheLink1999
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#TheLink1999">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -8637,7 +8639,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/AregGhazaryan">
 				<img src="https://avatars.githubusercontent.com/u/38076644?s=72&u=0c2c83037aba437c580dbaa27463ab7abca2de83&v=4" width="24" alt="Avatar of AregGhazaryan"> AregGhazaryan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#AregGhazaryan">Copy rank badge</a><br/>
 			Areg
 		</td>
 		<td>No Company</td>
@@ -8650,7 +8652,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/R-iskey">
 				<img src="https://avatars.githubusercontent.com/u/12074147?s=72&u=e90a4ee2d825bd16272b400c390b0f258b14e82a&v=4" width="24" alt="Avatar of R-iskey"> R-iskey
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#R-iskey">Copy rank badge</a><br/>
 			Robert
 		</td>
 		<td>No Company</td>
@@ -8663,7 +8665,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/imbaratov">
 				<img src="https://avatars.githubusercontent.com/u/8220720?s=72&u=ae426a76caec916e9f948649cf7b6b5536192155&v=4" width="24" alt="Avatar of imbaratov"> imbaratov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#imbaratov">Copy rank badge</a><br/>
 			Akram Baratov
 		</td>
 		<td>No Company</td>
@@ -8676,7 +8678,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/javierhol">
 				<img src="https://avatars.githubusercontent.com/u/89085980?s=72&u=510bf7f01ca46f15e24d657a4fc8cd2ae185981b&v=4" width="24" alt="Avatar of javierhol"> javierhol
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#javierhol">Copy rank badge</a><br/>
 			Javier Holguin
 		</td>
 		<td>Abbi </td>
@@ -8689,7 +8691,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/D0Ge3">
 				<img src="https://avatars.githubusercontent.com/u/36801043?s=72&u=c47aa58b7b5326be34d2aa87a7f2446679f2b2ef&v=4" width="24" alt="Avatar of D0Ge3"> D0Ge3
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#D0Ge3">Copy rank badge</a><br/>
 			Nikita Fedorov
 		</td>
 		<td>No Company</td>
@@ -8702,7 +8704,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/sarkis1231">
 				<img src="https://avatars.githubusercontent.com/u/43452487?s=72&u=17170ac45a25b451826e1cc93b936a95678c44aa&v=4" width="24" alt="Avatar of sarkis1231"> sarkis1231
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#sarkis1231">Copy rank badge</a><br/>
 			Sarkis Kozanoghli
 		</td>
 		<td>No Company</td>
@@ -8715,7 +8717,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Narek-sahakyan">
 				<img src="https://avatars.githubusercontent.com/u/6561297?s=72&u=d84f8ecf5d1f317c94e60c22a042b972316541ba&v=4" width="24" alt="Avatar of Narek-sahakyan"> Narek-sahakyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Narek-sahakyan">Copy rank badge</a><br/>
 			Narek
 		</td>
 		<td>No Company</td>
@@ -8728,7 +8730,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/yuri-kulikov">
 				<img src="https://avatars.githubusercontent.com/u/42337914?s=72&u=612ae071c8c87fd75ecd2871fba249f361c3ca23&v=4" width="24" alt="Avatar of yuri-kulikov"> yuri-kulikov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#yuri-kulikov">Copy rank badge</a><br/>
 			Yuri Kulikov
 		</td>
 		<td>No Company</td>
@@ -8741,7 +8743,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/khachikkar">
 				<img src="https://avatars.githubusercontent.com/u/79409421?s=72&u=e66c7942fa4c1d4f4ea02c780f51436551469985&v=4" width="24" alt="Avatar of khachikkar"> khachikkar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#khachikkar">Copy rank badge</a><br/>
 			Khach Karapetyan
 		</td>
 		<td>Picsart </td>
@@ -8754,7 +8756,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/jellycattime">
 				<img src="https://avatars.githubusercontent.com/u/107067462?s=72&u=bcc90d271e68f2f0117eda7e60c100c42448a5f8&v=4" width="24" alt="Avatar of jellycattime"> jellycattime
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#jellycattime">Copy rank badge</a><br/>
 			Maxim Ananin
 		</td>
 		<td>No Company</td>
@@ -8767,7 +8769,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/OneAdder">
 				<img src="https://avatars.githubusercontent.com/u/19834976?s=72&u=e427d828ce9280b71511b14ad6319ea17456811c&v=4" width="24" alt="Avatar of OneAdder"> OneAdder
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#OneAdder">Copy rank badge</a><br/>
 			Michael Voronov
 		</td>
 		<td>No Company</td>
@@ -8780,7 +8782,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/realhood">
 				<img src="https://avatars.githubusercontent.com/u/5106875?s=72&u=738e6c655e562f0dcb233fdc62723686c4b791a7&v=4" width="24" alt="Avatar of realhood"> realhood
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#realhood">Copy rank badge</a><br/>
 			Reza Aleyasin
 		</td>
 		<td>No Company</td>
@@ -8793,7 +8795,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/ar53n">
 				<img src="https://avatars.githubusercontent.com/u/7085102?s=72&u=419e18462e1274f206759461f6c6e86074254529&v=4" width="24" alt="Avatar of ar53n"> ar53n
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#ar53n">Copy rank badge</a><br/>
 			Arsen
 		</td>
 		<td>No Company</td>
@@ -8806,7 +8808,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/narekcat">
 				<img src="https://avatars.githubusercontent.com/u/11549629?s=72&u=2f898da71512b692f43565ef2524490624bc5e1f&v=4" width="24" alt="Avatar of narekcat"> narekcat
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#narekcat">Copy rank badge</a><br/>
 			narekvar90
 		</td>
 		<td>No Company</td>
@@ -8819,7 +8821,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/TGrigor">
 				<img src="https://avatars.githubusercontent.com/u/20052422?s=72&u=8dd61f6f494ccc9222bd7750e4113e10f60222e6&v=4" width="24" alt="Avatar of TGrigor"> TGrigor
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#TGrigor">Copy rank badge</a><br/>
 			Grigor Temejikyan
 		</td>
 		<td>Servicetitan </td>
@@ -8832,7 +8834,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/kmanaseryan">
 				<img src="https://avatars.githubusercontent.com/u/3371013?s=72&u=106001281c8e57356f897abea10e1f5b407c07ae&v=4" width="24" alt="Avatar of kmanaseryan"> kmanaseryan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#kmanaseryan">Copy rank badge</a><br/>
 			Karlen Manaseryan
 		</td>
 		<td>No Company</td>
@@ -8845,7 +8847,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/karenxpn">
 				<img src="https://avatars.githubusercontent.com/u/46112191?s=72&u=d1320ed7c4c10508884e0ad223d5799c20fd993d&v=4" width="24" alt="Avatar of karenxpn"> karenxpn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#karenxpn">Copy rank badge</a><br/>
 			Karen Mirakyan
 		</td>
 		<td>Https://profound.aca </td>
@@ -8858,7 +8860,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/TekVanDo">
 				<img src="https://avatars.githubusercontent.com/u/2690801?s=72&u=7997ea981c87be5ae31f5ac6927d9ddef750f113&v=4" width="24" alt="Avatar of TekVanDo"> TekVanDo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#TekVanDo">Copy rank badge</a><br/>
 			Alexander Strochkov
 		</td>
 		<td>Armenia </td>
@@ -8871,7 +8873,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/levonyan021">
 				<img src="https://avatars.githubusercontent.com/u/91488401?s=72&u=837f72d8a39a8da2d07bbe0cb63fa44b09b04dcb&v=4" width="24" alt="Avatar of levonyan021"> levonyan021
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#levonyan021">Copy rank badge</a><br/>
 			Erik Levonyan
 		</td>
 		<td>Dreamcode Llc </td>
@@ -8884,7 +8886,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/grigoryanhrant">
 				<img src="https://avatars.githubusercontent.com/u/73654151?s=72&u=66a75f639e4640d9b9be56dbbbc427ff4457b7cf&v=4" width="24" alt="Avatar of grigoryanhrant"> grigoryanhrant
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#grigoryanhrant">Copy rank badge</a><br/>
 			Hrant Grigoryan
 		</td>
 		<td>@digital-biz-factory </td>
@@ -8897,7 +8899,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/krglkvrmn">
 				<img src="https://avatars.githubusercontent.com/u/48160953?s=72&u=a6c76e3d2cc76c5ecfb2267ae75cb43c01a974f3&v=4" width="24" alt="Avatar of krglkvrmn"> krglkvrmn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#krglkvrmn">Copy rank badge</a><br/>
 			Roman Kruglikov
 		</td>
 		<td>Boston Gene </td>
@@ -8910,7 +8912,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/ValerDev">
 				<img src="https://avatars.githubusercontent.com/u/50718596?s=72&u=5908d0a5dd299cc4d89cbfe671ea63e00310bc82&v=4" width="24" alt="Avatar of ValerDev"> ValerDev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#ValerDev">Copy rank badge</a><br/>
 			Valer
 		</td>
 		<td>Insorce </td>
@@ -8923,7 +8925,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Mampacuk">
 				<img src="https://avatars.githubusercontent.com/u/43782748?s=72&u=42b4bd80d58b4a7ef6b6404079eed75f1fae48bc&v=4" width="24" alt="Avatar of Mampacuk"> Mampacuk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Mampacuk">Copy rank badge</a><br/>
 			Alexander Israelyan
 		</td>
 		<td>Align Technology </td>
@@ -8936,7 +8938,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/davitpapikyan">
 				<img src="https://avatars.githubusercontent.com/u/69382741?s=72&u=c64b070175d615f71eab1d4a0a56650a7df3cea3&v=4" width="24" alt="Avatar of davitpapikyan"> davitpapikyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#davitpapikyan">Copy rank badge</a><br/>
 			Davit Papikyan
 		</td>
 		<td>No Company</td>
@@ -8949,7 +8951,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/haykoaghababyan">
 				<img src="https://avatars.githubusercontent.com/u/44507921?s=72&u=1d10d7e3cb209fcd10570f6e26d5a2b3cffed049&v=4" width="24" alt="Avatar of haykoaghababyan"> haykoaghababyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#haykoaghababyan">Copy rank badge</a><br/>
 			Hayk Aghababyan
 		</td>
 		<td>M-one </td>
@@ -8962,7 +8964,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/d4rtnu11">
 				<img src="https://avatars.githubusercontent.com/u/13383291?s=72&u=83d60a7029528273fa7463bd9ac6e2269ee3f0ba&v=4" width="24" alt="Avatar of d4rtnu11"> d4rtnu11
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#d4rtnu11">Copy rank badge</a><br/>
 			Davit
 		</td>
 		<td>No Company</td>
@@ -8975,7 +8977,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/manoukyanmari">
 				<img src="https://avatars.githubusercontent.com/u/11922776?s=72&u=ba7efa8e946c0d545781e664730ad5411df043c4&v=4" width="24" alt="Avatar of manoukyanmari"> manoukyanmari
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#manoukyanmari">Copy rank badge</a><br/>
 			Mariam
 		</td>
 		<td>Ccx Inc. </td>
@@ -8988,7 +8990,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/HasmikSarg">
 				<img src="https://avatars.githubusercontent.com/u/165153641?s=72&u=50b81761f9d83d4ed209556995639339a172f498&v=4" width="24" alt="Avatar of HasmikSarg"> HasmikSarg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#HasmikSarg">Copy rank badge</a><br/>
 			Hasmik
 		</td>
 		<td>No Company</td>
@@ -9001,7 +9003,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Armen12345">
 				<img src="https://avatars.githubusercontent.com/u/122392528?s=72&v=4" width="24" alt="Avatar of Armen12345"> Armen12345
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Armen12345">Copy rank badge</a><br/>
 			Armen
 		</td>
 		<td>No Company</td>
@@ -9014,7 +9016,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/iggisv9t">
 				<img src="https://avatars.githubusercontent.com/u/19172517?s=72&u=02f30c8fecb898eff54a51c77d1b800431e4b1e5&v=4" width="24" alt="Avatar of iggisv9t"> iggisv9t
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#iggisv9t">Copy rank badge</a><br/>
 			Sviatoslav
 		</td>
 		<td>No Company</td>
@@ -9027,7 +9029,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/maximkoretskiy">
 				<img src="https://avatars.githubusercontent.com/u/2323027?s=72&u=1d375e7b40cd2ff9e95a6c8c2803c2b364e2ad42&v=4" width="24" alt="Avatar of maximkoretskiy"> maximkoretskiy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#maximkoretskiy">Copy rank badge</a><br/>
 			Maxim Koretskiy
 		</td>
 		<td>Hoodies </td>
@@ -9040,7 +9042,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/hsn0najafi">
 				<img src="https://avatars.githubusercontent.com/u/94124189?s=72&u=1f8c676907a04876dd633d792076b74f721bfbbc&v=4" width="24" alt="Avatar of hsn0najafi"> hsn0najafi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#hsn0najafi">Copy rank badge</a><br/>
 			Hossein N.
 		</td>
 		<td>Freelancer, Consultant, Self-employed. </td>
@@ -9053,7 +9055,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/iamrobertgrigoryan">
 				<img src="https://avatars.githubusercontent.com/u/81188198?s=72&u=a7f75144da0699e2b3b325845202df13566a041a&v=4" width="24" alt="Avatar of iamrobertgrigoryan"> iamrobertgrigoryan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#iamrobertgrigoryan">Copy rank badge</a><br/>
 			Robert
 		</td>
 		<td>Fusion Innovations </td>
@@ -9066,7 +9068,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Saneyan">
 				<img src="https://avatars.githubusercontent.com/u/1273247?s=72&u=98aa8dd82ec5c18af60b9f6281f9a31b6bc6af3d&v=4" width="24" alt="Avatar of Saneyan"> Saneyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Saneyan">Copy rank badge</a><br/>
 			Saneyuki Tadokoro
 		</td>
 		<td>No Company</td>
@@ -9079,7 +9081,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/aaronsarkissian">
 				<img src="https://avatars.githubusercontent.com/u/6067357?s=72&u=561ef9232a757e95cc8a8d81b8bdc8cfb531e904&v=4" width="24" alt="Avatar of aaronsarkissian"> aaronsarkissian
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#aaronsarkissian">Copy rank badge</a><br/>
 			Aaron Sarkissian
 		</td>
 		<td>No Company</td>
@@ -9092,7 +9094,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/djmelik">
 				<img src="https://avatars.githubusercontent.com/u/163707?s=72&v=4" width="24" alt="Avatar of djmelik"> djmelik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#djmelik">Copy rank badge</a><br/>
 			Melik Manukyan
 		</td>
 		<td>No Company</td>
@@ -9105,7 +9107,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/bbugaev">
 				<img src="https://avatars.githubusercontent.com/u/5569096?s=72&u=6df0154fd3a6e6ee58aaa7bde421a8fc14f2cb58&v=4" width="24" alt="Avatar of bbugaev"> bbugaev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#bbugaev">Copy rank badge</a><br/>
 			Bogdan Bugaev
 		</td>
 		<td>No Company</td>
@@ -9118,7 +9120,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/olnytim">
 				<img src="https://avatars.githubusercontent.com/u/107913030?s=72&u=42108e3423dd7d3870c6dc8a33564c34d0070013&v=4" width="24" alt="Avatar of olnytim"> olnytim
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#olnytim">Copy rank badge</a><br/>
 			Timur Galyautdinov
 		</td>
 		<td>No Company</td>
@@ -9131,7 +9133,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/probabylity">
 				<img src="https://avatars.githubusercontent.com/u/66207252?s=72&u=45086490c9749afd71150041339499b06636f439&v=4" width="24" alt="Avatar of probabylity"> probabylity
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#probabylity">Copy rank badge</a><br/>
 			Yatsenko Anton
 		</td>
 		<td>No Company</td>
@@ -9144,7 +9146,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/m-avagyan">
 				<img src="https://avatars.githubusercontent.com/u/67459902?s=72&u=1c2872f55dbd75771fb2ba0b7ede38e6e1377479&v=4" width="24" alt="Avatar of m-avagyan"> m-avagyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#m-avagyan">Copy rank badge</a><br/>
 			Martik Avagyan
 		</td>
 		<td>No Company</td>
@@ -9157,7 +9159,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/4u">
 				<img src="https://avatars.githubusercontent.com/u/304576?s=72&u=f5629e4724d672cdd82ce859df619f23db425b63&v=4" width="24" alt="Avatar of 4u"> 4u
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#4u">Copy rank badge</a><br/>
 			Max Nikitin
 		</td>
 		<td>No Company</td>
@@ -9170,7 +9172,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/svahiddavoodi">
 				<img src="https://avatars.githubusercontent.com/u/235908168?s=72&u=cb633d81c37708b7822d7078c09c2c1a3076347f&v=4" width="24" alt="Avatar of svahiddavoodi"> svahiddavoodi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#svahiddavoodi">Copy rank badge</a><br/>
 			Vahid Davoodi
 		</td>
 		<td>No Company</td>
@@ -9183,7 +9185,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/VaheStepanyan100">
 				<img src="https://avatars.githubusercontent.com/u/84347859?s=72&v=4" width="24" alt="Avatar of VaheStepanyan100"> VaheStepanyan100
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#VaheStepanyan100">Copy rank badge</a><br/>
 			Vahe
 		</td>
 		<td>Full-stack Developer </td>
@@ -9196,7 +9198,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/rationalex">
 				<img src="https://avatars.githubusercontent.com/u/8746137?s=72&u=9243b3dfb59f18e5f2904c43994e6c39841c75e2&v=4" width="24" alt="Avatar of rationalex"> rationalex
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#rationalex">Copy rank badge</a><br/>
 			Aleksandr Grishutin
 		</td>
 		<td>No Company</td>
@@ -9209,7 +9211,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/roubkar">
 				<img src="https://avatars.githubusercontent.com/u/9951653?s=72&u=7af255c39165b0e6e5039ac082014fd5b17a10f9&v=4" width="24" alt="Avatar of roubkar"> roubkar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#roubkar">Copy rank badge</a><br/>
 			Ruben Karapetyan
 		</td>
 		<td>@aimhubio  </td>
@@ -9222,7 +9224,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/vbarinov">
 				<img src="https://avatars.githubusercontent.com/u/1442435?s=72&u=0e91b904ebe7643986f1e269dcb652d5d7066a1b&v=4" width="24" alt="Avatar of vbarinov"> vbarinov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#vbarinov">Copy rank badge</a><br/>
 			Vlad Barinov
 		</td>
 		<td>No Company</td>
@@ -9235,7 +9237,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/armpogart">
 				<img src="https://avatars.githubusercontent.com/u/785768?s=72&u=3ac8e75a0711abb75a666680481dd4ebd6a84296&v=4" width="24" alt="Avatar of armpogart"> armpogart
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#armpogart">Copy rank badge</a><br/>
 			Arman Poghosyan
 		</td>
 		<td>No Company</td>
@@ -9248,7 +9250,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/skatanik">
 				<img src="https://avatars.githubusercontent.com/u/5685077?s=72&v=4" width="24" alt="Avatar of skatanik"> skatanik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#skatanik">Copy rank badge</a><br/>
 			Mikhail
 		</td>
 		<td>No Company</td>
@@ -9261,7 +9263,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/drewnoff">
 				<img src="https://avatars.githubusercontent.com/u/8407098?s=72&u=0a32a34a98e3bbecb7df2d45ccae9a79fa39c775&v=4" width="24" alt="Avatar of drewnoff"> drewnoff
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#drewnoff">Copy rank badge</a><br/>
 			Andrey Romanov
 		</td>
 		<td>@constructor-io </td>
@@ -9274,7 +9276,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Armen2030">
 				<img src="https://avatars.githubusercontent.com/u/105130867?s=72&u=deaa56a84be22b3cd7ad31e76f3e66e869e347f2&v=4" width="24" alt="Avatar of Armen2030"> Armen2030
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Armen2030">Copy rank badge</a><br/>
 			Armen
 		</td>
 		<td>No Company</td>
@@ -9287,7 +9289,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/lynchdiva">
 				<img src="https://avatars.githubusercontent.com/u/168530832?s=72&u=24463ca2ad4f54a5c3aab55b396054d0b4b2f821&v=4" width="24" alt="Avatar of lynchdiva"> lynchdiva
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#lynchdiva">Copy rank badge</a><br/>
 			Zinaida Surina
 		</td>
 		<td>Discovry </td>
@@ -9300,7 +9302,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/levongh">
 				<img src="https://avatars.githubusercontent.com/u/14893358?s=72&u=081f68598098068154b581cf1c8a608cb6f56d09&v=4" width="24" alt="Avatar of levongh"> levongh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#levongh">Copy rank badge</a><br/>
 			Levon Ghukasyan
 		</td>
 		<td>@activeloop </td>
@@ -9313,7 +9315,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/armendarabyan">
 				<img src="https://avatars.githubusercontent.com/u/1158455?s=72&v=4" width="24" alt="Avatar of armendarabyan"> armendarabyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#armendarabyan">Copy rank badge</a><br/>
 			Armen Darabyan
 		</td>
 		<td>Cretrix </td>
@@ -9326,7 +9328,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/gorros">
 				<img src="https://avatars.githubusercontent.com/u/10191638?s=72&u=4a5d52279b1ad2dbf8c0f70d61b635ac91dbda9c&v=4" width="24" alt="Avatar of gorros"> gorros
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#gorros">Copy rank badge</a><br/>
 			Gor Hayrapetyan
 		</td>
 		<td>No Company</td>
@@ -9339,7 +9341,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/OgArustamian">
 				<img src="https://avatars.githubusercontent.com/u/81315171?s=72&u=625805d329586eb514877989dbacd64426c7feb0&v=4" width="24" alt="Avatar of OgArustamian"> OgArustamian
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#OgArustamian">Copy rank badge</a><br/>
 			Ogannes Arustamian
 		</td>
 		<td>No Company</td>
@@ -9352,7 +9354,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/hakob-petro">
 				<img src="https://avatars.githubusercontent.com/u/55916687?s=72&u=73e7dc93936ac3878dc02351f2e180750bbb3470&v=4" width="24" alt="Avatar of hakob-petro"> hakob-petro
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#hakob-petro">Copy rank badge</a><br/>
 			Hakob Petrosyan
 		</td>
 		<td>No Company</td>
@@ -9365,7 +9367,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/ivirabyan">
 				<img src="https://avatars.githubusercontent.com/u/606402?s=72&v=4" width="24" alt="Avatar of ivirabyan"> ivirabyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#ivirabyan">Copy rank badge</a><br/>
 			Ivan Virabyan
 		</td>
 		<td>No Company</td>
@@ -9378,7 +9380,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/pouyan021">
 				<img src="https://avatars.githubusercontent.com/u/12967617?s=72&u=90b59237898354dd3084a017a7062882245d98c7&v=4" width="24" alt="Avatar of pouyan021"> pouyan021
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#pouyan021">Copy rank badge</a><br/>
 			Pouyan Khodabakhsh
 		</td>
 		<td>No Company</td>
@@ -9391,7 +9393,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/NellyGevorgyan">
 				<img src="https://avatars.githubusercontent.com/u/46553128?s=72&u=806182173f40f6bd07e3c08afbb6c9950210f565&v=4" width="24" alt="Avatar of NellyGevorgyan"> NellyGevorgyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#NellyGevorgyan">Copy rank badge</a><br/>
 			Nelly 
 		</td>
 		<td>Matchr </td>
@@ -9404,7 +9406,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Merujan99">
 				<img src="https://avatars.githubusercontent.com/u/4623322?s=72&u=38fa11548b9c2ac6345eb58b2d4116e441977ad8&v=4" width="24" alt="Avatar of Merujan99"> Merujan99
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Merujan99">Copy rank badge</a><br/>
 			Meruzhan Hovhannisyan
 		</td>
 		<td>No Company</td>
@@ -9417,7 +9419,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/blacky0x0">
 				<img src="https://avatars.githubusercontent.com/u/8340481?s=72&u=2f9fa46e0a9d867851fceb59425bec35ea5a4d21&v=4" width="24" alt="Avatar of blacky0x0"> blacky0x0
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#blacky0x0">Copy rank badge</a><br/>
 			Alexey Diushen
 		</td>
 		<td>No Company</td>
@@ -9430,7 +9432,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/zipchik19">
 				<img src="https://avatars.githubusercontent.com/u/108877449?s=72&u=c6dbf9d1eb460ef162a52dc4567592828b41d9b1&v=4" width="24" alt="Avatar of zipchik19"> zipchik19
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#zipchik19">Copy rank badge</a><br/>
 			Zina Harutyunyan
 		</td>
 		<td>No Company</td>
@@ -9443,7 +9445,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/edgaramirbekian">
 				<img src="https://avatars.githubusercontent.com/u/38843621?s=72&v=4" width="24" alt="Avatar of edgaramirbekian"> edgaramirbekian
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#edgaramirbekian">Copy rank badge</a><br/>
 			Edgar Amirbekyan
 		</td>
 		<td>No Company</td>
@@ -9456,7 +9458,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/daninoks">
 				<img src="https://avatars.githubusercontent.com/u/51907465?s=72&u=2f7dc7964b55363898add739ac50cf43d12d1d55&v=4" width="24" alt="Avatar of daninoks"> daninoks
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#daninoks">Copy rank badge</a><br/>
 			Danila
 		</td>
 		<td>No Company</td>
@@ -9469,7 +9471,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/andrevinsky">
 				<img src="https://avatars.githubusercontent.com/u/932990?s=72&v=4" width="24" alt="Avatar of andrevinsky"> andrevinsky
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#andrevinsky">Copy rank badge</a><br/>
 			Andrew Revinsky
 		</td>
 		<td>@dartandrevinsky @microservices-platf </td>
@@ -9482,7 +9484,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/TigranMets">
 				<img src="https://avatars.githubusercontent.com/u/82113374?s=72&u=db9eb6e0555b9d3d588c242a26dbe4d68ec6123d&v=4" width="24" alt="Avatar of TigranMets"> TigranMets
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#TigranMets">Copy rank badge</a><br/>
 			Tigran
 		</td>
 		<td>No Company</td>
@@ -9495,7 +9497,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/evergreenacorn">
 				<img src="https://avatars.githubusercontent.com/u/78857940?s=72&u=398a1fa14038473dbd780dfd673c836dd17b0ce2&v=4" width="24" alt="Avatar of evergreenacorn"> evergreenacorn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#evergreenacorn">Copy rank badge</a><br/>
 			eg_acorn
 		</td>
 		<td>No Company</td>
@@ -9508,7 +9510,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 		<td>
 			<a href="https://github.com/Artakhv">
 				<img src="https://avatars.githubusercontent.com/u/43038084?s=72&u=3746197b86da8d89989886e77b740f62032dd582&v=4" width="24" alt="Avatar of Artakhv"> Artakhv
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/armenia.md#Artakhv">Copy rank badge</a><br/>
 			Artak Hovhannisyan
 		</td>
 		<td>Applebrie - Front End<br/>Team<br/>Lead,<br/>Angular<br/>And<br/>React/nextjs<br/>Developer<br/></td>
@@ -9523,57 +9525,57 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 <table>
 	<tr>
 		<td>
-			<a href="https://web.facebook.com/sharer.php?t=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Armenia&u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/armenia.md&_rdc=1&_rdr">
+			<a href="https://web.facebook.com/sharer.php?t=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Armenia&u=https://github.com/aenawi/top-github-users/blob/main/markdown/public_contributions/armenia.md&_rdc=1&_rdr">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/facebook.svg" height="48" width="48" alt="Facebook"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://www.facebook.com/dialog/send?link=https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/armenia.md&app_id=291494419107518&redirect_uri=https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/armenia.md">
+			<a href="https://www.facebook.com/dialog/send?link=https://github.com/aenawi/top-github-users/blob/main/markdown/public_contributions/armenia.md&app_id=291494419107518&redirect_uri=https://github.com/aenawi/top-github-users/blob/main/markdown/public_contributions/armenia.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/facebook_messenger.svg" height="48" width="48" alt="Facebook Messenger"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://twitter.com/intent/tweet?text=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Armenia&url=https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/armenia.md">
+			<a href="https://twitter.com/intent/tweet?text=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Armenia&url=https://github.com/aenawi/top-github-users/blob/main/markdown/public_contributions/armenia.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/twitter.svg" height="48" width="48" alt="Twitter"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://web.whatsapp.com/send?text=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Armenia https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/armenia.md">
+			<a href="https://web.whatsapp.com/send?text=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Armenia https://github.com/aenawi/top-github-users/blob/main/markdown/public_contributions/armenia.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/whatsapp.svg" height="48" width="48" alt="WhatsApp"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://t.me/share/url?url=https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/armenia.md&text=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Armenia">
+			<a href="https://t.me/share/url?url=https://github.com/aenawi/top-github-users/blob/main/markdown/public_contributions/armenia.md&text=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Armenia">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/telegram.svg" height="48" width="48" alt="Telegram"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://www.linkedin.com/shareArticle?title=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Armenia&url=https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/armenia.md">
+			<a href="https://www.linkedin.com/shareArticle?title=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Armenia&url=https://github.com/aenawi/top-github-users/blob/main/markdown/public_contributions/armenia.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/linkedin.svg" height="48" width="48" alt="LinkedIn"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://vk.com/share.php?url=https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/armenia.md">
+			<a href="https://vk.com/share.php?url=https://github.com/aenawi/top-github-users/blob/main/markdown/public_contributions/armenia.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/vkontakte.svg" height="48" width="48" alt="Vkontakte"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://www.blogger.com/blog-this.g?n=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions%20by%20country&t=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Armenia&u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/armenia.md">
+			<a href="https://www.blogger.com/blog-this.g?n=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions%20by%20country&t=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Armenia&u=https://github.com/aenawi/top-github-users/blob/main/markdown/public_contributions/armenia.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/blogger.svg" height="48" width="48" alt="Blogger"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/armenia.md&t=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Armenia&s=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions%20by%20country&i=">
+			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/aenawi/top-github-users/blob/main/markdown/public_contributions/armenia.md&t=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Armenia&s=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions%20by%20country&i=">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/wordpress.svg" height="48" width="48" alt="Wordpress"/>
 			</a>
 		</td>
 		<td>
-			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Armenia&body=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions%20by%20country-https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/armenia.md">
+			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Armenia&body=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions%20by%20country-https://github.com/aenawi/top-github-users/blob/main/markdown/public_contributions/armenia.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/gmail.svg" height="48" width="48" alt="Email"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://www.reddit.com/submit?title=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Armenia&url=https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/armenia.md">
+			<a href="https://www.reddit.com/submit?title=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Armenia&url=https://github.com/aenawi/top-github-users/blob/main/markdown/public_contributions/armenia.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/reddit.svg" height="48" width="48" alt="Reddit"/>
 			</a>
 		</td>
@@ -9587,7 +9589,7 @@ There are `956 users`  in Armenia. You need at least `9 followers` to be on this
 - [simple-git](https://www.npmjs.com/package/simple-git) - Handling Git commands.
 ## 📄 License
 
-- GitHub Action - [gayanvoice/top-github-users-action](https://github.com/gayanvoice/top-github-users-action)
-- Repository - [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users)
+- GitHub Action - [aenawi/top-github-users-action](https://github.com/aenawi/top-github-users-action)
+- Repository - [aenawi/top-github-users](https://github.com/aenawi/top-github-users)
 - Data in the `./cache` directory - [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
 - Code - [MIT](./LICENSE) © [Gayan Kuruppu](https://github.com/gayanvoice)
