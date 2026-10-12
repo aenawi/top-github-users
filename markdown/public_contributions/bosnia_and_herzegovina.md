@@ -5,11 +5,13 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg" alt="Bosnia And Herzegovina">
 </a>
 
-The `public contributions` by users in Bosnia And Herzegovina on `2026/8/4 2:25 AM UTC`. This list contains users from `Bosnia And Herzegovina` and cities `Sarajevo` `Mostar` `Tuzla` `Zenica` `Brčko`.
+The `public contributions` by users in Bosnia And Herzegovina on `2026/10/12 4:25 AM UTC`. This list contains users from `Bosnia And Herzegovina` and cities `Sarajevo` `Mostar` `Tuzla` `Zenica` `Brčko`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/aenawi/top-github-users).
 
 There are `35 users`  in Bosnia And Herzegovina. You need at least `0 followers` to be on this list.
+
+🏅 Looking for a shareable ranking badge? Visit the [Bosnia And Herzegovina GitHub user ranking page](https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bosnia_and_herzegovina.md) to view the country rankings and copy the ready-made badge snippet for your GitHub profile or README.
 
 <table>
 	<tr>
@@ -109,7 +111,7 @@ There are `35 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>
 			<a href="https://github.com/Nbc66">
 				<img src="https://avatars.githubusercontent.com/u/34843947?s=72&u=c15e9f688ab4865655e235bba8691156719a5f1a&v=4" width="24" alt="Avatar of Nbc66"> Nbc66
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bosnia_and_herzegovina.md#Nbc66">Copy rank badge</a><br/>
 			Kerim Čamdžić
 		</td>
 		<td>No Company</td>
@@ -122,7 +124,7 @@ There are `35 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>
 			<a href="https://github.com/SenadAlagic">
 				<img src="https://avatars.githubusercontent.com/u/72402224?s=72&u=6b220bda9da04cecc8adf68bc983e5b81f4717ad&v=4" width="24" alt="Avatar of SenadAlagic"> SenadAlagic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bosnia_and_herzegovina.md#SenadAlagic">Copy rank badge</a><br/>
 			Alagić Senad
 		</td>
 		<td>No Company</td>
@@ -135,7 +137,7 @@ There are `35 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>
 			<a href="https://github.com/alde23">
 				<img src="https://avatars.githubusercontent.com/u/150618433?s=72&v=4" width="24" alt="Avatar of alde23"> alde23
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bosnia_and_herzegovina.md#alde23">Copy rank badge</a><br/>
 			Ali Dervovic
 		</td>
 		<td>No Company</td>
@@ -148,7 +150,7 @@ There are `35 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>
 			<a href="https://github.com/nedim-basic">
 				<img src="https://avatars.githubusercontent.com/u/117400053?s=72&v=4" width="24" alt="Avatar of nedim-basic"> nedim-basic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bosnia_and_herzegovina.md#nedim-basic">Copy rank badge</a><br/>
 			NedimBašić
 		</td>
 		<td>No Company</td>
@@ -161,7 +163,7 @@ There are `35 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>
 			<a href="https://github.com/adosalkanovicc">
 				<img src="https://avatars.githubusercontent.com/u/60065307?s=72&u=ddb8946537ba8be16aa63a139c9e82a69667beeb&v=4" width="24" alt="Avatar of adosalkanovicc"> adosalkanovicc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bosnia_and_herzegovina.md#adosalkanovicc">Copy rank badge</a><br/>
 			Admir 
 		</td>
 		<td>No Company</td>
@@ -174,7 +176,7 @@ There are `35 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>
 			<a href="https://github.com/adnanh">
 				<img src="https://avatars.githubusercontent.com/u/82367?s=72&u=d8460b1a01895dc3d11e0b0fcc8d0d1fd58e67ab&v=4" width="24" alt="Avatar of adnanh"> adnanh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bosnia_and_herzegovina.md#adnanh">Copy rank badge</a><br/>
 			Adnan Hajdarević
 		</td>
 		<td>No Company</td>
@@ -187,7 +189,7 @@ There are `35 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>
 			<a href="https://github.com/KerimZuna">
 				<img src="https://avatars.githubusercontent.com/u/85747649?s=72&u=10812e1cbd48e524b87870d0bd62fa8d69643964&v=4" width="24" alt="Avatar of KerimZuna"> KerimZuna
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bosnia_and_herzegovina.md#KerimZuna">Copy rank badge</a><br/>
 			Kerim Žuna
 		</td>
 		<td>Bitsync D.o.o. </td>
@@ -200,7 +202,7 @@ There are `35 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>
 			<a href="https://github.com/arminimamovic99">
 				<img src="https://avatars.githubusercontent.com/u/46347302?s=72&u=93601f5cf88d181d9f3a64675b897ad79411423b&v=4" width="24" alt="Avatar of arminimamovic99"> arminimamovic99
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bosnia_and_herzegovina.md#arminimamovic99">Copy rank badge</a><br/>
 			Armin Imamovic
 		</td>
 		<td>Knowl Solutions </td>
@@ -213,7 +215,7 @@ There are `35 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>
 			<a href="https://github.com/MirzaMedar">
 				<img src="https://avatars.githubusercontent.com/u/23072261?s=72&u=a278c5bd0c312d12f384de537edbe2c69b7f0b25&v=4" width="24" alt="Avatar of MirzaMedar"> MirzaMedar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bosnia_and_herzegovina.md#MirzaMedar">Copy rank badge</a><br/>
 			Mirza Medar
 		</td>
 		<td>No Company</td>
@@ -226,7 +228,7 @@ There are `35 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>
 			<a href="https://github.com/stefan-aqvc">
 				<img src="https://avatars.githubusercontent.com/u/203979907?s=72&u=25fab7512d4997097350a56eb14e33342f60b57d&v=4" width="24" alt="Avatar of stefan-aqvc"> stefan-aqvc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bosnia_and_herzegovina.md#stefan-aqvc">Copy rank badge</a><br/>
 			Stefan Stanić
 		</td>
 		<td>Aqvc </td>
